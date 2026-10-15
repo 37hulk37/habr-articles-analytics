@@ -18,8 +18,7 @@ This is a Spring Batch application (Java 21, Spring Boot 3.5) that consumes GitH
 
 `BatchConfiguration` wires two independent Spring Batch jobs, both reading from the same Kafka topic (`app.kafka.consumer.topic`) but with different consumer group IDs (`KafkaConfiguration`), so each job gets its own copy of every message:
 
-- **`repositoryMetricsJob`** (`repositoryStep`, chunk size 100): reads `Repository` from Kafka via `repositoryKafkaReader` (consumer group `repository-step-group`) and fans each chunk out to a `CompositeItemWriter` whose delegates are every `ItemWriter<? super Repository>` bean in the context — currently the writers under `repository/{collaborators,commits,language,supportduration}`, each pairing an Elasticsearch repository with a writer that extends `AbstractItemWriter`.
-- **`repositoryMlJob`** (`mlStep`, chunk size 25): reads the same topic via `repositoryMlReader` (consumer group `ml-step-group`), runs each `Repository` through `MlRepositoryProcessor` (an `ItemProcessor` that calls `MlModel.predict` on a virtual-thread executor and returns a `CompletableFuture<MlMetrics>`), then writes with an `ItemWriter<CompletableFuture<MlMetrics>>` built from `ml/popularity` and `ml/purpose` writers, which extend `AbstractCompletableFutureItemWriter` to await all futures in the chunk (`CompletableFutureCollector.allOf()`) before writing the resolved values to Elasticsearch.
+- **`articleJob`** (`articleStep`, chunk size 100): reads `Articles` from directory
 
 Both steps use `.readerIsTransactionalQueue()` and `.faultTolerant()` since the reader is a Kafka queue, not a resumable datastore.
 
@@ -30,10 +29,6 @@ Both steps use `.readerIsTransactionalQueue()` and `.faultTolerant()` since the 
 ### Writer pattern
 
 New Elasticsearch sinks follow a fixed shape: an `ElasticsearchRepository<Document, UUID>` + an `ItemWriter` that extends either `AbstractItemWriter` (plain `Repository` input, like the metrics writers) or `AbstractCompletableFutureItemWriter` (futures-based input, like the ML writers), passing a `Function<V, D>` mapper and the Elasticsearch repository into the inherited `write(...)`. Document model classes live in `model/`.
-
-### ML model lifecycle
-
-`MlModel` wraps a TensorFlow 1.15 (`org.tensorflow:tensorflow`) graph. `GithubModel` (bound in `MlConfiguration`) loads a model named `"model"` and uses `RepositoryFeatureConvertor` to turn a `Repository` into model input features; `MlRepositoryProcessor` owns the model's lifecycle and must `close()` it (and its own executor) on shutdown, since `AutoCloseable` isn't wired to anything automatically — check how/where this processor gets closed before assuming it happens for free.
 
 ### Persistence
 

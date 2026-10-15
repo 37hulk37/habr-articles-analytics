@@ -15,18 +15,12 @@ spring:
   batch:
     jdbc:
       initialize-schema: never
-  kafka:
-    bootstrap-servers: //todo
-    consumer:
-      bootstrap-servers: localhost:9092
-      key-deserializer: org.apache.kafka.common.serialization.LongDeserializer
-      value-deserializer: org.springframework.kafka.support.serializer.JsonDeserializer
-      properties:
-        spring.json.trusted.packages: '*'
-
 
 app:
-  kafka:
-    consumer:
-      topic: repositories
+  directory:
+    source-pattern: file:../parser/data/*.json
+    output-directory: data/output
+  batch:
+    partition-concurrency-limit: 8
+    retry-limit: 3
 
