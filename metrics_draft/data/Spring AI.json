@@ -1,0 +1,3951 @@
+[
+  {
+    "id": "784128",
+    "url": "https://habr.com/ru/articles/784128/",
+    "timePublished": "2023-12-30T14:34:30+00:00",
+    "postType": "article",
+    "title": "ChatGPT на Java. Пишем «Hello World» на Spring AI",
+    "lead": "В преддверии Нового Года, начинаем осваивать генеративные сети с помощью привычного всем Java разработчикам фреймворка Spring. Несколько месяцев назад в Spring добавили модуль AI, который упрощает работу с нейронками от OpenAI и Azure.Давайте же напишем первое приложение с новым модулем!",
+    "statistics": {
+      "commentsCount": 9,
+      "favoritesCount": 88,
+      "readingCount": 22808,
+      "score": 8,
+      "votesCount": 13,
+      "votesCountPlus": 9,
+      "votesCountMinus": 4,
+      "reach": 26074,
+      "readers": 26021
+    },
+    "hubs": [
+      {
+        "id": "375",
+        "alias": "java",
+        "title": "Java"
+      }
+    ],
+    "tags": [
+      "java",
+      "spring",
+      "openai",
+      "chatgpt",
+      "spring ai"
+    ],
+    "matchedTokens": [
+      "Spring",
+      "AI"
+    ]
+  },
+  {
+    "id": "796855",
+    "url": "https://habr.com/ru/articles/796855/",
+    "timePublished": "2024-02-28T09:20:46+00:00",
+    "postType": "article",
+    "title": "Интегрируем Kotlin сервис с AI чат-ботом с помощью Spring AI за 5 минут",
+    "lead": "Чат-боты с генеративным искусственным интеллектом получили широкую известность после релиза ChatGPT в ноябре 2022 года. Сейчас вряд ли найдётся человек, который не слышал про данный инструмент от OpenAI. Именно он вызвал настоящий бум в данной сфере, вынудив конкурентов разрабатывать свои аналоги, чтобы побороться за место на рынке. Таким образом созданная лавина изменений затронула многие языки программирования. Не обошли они и Java-сообщество. Spring Framework, один из наиболее популярных Java фреймворков обзавёлся модулем Spring AI, который обещает упростить разработку приложений с функциями ИИ. Давайте вместе взглянем на него в деле и опробуем на демо проекте. В данном гайде мы создадим и подключим Kotlin сервис к чат-боту всего за пять минут, используя Spring AI!",
+    "statistics": {
+      "commentsCount": 0,
+      "favoritesCount": 25,
+      "readingCount": 4027,
+      "score": 1,
+      "votesCount": 1,
+      "votesCountPlus": 1,
+      "votesCountMinus": 0,
+      "reach": 4694,
+      "readers": 4662
+    },
+    "hubs": [
+      {
+        "id": "19441",
+        "alias": "kotlin",
+        "title": "Kotlin"
+      }
+    ],
+    "tags": [
+      "spring",
+      "ai",
+      "kotlin",
+      "ollama"
+    ],
+    "matchedTokens": [
+      "Spring",
+      "AI"
+    ]
+  },
+  {
+    "id": "814713",
+    "url": "https://habr.com/ru/articles/814713/",
+    "timePublished": "2024-05-16T06:30:39+00:00",
+    "postType": "article",
+    "title": "Spring AI: оптимизация разработки AI-приложений с помощью Java и AI API",
+    "lead": "Во всём мире сейчас наблюдается ажиотаж вокруг темы искусственного интеллекта и разработки приложений с его использованием. Многие стремятся внедрить искусственный интеллект в свои продукты и воспользоваться всеми его преимуществами. Поэтому сообщество Spring создало модуль 'Spring AI' для упрощения интеграции AI API в приложения Spring. Spring AI — это молодой проект, призванный упростить для разработчиков интеграцию функций искусственного интеллекта в приложения Spring. И он достигает этой цели, предлагая набор абстракций и инструментов, которые упрощают взаимодействие с такими ИИ-моделями, как OpenAI и Azure OpenAI.",
+    "statistics": {
+      "commentsCount": 0,
+      "favoritesCount": 29,
+      "readingCount": 4997,
+      "score": 14,
+      "votesCount": 10,
+      "votesCountPlus": 10,
+      "votesCountMinus": 0,
+      "reach": 6242,
+      "readers": 6207
+    },
+    "hubs": [
+      {
+        "id": "21052",
+        "alias": "otus",
+        "title": "Блог компании OTUS"
+      },
+      {
+        "id": "375",
+        "alias": "java",
+        "title": "Java"
+      }
+    ],
+    "tags": [
+      "spring",
+      "ai spring",
+      "ai api"
+    ],
+    "matchedTokens": [
+      "Spring",
+      "AI"
+    ]
+  },
+  {
+    "id": "848016",
+    "url": "https://habr.com/ru/articles/848016/",
+    "timePublished": "2024-10-04T09:18:05+00:00",
+    "postType": "article",
+    "title": "AI-ассистент со Spring AI (Часть I)",
+    "lead": "В новом переводе от команды Spring АйО показан процесс интеграции AI в немалоизвестное приложение Spring Petclinic. В статье автор пошагово делится своим опытом внедрения Spring AI, чтобы сделать приложение более интерактивным.",
+    "statistics": {
+      "commentsCount": 1,
+      "favoritesCount": 49,
+      "readingCount": 12893,
+      "score": 12,
+      "votesCount": 10,
+      "votesCountPlus": 10,
+      "votesCountMinus": 0,
+      "reach": 16937,
+      "readers": 16848
+    },
+    "hubs": [
+      {
+        "id": "23393",
+        "alias": "spring_aio",
+        "title": "Блог компании Spring АйО"
+      },
+      {
+        "id": "375",
+        "alias": "java",
+        "title": "Java"
+      },
+      {
+        "id": "19441",
+        "alias": "kotlin",
+        "title": "Kotlin"
+      },
+      {
+        "id": "359",
+        "alias": "programming",
+        "title": "Программирование"
+      }
+    ],
+    "tags": [
+      "java",
+      "spring",
+      "ai",
+      "spring framework",
+      "jpa",
+      "kotlin",
+      "spring boot",
+      "spring-boot"
+    ],
+    "matchedTokens": [
+      "Spring",
+      "AI"
+    ]
+  },
+  {
+    "id": "869080",
+    "url": "https://habr.com/ru/articles/869080/",
+    "timePublished": "2024-12-23T16:17:03+00:00",
+    "postType": "article",
+    "title": "AI-ассистент с помощью Spring AI",
+    "lead": "Команда Spring АйО перевела туториал, в котором рассматриваются возможности Spring AI для интеграции с LLM.Вы узнаете, как использовать API Function Calling для выполнения задач на естественном языке, генерировать ответы в JSON-формате и сохранять контекст диалога.",
+    "statistics": {
+      "commentsCount": 0,
+      "favoritesCount": 33,
+      "readingCount": 10310,
+      "score": 5,
+      "votesCount": 5,
+      "votesCountPlus": 5,
+      "votesCountMinus": 0,
+      "reach": 12005,
+      "readers": 11949
+    },
+    "hubs": [
+      {
+        "id": "23393",
+        "alias": "spring_aio",
+        "title": "Блог компании Spring АйО"
+      },
+      {
+        "id": "359",
+        "alias": "programming",
+        "title": "Программирование"
+      },
+      {
+        "id": "375",
+        "alias": "java",
+        "title": "Java"
+      },
+      {
+        "id": "19441",
+        "alias": "kotlin",
+        "title": "Kotlin"
+      }
+    ],
+    "tags": [
+      "java",
+      "spring",
+      "ai",
+      "spring framework",
+      "kotlin",
+      "spring boot",
+      "spring ai"
+    ],
+    "matchedTokens": [
+      "Spring",
+      "AI"
+    ]
+  },
+  {
+    "id": "879286",
+    "url": "https://habr.com/ru/news/879286/",
+    "timePublished": "2025-02-04T08:12:23+00:00",
+    "postType": "news",
+    "title": "Кошки умнее СhatGPT / Никто не знает, что такое ООП / Агрессивные бобры | Spring АйО Подкаст №5",
+    "lead": "Представляем пятый выпуск подкаста команды Spring АйО.Эксперты собрались, чтобы обсудить ключевые события прошедшей недели. В центре внимания – влияние выхода DeepSeek на американский рынок, разработка эффективных агентов с помощью Spring AI, повышение надёжности Java, проблемы дефолтного значения JDBC Fetch Size и, конечно, свежий релиз IntelliJ IDEA 2025.1 EAP 3.",
+    "statistics": {
+      "commentsCount": 0,
+      "favoritesCount": 1,
+      "readingCount": 1102,
+      "score": 3,
+      "votesCount": 5,
+      "votesCountPlus": 4,
+      "votesCountMinus": 1,
+      "reach": 1768,
+      "readers": 1744
+    },
+    "hubs": [
+      {
+        "id": "23393",
+        "alias": "spring_aio",
+        "title": "Блог компании Spring АйО"
+      },
+      {
+        "id": "23232",
+        "alias": "txt_ide",
+        "title": "Текстовые редакторы и IDE"
+      },
+      {
+        "id": "19441",
+        "alias": "kotlin",
+        "title": "Kotlin"
+      },
+      {
+        "id": "375",
+        "alias": "java",
+        "title": "Java"
+      },
+      {
+        "id": "359",
+        "alias": "programming",
+        "title": "Программирование"
+      }
+    ],
+    "tags": [
+      "подкаст",
+      "ide",
+      "java",
+      "spring",
+      "spring framework",
+      "kotlin",
+      "spring data",
+      "spring boot",
+      "spring-boot"
+    ],
+    "matchedTokens": [
+      "Spring",
+      "AI"
+    ]
+  },
+  {
+    "id": "891908",
+    "url": "https://habr.com/ru/news/891908/",
+    "timePublished": "2025-03-18T10:41:44+00:00",
+    "postType": "news",
+    "title": "Терминал vs UI / Java медленная / Модальное окно коммита в IntelliJ | Spring АйО Подкаст №10",
+    "lead": "Представляем десятый выпуск подкаста команды Spring АйО.Эксперты обсудили: модальное окно коммита в IntelliJ IDEA, ModelContext протокол в Spring AI, JSpecify и NullAway, как эксперты следят за гигиеной внимания, поговорили про выбор между терминалом и UI.",
+    "statistics": {
+      "commentsCount": 0,
+      "favoritesCount": 2,
+      "readingCount": 954,
+      "score": 7,
+      "votesCount": 8,
+      "votesCountPlus": 7,
+      "votesCountMinus": 1,
+      "reach": 1597,
+      "readers": 1569
+    },
+    "hubs": [
+      {
+        "id": "23393",
+        "alias": "spring_aio",
+        "title": "Блог компании Spring АйО"
+      },
+      {
+        "id": "359",
+        "alias": "programming",
+        "title": "Программирование"
+      },
+      {
+        "id": "375",
+        "alias": "java",
+        "title": "Java"
+      },
+      {
+        "id": "19441",
+        "alias": "kotlin",
+        "title": "Kotlin"
+      }
+    ],
+    "tags": [
+      "ide",
+      "java",
+      "spring",
+      "ai",
+      "git",
+      "spring framework",
+      "kotlin",
+      "spring boot"
+    ],
+    "matchedTokens": [
+      "Spring",
+      "AI"
+    ]
+  },
+  {
+    "id": "924100",
+    "url": "https://habr.com/ru/articles/924100/",
+    "timePublished": "2025-08-28T14:29:05+00:00",
+    "postType": "article",
+    "title": "RAG и векторные БД: НЕ Сизифов LLM на Java и Spring Ai",
+    "lead": "Привет! Меня зовут Бромбин Андрей, и сегодня я разберу на практике, что такое RAG-системы и как они помогают улучшать поиск. Покажу, как использовать Spring AI, векторные базы данных и LLM. Ты получишь теорию и пример реализации на Java и Spring Boot – от идеи до работающего сервиса. Без сложных формул – только чёткие объяснения и код.",
+    "statistics": {
+      "commentsCount": 25,
+      "favoritesCount": 171,
+      "readingCount": 21538,
+      "score": 84,
+      "votesCount": 61,
+      "votesCountPlus": 61,
+      "votesCountMinus": 0,
+      "reach": 34332,
+      "readers": 23000
+    },
+    "hubs": [
+      {
+        "id": "19791",
+        "alias": "ruvds",
+        "title": "Блог компании RUVDS.com"
+      },
+      {
+        "id": "19439",
+        "alias": "machine_learning",
+        "title": "Машинное обучение"
+      },
+      {
+        "id": "21922",
+        "alias": "artificial_intelligence",
+        "title": "Искусственный интеллект"
+      },
+      {
+        "id": "397",
+        "alias": "analysis_design",
+        "title": "Анализ и проектирование систем"
+      },
+      {
+        "id": "375",
+        "alias": "java",
+        "title": "Java"
+      }
+    ],
+    "tags": [
+      "java",
+      "python",
+      "исскуственный интеллект",
+      "ruvds_статьи",
+      "large language model",
+      "retrieval augmented generation",
+      "spring ai",
+      "qdrant",
+      "vector database",
+      "космотекст"
+    ],
+    "matchedTokens": [
+      "Spring",
+      "AI"
+    ]
+  },
+  {
+    "id": "927978",
+    "url": "https://habr.com/ru/news/927978/",
+    "timePublished": "2025-07-15T14:00:08+00:00",
+    "postType": "news",
+    "title": "Spring сдаёт позиции, Hibernate под угрозой, AI-агенты захватывают Россию | Spring АйО Подкаст №26",
+    "lead": "Представляем двадцать шестой выпуск подкаста команды Spring АйО, в котором приняли участие четыре эксперта сообщества.Эксперты обсудили: адаптацию AI в России и примеры использования, архитектуру и управление AI-агентами, будущее Spring и Hibernate и многое другое.",
+    "statistics": {
+      "commentsCount": 4,
+      "favoritesCount": 5,
+      "readingCount": 4083,
+      "score": -19,
+      "votesCount": 28,
+      "votesCountPlus": 4,
+      "votesCountMinus": 24,
+      "reach": 6863,
+      "readers": 6791
+    },
+    "hubs": [
+      {
+        "id": "23393",
+        "alias": "spring_aio",
+        "title": "Блог компании Spring АйО"
+      },
+      {
+        "id": "359",
+        "alias": "programming",
+        "title": "Программирование"
+      },
+      {
+        "id": "375",
+        "alias": "java",
+        "title": "Java"
+      },
+      {
+        "id": "19441",
+        "alias": "kotlin",
+        "title": "Kotlin"
+      }
+    ],
+    "tags": [
+      "java",
+      "spring",
+      "ai",
+      "hibernate",
+      "spring framework",
+      "kotlin",
+      "spring boot",
+      "hibernate orm",
+      "spring-boot"
+    ],
+    "matchedTokens": [
+      "Spring",
+      "AI"
+    ]
+  },
+  {
+    "id": "948448",
+    "url": "https://habr.com/ru/articles/948448/",
+    "timePublished": "2025-10-09T13:03:43+00:00",
+    "postType": "article",
+    "title": "Как Java Boys победили в ИИ-хакатоне МТС True Tech Hack 2025 с проектом на Spring AI и ChatGPT",
+    "lead": "AI прямо сейчас наступает на пятки разработчикам. У кого-то это вызывает иронию, кому-то помогает писать код. Но как ни крути, LLM создали прецедент, который громко заявил о себе и продолжает широко шагать по миру, сотрясая заголовки новостей и видео.Меня зовут Рустам Курамшин, я работаю в IT более 10 лет, и мне как бэкенд-разработчику феномен LLM сначала казался больше игрой, чем реальным инструментом разработки. Все изменилось, когда я вырвался из проектов, предоставляющих опосредованный доступ к сервисам известных языковых моделей, и начал пользоваться официальными сервисами. Последние пару лет я активно использую ChatGPT для обучения, разработки и просто чтобы пообщаться о жизни.А еще LLM помогает мне и моей хакатонной команде Java Boys уверенно побеждать на хакатонах. Опытом нужно делиться, так что ловите историю одной из наших побед. Расскажу, как мы с моими тиммейтами разработали AI-агента на Spring AI и API ChatGPT и выиграли полмиллиона на хакатоне МТС True Tech Hack 2025.",
+    "statistics": {
+      "commentsCount": 5,
+      "favoritesCount": 15,
+      "readingCount": 3066,
+      "score": 24,
+      "votesCount": 20,
+      "votesCountPlus": 18,
+      "votesCountMinus": 2,
+      "reach": 7397,
+      "readers": 1889
+    },
+    "hubs": [
+      {
+        "id": "20822",
+        "alias": "ru_mts",
+        "title": "Блог компании МТС"
+      },
+      {
+        "id": "375",
+        "alias": "java",
+        "title": "Java"
+      },
+      {
+        "id": "19275",
+        "alias": "hackathons",
+        "title": "Хакатоны"
+      },
+      {
+        "id": "21922",
+        "alias": "artificial_intelligence",
+        "title": "Искусственный интеллект"
+      }
+    ],
+    "tags": [
+      "java",
+      "искусственный интеллект",
+      "kotlin",
+      "spring boot",
+      "хакатоны",
+      "llm",
+      "spring ai"
+    ],
+    "matchedTokens": [
+      "Spring",
+      "AI"
+    ]
+  },
+  {
+    "id": "955060",
+    "url": "https://habr.com/ru/articles/955060/",
+    "timePublished": "2025-10-09T13:35:40+00:00",
+    "postType": "article",
+    "title": "Защита MCP серверов со Spring AI",
+    "lead": "Протокол Model Context Protocol (MCP) стремительно развивается, и вопросы его безопасности становятся всё актуальнее. Чтобы упростить реализацию защиты MCP-серверов в проектах на Spring AI, был запущен инкубационный проект spring-ai-community/mcp-security. В новом переводе от команды Spring АйО рассмотрим, как защитить MCP-сервер с помощью OAuth2 или API-ключей, а также как развернуть собственный MCP-совместимый Spring Authorization Server.",
+    "statistics": {
+      "commentsCount": 1,
+      "favoritesCount": 23,
+      "readingCount": 2899,
+      "score": 2,
+      "votesCount": 1,
+      "votesCountPlus": 1,
+      "votesCountMinus": 0,
+      "reach": 7117,
+      "readers": 1472
+    },
+    "hubs": [
+      {
+        "id": "23393",
+        "alias": "spring_aio",
+        "title": "Блог компании Spring АйО"
+      },
+      {
+        "id": "359",
+        "alias": "programming",
+        "title": "Программирование"
+      },
+      {
+        "id": "375",
+        "alias": "java",
+        "title": "Java"
+      },
+      {
+        "id": "19441",
+        "alias": "kotlin",
+        "title": "Kotlin"
+      }
+    ],
+    "tags": [
+      "java",
+      "spring",
+      "mcp",
+      "spring security",
+      "kotlin",
+      "mcp server",
+      "mcp-server"
+    ],
+    "matchedTokens": [
+      "Spring",
+      "AI"
+    ]
+  },
+  {
+    "id": "1008934",
+    "url": "https://habr.com/ru/news/1008934/",
+    "timePublished": "2026-03-11T08:20:34+00:00",
+    "postType": "news",
+    "title": "Copyright умер, AI против GPL, модели консистентности | Spring АйО Подкаст №54",
+    "lead": "Представляем пятьдесят четвертый выпуск подкаста команды Spring АйО.Эксперты обсудили: какие вообще бывают сети в теории распределённых систем, насколько модели согласованности нужны на практике, что такое часы Лампорта и зачем они нужны, почему копирайт больше не защищает код как раньше и многое другое.",
+    "statistics": {
+      "commentsCount": 0,
+      "favoritesCount": 3,
+      "readingCount": 397,
+      "score": 2,
+      "votesCount": 5,
+      "votesCountPlus": 3,
+      "votesCountMinus": 2,
+      "reach": 4267,
+      "readers": 263
+    },
+    "hubs": [
+      {
+        "id": "23393",
+        "alias": "spring_aio",
+        "title": "Блог компании Spring АйО"
+      },
+      {
+        "id": "359",
+        "alias": "programming",
+        "title": "Программирование"
+      },
+      {
+        "id": "375",
+        "alias": "java",
+        "title": "Java"
+      },
+      {
+        "id": "19441",
+        "alias": "kotlin",
+        "title": "Kotlin"
+      },
+      {
+        "id": "397",
+        "alias": "analysis_design",
+        "title": "Анализ и проектирование систем"
+      }
+    ],
+    "tags": [
+      "авторское право",
+      "java",
+      "copyright",
+      "gpl",
+      "spring",
+      "ai",
+      "postgres",
+      "kotlin",
+      "consistency",
+      "spring boot"
+    ],
+    "matchedTokens": [
+      "Spring",
+      "AI"
+    ]
+  },
+  {
+    "id": "1014606",
+    "url": "https://habr.com/ru/articles/1014606/",
+    "timePublished": "2026-03-25T06:26:31+00:00",
+    "postType": "article",
+    "title": "Уязвимости в Spring AI и ONNX: как дыры в ИИ‑фреймворках превращаются в утечки данных и чужие модели",
+    "lead": "ИИ‑фреймворки давно въехали в прод, но к ним часто относятся как к «научной приблуде», а не к ещё одному входу в ваши данные и инфраструктуру. Spring AI и ONNX крутятся где‑то между ML‑командами, продуктами вендоров и внутренними ассистентами, и на определённом этапе за ними перестают успевать архитектура и безопасность.В марте в обзорах уязвимостей рядом всплыли несколько критичных багов именно в этих штуках. Там есть и SQL‑инъекции, и JSONPath‑инъекции, и обход проверки доверия при загрузке моделей. В статье разбираю, что это значит для тех, кто уже тащит ИИ в прод, и даю чек‑лист, который можно прямо отнести своей команде.",
+    "statistics": {
+      "commentsCount": 0,
+      "favoritesCount": 5,
+      "readingCount": 428,
+      "score": 3,
+      "votesCount": 1,
+      "votesCountPlus": 1,
+      "votesCountMinus": 0,
+      "reach": 6911,
+      "readers": 310
+    },
+    "hubs": [
+      {
+        "id": "50",
+        "alias": "infosecurity",
+        "title": "Информационная безопасность"
+      },
+      {
+        "id": "19583",
+        "alias": "dev_management",
+        "title": "Управление разработкой"
+      },
+      {
+        "id": "20788",
+        "alias": "devops",
+        "title": "DevOps"
+      },
+      {
+        "id": "332",
+        "alias": "virus",
+        "title": "Антивирусная защита"
+      },
+      {
+        "id": "21922",
+        "alias": "artificial_intelligence",
+        "title": "Искусственный интеллект"
+      }
+    ],
+    "tags": [
+      "уязвимости",
+      "spring",
+      "vulnerability",
+      "spring framework",
+      "spring security",
+      "cve",
+      "уязвимость нулевого дня",
+      "уязвимости и их эксплуатация",
+      "vulnerability management",
+      "onnx"
+    ],
+    "matchedTokens": [
+      "Spring",
+      "AI"
+    ]
+  },
+  {
+    "id": "1035232",
+    "url": "https://habr.com/ru/articles/1035232/",
+    "timePublished": "2026-05-14T13:52:11+00:00",
+    "postType": "article",
+    "title": "Техники GenAI в Spring AI",
+    "lead": "В статье рассмотрим ряд техник GenAI, реализованных в модуле Spring AI, и ответим на вопрос: является ли ChatClient лишь тонкой оберткой над API провайдеров LLM или предоставляет функциональные возможности, которые имеет смысл применять в реальных проектах. В качестве примера будем итеративно разрабатывать приложение, интегрированное с Anthropic, и разбирать возникающие по ходу проблемы.",
+    "statistics": {
+      "commentsCount": 0,
+      "favoritesCount": 12,
+      "readingCount": 1352,
+      "score": 7,
+      "votesCount": 7,
+      "votesCountPlus": 7,
+      "votesCountMinus": 0,
+      "reach": 11046,
+      "readers": 660
+    },
+    "hubs": [
+      {
+        "id": "17420",
+        "alias": "tbank",
+        "title": "Блог компании Т-Банк"
+      },
+      {
+        "id": "19441",
+        "alias": "kotlin",
+        "title": "Kotlin"
+      },
+      {
+        "id": "375",
+        "alias": "java",
+        "title": "Java"
+      },
+      {
+        "id": "21922",
+        "alias": "artificial_intelligence",
+        "title": "Искусственный интеллект"
+      }
+    ],
+    "tags": [
+      "spring",
+      "ai",
+      "kotlin"
+    ],
+    "matchedTokens": [
+      "Spring",
+      "AI"
+    ]
+  },
+  {
+    "id": "1047042",
+    "url": "https://habr.com/ru/articles/1047042/",
+    "timePublished": "2026-06-26T13:16:30+00:00",
+    "postType": "article",
+    "title": "Как создать AI‑агента на Java: связка Spring AI + MCP",
+    "lead": "В статье разбираем: как за пятнадцать минут превратить обычный метод с @McpTool в инструмент для модели, где проходит граница ответственности (решение принимает LLM — действует ваш код) и почему до прода доезжают единицы.",
+    "statistics": {
+      "commentsCount": 0,
+      "favoritesCount": 28,
+      "readingCount": 3486,
+      "score": 8,
+      "votesCount": 5,
+      "votesCountPlus": 5,
+      "votesCountMinus": 0,
+      "reach": 9992,
+      "readers": 1725
+    },
+    "hubs": [
+      {
+        "id": "21052",
+        "alias": "otus",
+        "title": "Блог компании OTUS"
+      },
+      {
+        "id": "375",
+        "alias": "java",
+        "title": "Java"
+      },
+      {
+        "id": "21922",
+        "alias": "artificial_intelligence",
+        "title": "Искусственный интеллект"
+      },
+      {
+        "id": "20740",
+        "alias": "career",
+        "title": "Карьера в IT-индустрии"
+      }
+    ],
+    "tags": [
+      "java",
+      "jvm",
+      "транзакции",
+      "mcp",
+      "продакшен",
+      "spring boot",
+      "backend-разработка",
+      "llm",
+      "spring ai",
+      "ai-агенты"
+    ],
+    "matchedTokens": [
+      "Spring",
+      "AI"
+    ]
+  },
+  {
+    "id": "1047048",
+    "url": "https://habr.com/ru/articles/1047048/",
+    "timePublished": "2026-06-22T10:33:05+00:00",
+    "postType": "article",
+    "title": "Как сделать MCP-сервер из Spring-сервиса за один вечер. И что потом не даст спать спокойно",
+    "lead": "AI‑агенту не нужен прямой доступ к базе, чтобы отвечать на вопросы оператора или вызывать действия в системе. Достаточно дать ему набор управляемых инструментов через MCP. В статье разбираем, как это выглядит в Spring Boot, где заканчивается простая демка и почему перед продакшеном придётся думать не о магии LLM, а о правах, логах, таймаутах и человеке в контуре.",
+    "statistics": {
+      "commentsCount": 0,
+      "favoritesCount": 21,
+      "readingCount": 1799,
+      "score": 6,
+      "votesCount": 3,
+      "votesCountPlus": 3,
+      "votesCountMinus": 0,
+      "reach": 7781,
+      "readers": 927
+    },
+    "hubs": [
+      {
+        "id": "21052",
+        "alias": "otus",
+        "title": "Блог компании OTUS"
+      },
+      {
+        "id": "375",
+        "alias": "java",
+        "title": "Java"
+      },
+      {
+        "id": "359",
+        "alias": "programming",
+        "title": "Программирование"
+      },
+      {
+        "id": "22115",
+        "alias": "microservices",
+        "title": "Микросервисы"
+      },
+      {
+        "id": "21922",
+        "alias": "artificial_intelligence",
+        "title": "Искусственный интеллект"
+      }
+    ],
+    "tags": [
+      "java",
+      "mcp",
+      "микросервисы",
+      "spring boot",
+      "prompt injection",
+      "spring ai",
+      "ai-агенты",
+      "безопасность llm",
+      "llm-интеграции",
+      "архитектура ии-приложений"
+    ],
+    "matchedTokens": [
+      "Spring",
+      "AI"
+    ]
+  },
+  {
+    "id": "1084128",
+    "url": "https://habr.com/ru/news/1084128/",
+    "timePublished": "2026-09-19T11:40:17+00:00",
+    "postType": "news",
+    "title": "ИИ заставил Java и Spring патчиться чаще",
+    "lead": "AI ускорил не только разработку. Он так же бодро ускорил поиск уязвимостей.Oracle признала, что квартального графика обновлений Java уже недостаточно. Дополнительный патч вышел в августе, следующий запланирован на 17 ноября. В 2027 году таких выпусков станет больше.У Spring похожая ситуация. Весной команда зафиксировала рост количества отчётов об уязвимостях на 1700% всего за месяц. Релизы пришлось переносить, чтобы подготовить большой пакет исправлений.",
+    "statistics": {
+      "commentsCount": 2,
+      "favoritesCount": 3,
+      "readingCount": 1669,
+      "score": -2,
+      "votesCount": 4,
+      "votesCountPlus": 1,
+      "votesCountMinus": 3,
+      "reach": 9516,
+      "readers": 1349
+    },
+    "hubs": [
+      {
+        "id": "23393",
+        "alias": "spring_aio",
+        "title": "Блог компании Spring АйО"
+      },
+      {
+        "id": "19441",
+        "alias": "kotlin",
+        "title": "Kotlin"
+      },
+      {
+        "id": "375",
+        "alias": "java",
+        "title": "Java"
+      },
+      {
+        "id": "359",
+        "alias": "programming",
+        "title": "Программирование"
+      }
+    ],
+    "tags": [
+      "java",
+      "oracle",
+      "spring",
+      "ai",
+      "spring framework",
+      "ml",
+      "kotlin",
+      "spring boot"
+    ],
+    "matchedTokens": [
+      "Spring",
+      "AI"
+    ]
+  },
+  {
+    "id": "1026146",
+    "url": "https://habr.com/ru/news/1026146/",
+    "timePublished": "2026-04-21T13:40:06+00:00",
+    "postType": "news",
+    "title": "TechRadar для Java-разработчиков возвращается",
+    "lead": "77% разработчиков используют Spring Boot 3, Cursor — всего у 2%, а средняя желаемая зарплата — 500 000 ₽ в месяц.Это были цифры за прошлый год. Сейчас картина уже другая: появились новые IDE, в повседневную работу вошли AI-агенты, вышли новые версии наших любимых фреймворка и языков. Ну и по зарплатам планка, очевидно, должна была сдвинуться — 700k уже звучит реалистичнееСамый важный опрос тут: State Of Java 2026",
+    "statistics": {
+      "commentsCount": 0,
+      "favoritesCount": 8,
+      "readingCount": 2583,
+      "score": 2,
+      "votesCount": 2,
+      "votesCountPlus": 2,
+      "votesCountMinus": 0,
+      "reach": 6288,
+      "readers": 2022
+    },
+    "hubs": [
+      {
+        "id": "23393",
+        "alias": "spring_aio",
+        "title": "Блог компании Spring АйО"
+      },
+      {
+        "id": "375",
+        "alias": "java",
+        "title": "Java"
+      },
+      {
+        "id": "19441",
+        "alias": "kotlin",
+        "title": "Kotlin"
+      },
+      {
+        "id": "359",
+        "alias": "programming",
+        "title": "Программирование"
+      }
+    ],
+    "tags": [
+      "java",
+      "jdk",
+      "spring",
+      "spring framework",
+      "kotlin",
+      "spring data",
+      "spring boot",
+      "spring-boot"
+    ],
+    "matchedTokens": [
+      "Spring",
+      "AI"
+    ]
+  },
+  {
+    "id": "798673",
+    "url": "https://habr.com/ru/articles/798673/",
+    "timePublished": "2024-03-07T13:09:10+00:00",
+    "postType": "article",
+    "title": "Java Digest # 10",
+    "lead": "Всем привет! ? ? ?Мы — Java-разработчики Тинькофф: Андрей Орлов, Арсений Зайцев, Константин Максимов, и Константин Польщиков. Собираем интересные новости, статьи, туториалы и другие материалы из мира Java-разработки и решили делиться этим не только с коллегами, но и со всем сообществом.?В этот весенний период, наполненный свежестью и обновлениями, ждите обзоров состояния jextract и новых функций терминала в JetBrains IDEs, включая его бета-версию. Готовьтесь к версии 0.8.0 Spring AI, где есть новые функции и улучшения. Вдохните аромат цветущей весны, пока мы погружаемся в обзор различных Java Enhancement Proposals (JEP), включая поддержку Markdown в JavaDoc, новые возможности для компиляции и выполнения Java-кода, а также превью функций Java 22. Вдохновляйтесь, ведь весна в мире Java приносит с собой обновления и новые возможности для всех нас. Stay tuned! ?",
+    "statistics": {
+      "commentsCount": 0,
+      "favoritesCount": 30,
+      "readingCount": 5247,
+      "score": 17,
+      "votesCount": 18,
+      "votesCountPlus": 17,
+      "votesCountMinus": 1,
+      "reach": 5539,
+      "readers": 5484
+    },
+    "hubs": [
+      {
+        "id": "17420",
+        "alias": "tbank",
+        "title": "Блог компании Т-Банк"
+      },
+      {
+        "id": "359",
+        "alias": "programming",
+        "title": "Программирование"
+      },
+      {
+        "id": "375",
+        "alias": "java",
+        "title": "Java"
+      }
+    ],
+    "tags": [
+      "java",
+      "spring",
+      "jep"
+    ],
+    "matchedTokens": [
+      "Spring",
+      "AI"
+    ]
+  },
+  {
+    "id": "820235",
+    "url": "https://habr.com/ru/articles/820235/",
+    "timePublished": "2024-06-07T10:21:35+00:00",
+    "postType": "article",
+    "title": "Java Digest #13",
+    "lead": "Всем привет! 👋 👋 👋👋Мы Java-разработчики Т-Банка: Андрей, Арсений, Константин и Константин. Собираем интересные новости, статьи, туториалы и другие материалы из мира Java-разработки и делимся этим со всем сообществом.В этом выпуске: первые JEP, направленные в JDK 23, введение в Graal VM, состояние экосистемы Java на 2024 год. Посмотрим несколько интересных релизов: мажорную версию Kotlin 2.0, открытие раннего доступа к IntelliJ IDEA 2024.2 и предрелизную версию Spring AI 1.0.0. Погрузимся в JDK Mission Control, познакомимся с дата-ориентированным программированием через серию статей авторства Nicolai Parlog и разберемся в том, какой JDK выбрать для всего проекта.",
+    "statistics": {
+      "commentsCount": 1,
+      "favoritesCount": 25,
+      "readingCount": 5033,
+      "score": 14,
+      "votesCount": 15,
+      "votesCountPlus": 14,
+      "votesCountMinus": 1,
+      "reach": 7895,
+      "readers": 7792
+    },
+    "hubs": [
+      {
+        "id": "17420",
+        "alias": "tbank",
+        "title": "Блог компании Т-Банк"
+      },
+      {
+        "id": "359",
+        "alias": "programming",
+        "title": "Программирование"
+      },
+      {
+        "id": "375",
+        "alias": "java",
+        "title": "Java"
+      }
+    ],
+    "tags": [
+      "java",
+      "spring",
+      "kotlin",
+      "spring boot"
+    ],
+    "matchedTokens": [
+      "Spring",
+      "AI"
+    ]
+  },
+  {
+    "id": "890966",
+    "url": "https://habr.com/ru/articles/890966/",
+    "timePublished": "2025-03-14T13:49:16+00:00",
+    "postType": "article",
+    "title": "Концерт для Java с ИИ — разработка готовых к продакшен LLM приложений",
+    "lead": "Команда Spring АйО перевела и адаптировала доклад Томаса Витале “Concerto for Java and AI — Building Production-Ready LLM Applications”, в котором рассказывается по шагам, как усовершенствовать интерфейс приложения с помощью больших языковых моделей (LLM). В качестве примера автор доклада на глазах слушателей разрабатывает приложение-ассистент для композитора, пишущего музыку для фильмов. Доклад будет опубликован двумя частями. В первой части рассказывается о том, как возникла проблема, какие подходы автор доклада применил к ее решению и как реализовать автоматическую классификацию персональных заметок композитора по типам, используя ИИ.",
+    "statistics": {
+      "commentsCount": 0,
+      "favoritesCount": 32,
+      "readingCount": 4109,
+      "score": 5,
+      "votesCount": 5,
+      "votesCountPlus": 5,
+      "votesCountMinus": 0,
+      "reach": 6220,
+      "readers": 6143
+    },
+    "hubs": [
+      {
+        "id": "23393",
+        "alias": "spring_aio",
+        "title": "Блог компании Spring АйО"
+      },
+      {
+        "id": "375",
+        "alias": "java",
+        "title": "Java"
+      },
+      {
+        "id": "19441",
+        "alias": "kotlin",
+        "title": "Kotlin"
+      },
+      {
+        "id": "359",
+        "alias": "programming",
+        "title": "Программирование"
+      }
+    ],
+    "tags": [
+      "ai",
+      "llm",
+      "spring ai",
+      "generative ai",
+      "few-shot prompting"
+    ],
+    "matchedTokens": [
+      "Spring",
+      "AI"
+    ]
+  },
+  {
+    "id": "893052",
+    "url": "https://habr.com/ru/articles/893052/",
+    "timePublished": "2025-03-21T12:04:32+00:00",
+    "postType": "article",
+    "title": "Концерт для Java с ИИ — разработка готовых к продакшен LLM приложений (часть 2)",
+    "lead": "Команда Spring АйО перевела и адаптировала доклад Томаса Витале “Concerto for Java and AI — Building Production-Ready LLM Applications”, в котором рассказывается по шагам, как усовершенствовать интерфейс приложения с помощью больших языковых моделей (LLM). В качестве примера автор доклада на глазах слушателей разрабатывает приложение-ассистент для композитора, пишущего музыку для фильмов. В первой части рассказывалось о том, какие подходы автор доклада применил к стоящей перед ним проблеме. Также было показано начало работы над усовершенствованием интерфейса программы-помощника с использованием ИИ. Во второй части будет продолжен рассказ о том, как еще больше улучшить программу. Но сначала поговорим о безопасности.",
+    "statistics": {
+      "commentsCount": 0,
+      "favoritesCount": 22,
+      "readingCount": 3397,
+      "score": 4,
+      "votesCount": 4,
+      "votesCountPlus": 4,
+      "votesCountMinus": 0,
+      "reach": 5145,
+      "readers": 5053
+    },
+    "hubs": [
+      {
+        "id": "23393",
+        "alias": "spring_aio",
+        "title": "Блог компании Spring АйО"
+      },
+      {
+        "id": "375",
+        "alias": "java",
+        "title": "Java"
+      },
+      {
+        "id": "19441",
+        "alias": "kotlin",
+        "title": "Kotlin"
+      },
+      {
+        "id": "359",
+        "alias": "programming",
+        "title": "Программирование"
+      }
+    ],
+    "tags": [
+      "postgresql",
+      "grafana",
+      "testcontainers",
+      "embeddings",
+      "llm",
+      "spring ai"
+    ],
+    "matchedTokens": [
+      "Spring",
+      "AI"
+    ]
+  },
+  {
+    "id": "905136",
+    "url": "https://habr.com/ru/news/905136/",
+    "timePublished": "2025-04-28T11:50:52+00:00",
+    "postType": "news",
+    "title": "IntelliJ IDEAConf 2025: Индустрия развивается — а мы следим за всем",
+    "lead": "3–4 июня пройдет IntelliJ IDEA Conf 2025 — бесплатная онлайн-конференция для разработчиков.Нас ждут доклады: про 30 лет Java, Kotlin Notebooks для Spring, null-безопасность в Java и Spring 7.0, про AI-интеграцию в разработку, эволюцию Kafka-архитектур, будущее JUnit и многое другое.Подробнее: https://lp.jetbrains.com/intellij-idea-conf-2025/Продолжаем следить за трендами, чтобы строить достойные альтернативы.",
+    "statistics": {
+      "commentsCount": 0,
+      "favoritesCount": 3,
+      "readingCount": 2274,
+      "score": 2,
+      "votesCount": 2,
+      "votesCountPlus": 2,
+      "votesCountMinus": 0,
+      "reach": 3629,
+      "readers": 3614
+    },
+    "hubs": [
+      {
+        "id": "23393",
+        "alias": "spring_aio",
+        "title": "Блог компании Spring АйО"
+      },
+      {
+        "id": "23232",
+        "alias": "txt_ide",
+        "title": "Текстовые редакторы и IDE"
+      },
+      {
+        "id": "19441",
+        "alias": "kotlin",
+        "title": "Kotlin"
+      },
+      {
+        "id": "375",
+        "alias": "java",
+        "title": "Java"
+      },
+      {
+        "id": "359",
+        "alias": "programming",
+        "title": "Программирование"
+      }
+    ],
+    "tags": [
+      "idea",
+      "ide",
+      "java",
+      "spring",
+      "spring framework",
+      "kotlin",
+      "spring boot",
+      "spring-boot"
+    ],
+    "matchedTokens": [
+      "Spring",
+      "AI"
+    ]
+  },
+  {
+    "id": "976178",
+    "url": "https://habr.com/ru/articles/976178/",
+    "timePublished": "2025-12-12T14:07:42+00:00",
+    "postType": "article",
+    "title": "Как сократить расходы на токены и повысить точность LLM",
+    "lead": "Когда количество доступных LLM инструментов (tool-ов) разрастается, традиционные подходы к tool calling становятся непрактичными — утилизация токенов улетает ещё до начала общения. К тому же, модели становится сложнее выбрать нужный набор tool-ов для решения проблемы.В новом переводе от команды Spring АйО читаем о паттерне Tool Search Tool, предложенном Anthropic и реализованном в Spring AI с помощью ToolSearchToolCallAdvisor. Он позволяет LLM динамически находить нужные инструменты по мере необходимости, экономя до 64% токенов и повышая точность.",
+    "statistics": {
+      "commentsCount": 6,
+      "favoritesCount": 47,
+      "readingCount": 7571,
+      "score": 6,
+      "votesCount": 5,
+      "votesCountPlus": 5,
+      "votesCountMinus": 0,
+      "reach": 13049,
+      "readers": 4723
+    },
+    "hubs": [
+      {
+        "id": "23393",
+        "alias": "spring_aio",
+        "title": "Блог компании Spring АйО"
+      },
+      {
+        "id": "359",
+        "alias": "programming",
+        "title": "Программирование"
+      },
+      {
+        "id": "375",
+        "alias": "java",
+        "title": "Java"
+      },
+      {
+        "id": "19441",
+        "alias": "kotlin",
+        "title": "Kotlin"
+      }
+    ],
+    "tags": [
+      "java",
+      "spring",
+      "tool",
+      "spring framework",
+      "spring security",
+      "kotlin",
+      "spring data",
+      "spring boot",
+      "spring-boot",
+      "llm"
+    ],
+    "matchedTokens": [
+      "Spring",
+      "AI"
+    ]
+  },
+  {
+    "id": "1088860",
+    "url": "https://habr.com/ru/articles/1088860/",
+    "timePublished": "2026-10-07T03:40:54+00:00",
+    "postType": "article",
+    "title": "Релиз OpenBPM 2.0",
+    "lead": "Всем привет! На связи инженерная команда компании “Хоулмонт”. Мы занимаемся развитием российской платформы OpenBPM. Это так называемый bpm-движок и набор профессиональных инструментов, сгруппированных вокруг него для комплексной автоматизации предприятий. Мы рады сообщить о выпуске OpenBPM Engine v.2.0, являющимся дальнейшим развитием идеи форков “7-ой камунды”.Это релиз объединяет усилия многих команд, опирается на самые свежие версии java-фреймворков и содержит принципиальные отличия. Переход на Spring Boot 4 и активное использование Spring AI открывает принципиально новые возможности для разработчиков процессных приложений. Там много технологических инноваций и поэтому требуется ознакомиться с руководствами по миграции, помогающими осуществить перевод проектов на эту технологическую основу в более плавном и предсказуемом режиме.",
+    "statistics": {
+      "commentsCount": 5,
+      "favoritesCount": 4,
+      "readingCount": 1227,
+      "score": 1,
+      "votesCount": 1,
+      "votesCountPlus": 1,
+      "votesCountMinus": 0,
+      "reach": 8449,
+      "readers": 938
+    },
+    "hubs": [
+      {
+        "id": "18694",
+        "alias": "haulmont",
+        "title": "Блог компании Haulmont"
+      },
+      {
+        "id": "21922",
+        "alias": "artificial_intelligence",
+        "title": "Искусственный интеллект"
+      }
+    ],
+    "tags": [
+      "bpm-системы",
+      "bpmn 2.0",
+      "ai-agent"
+    ],
+    "matchedTokens": [
+      "Spring",
+      "AI"
+    ]
+  },
+  {
+    "id": "725072",
+    "url": "https://habr.com/ru/articles/725072/",
+    "timePublished": "2023-03-28T16:51:55+00:00",
+    "postType": "article",
+    "title": "Про AI без банальностей: бесплатный онлайн-фестиваль TechTrain 2023 Spring",
+    "lead": "От потоков хайпа вокруг ChatGPT и Midjourney легко устать. Про AI/ML сейчас говорят все подряд, зачастую однообразно: «уволят ли нас всех», «на самом деле это никакой не интеллект» и так далее.Но пока одни люди рассуждают про ML с дивана, другие работают с ML, закатав рукава. И могут поделиться не просто абстрактными рассуждениями, а своим опытом. 1 апреля мы проведём бесплатный онлайн-фестиваль TechTrain, где с докладами выступят как раз такие люди.Некоторые доклады будут интересны всем. Другие рассчитаны на специалистов, лично работающих с машинным обучением. Третьи смотрят с ракурса менеджмента: как управлять разработкой AI-проектов? И отдельно идёт «клубничка» на этом торте: доклад про IT-подход к садоводству, который не про AI, но тоже в духе «будущее здесь».",
+    "statistics": {
+      "commentsCount": 0,
+      "favoritesCount": 7,
+      "readingCount": 1641,
+      "score": 8,
+      "votesCount": 8,
+      "votesCountPlus": 8,
+      "votesCountMinus": 0,
+      "reach": 1705,
+      "readers": 1700
+    },
+    "hubs": [
+      {
+        "id": "18226",
+        "alias": "jugru",
+        "title": "Блог компании JUG Ru Group"
+      },
+      {
+        "id": "19439",
+        "alias": "machine_learning",
+        "title": "Машинное обучение"
+      },
+      {
+        "id": "20754",
+        "alias": "tech_events",
+        "title": "Конференции"
+      },
+      {
+        "id": "21922",
+        "alias": "artificial_intelligence",
+        "title": "Искусственный интеллект"
+      },
+      {
+        "id": "22014",
+        "alias": "futurenow",
+        "title": "Будущее здесь"
+      }
+    ],
+    "tags": [
+      "ai",
+      "ml",
+      "techtrain",
+      "mlops",
+      "leands"
+    ],
+    "matchedTokens": [
+      "Spring",
+      "AI"
+    ]
+  },
+  {
+    "id": "885544",
+    "url": "https://habr.com/ru/articles/885544/",
+    "timePublished": "2025-02-25T10:00:57+00:00",
+    "postType": "article",
+    "title": "Model Context Protocol от Spring AI в Java SDK – новый стандарт для интеграции ИИ в экосистеме Java",
+    "lead": "Новый перевод от команды Spring АйО расскажет вам, что такое Model Context Protocol (MCP) и как его внедрение в экосистему Java упрощает жизнь разработчикам систем, в работе которых используется искусственный интеллект и LLM, а также передача большого количества данных между различными компонентами.",
+    "statistics": {
+      "commentsCount": 1,
+      "favoritesCount": 17,
+      "readingCount": 4368,
+      "score": 8,
+      "votesCount": 7,
+      "votesCountPlus": 7,
+      "votesCountMinus": 0,
+      "reach": 6122,
+      "readers": 6033
+    },
+    "hubs": [
+      {
+        "id": "23393",
+        "alias": "spring_aio",
+        "title": "Блог компании Spring АйО"
+      },
+      {
+        "id": "375",
+        "alias": "java",
+        "title": "Java"
+      },
+      {
+        "id": "19441",
+        "alias": "kotlin",
+        "title": "Kotlin"
+      },
+      {
+        "id": "359",
+        "alias": "programming",
+        "title": "Программирование"
+      }
+    ],
+    "tags": [
+      "java",
+      "sdk",
+      "mcp",
+      "protocol",
+      "llm",
+      "springai"
+    ],
+    "matchedTokens": [
+      "Spring",
+      "AI"
+    ]
+  },
+  {
+    "id": "925074",
+    "url": "https://habr.com/ru/articles/925074/",
+    "timePublished": "2025-07-09T11:02:47+00:00",
+    "postType": "article",
+    "title": "Подключение Spring AI к локальным AI-моделям с помощью Foundry Local",
+    "lead": "Команда Spring АйО перевела статью, которая покажет, как интегрировать Spring AI с Foundry Local — десктопным приложением от Microsoft, совместимым с OpenAI API. Вы узнаете, как настроить локальную AI-модель, подключить её к Spring Boot и создать REST-эндпоинты для чат-бота и суммаризации текста. Всё это — с акцентом на производительность, безопасность и автономность.",
+    "statistics": {
+      "commentsCount": 1,
+      "favoritesCount": 13,
+      "readingCount": 3481,
+      "score": 5,
+      "votesCount": 5,
+      "votesCountPlus": 5,
+      "votesCountMinus": 0,
+      "reach": 4947,
+      "readers": 4669
+    },
+    "hubs": [
+      {
+        "id": "23393",
+        "alias": "spring_aio",
+        "title": "Блог компании Spring АйО"
+      },
+      {
+        "id": "359",
+        "alias": "programming",
+        "title": "Программирование"
+      },
+      {
+        "id": "375",
+        "alias": "java",
+        "title": "Java"
+      },
+      {
+        "id": "19441",
+        "alias": "kotlin",
+        "title": "Kotlin"
+      }
+    ],
+    "tags": [
+      "java",
+      "kotlin"
+    ],
+    "matchedTokens": [
+      "Spring",
+      "AI"
+    ]
+  },
+  {
+    "id": "976872",
+    "url": "https://habr.com/ru/articles/976872/",
+    "timePublished": "2025-12-15T11:57:36+00:00",
+    "postType": "article",
+    "title": "Spring MCP: набор инструментов для AI-помощника от Amplicode",
+    "lead": "Эта статья дополняет предыдущую. Там мы зафиксировали проблемы. Здесь разберем, что именно мы сделали со стороны Amplicode, чтобы агент начал работать как опытный software engineer: опираясь на структуру проекта, детерминированные генераторы и понятные высокоуровневые операции.Если коротко, в первой статье было несколько основных болей:– LLM часто обучены на слегка устаревшем мире, и это вылезает в мелочах (и не только).– Галлюцинации и нехватка контекста идут рука об руку: «кажется, в этой библиотеке должен быть такой метод» и пошло-поехало.– Переизбыток контекста тоже зло: агент прочитал половину репозитория, потратил деньги, запутался, а потом еще и забыл начало чата.– Типичный агентный workflow: «сгенерил простыню кода, оно не компилится, давай чинить, ой теперь сломалось другое».И на этом фоне появляется логичный вопрос: а можно сделать так, чтобы агент работал не с сырыми файлами, а с моделью проекта и сущностями фреймворка? Чтобы он не гадал, где DTO, как принято именовать контроллеры и какие миграции у вас используются?Собственно, Spring MCP от Amplicode про это.",
+    "statistics": {
+      "commentsCount": 0,
+      "favoritesCount": 17,
+      "readingCount": 4658,
+      "score": 5,
+      "votesCount": 6,
+      "votesCountPlus": 5,
+      "votesCountMinus": 1,
+      "reach": 8296,
+      "readers": 2458
+    },
+    "hubs": [
+      {
+        "id": "18694",
+        "alias": "haulmont",
+        "title": "Блог компании Haulmont"
+      },
+      {
+        "id": "375",
+        "alias": "java",
+        "title": "Java"
+      },
+      {
+        "id": "22014",
+        "alias": "futurenow",
+        "title": "Будущее здесь"
+      },
+      {
+        "id": "21922",
+        "alias": "artificial_intelligence",
+        "title": "Искусственный интеллект"
+      },
+      {
+        "id": "359",
+        "alias": "programming",
+        "title": "Программирование"
+      }
+    ],
+    "tags": [
+      "java",
+      "spring",
+      "mcp",
+      "intellij idea",
+      "spring framework",
+      "kotlin",
+      "llm",
+      "сезон ии в разработке"
+    ],
+    "matchedTokens": [
+      "Spring",
+      "AI"
+    ]
+  },
+  {
+    "id": "1002584",
+    "url": "https://habr.com/ru/articles/1002584/",
+    "timePublished": "2026-02-24T05:56:57+00:00",
+    "postType": "article",
+    "title": "Spring AI для BPM-ориентированных команд",
+    "lead": "Общая проблематика Времена, когда для промышленного применения ИИ-моделей можно было использовать только язык Python, безвозвратно минули в прошлое. Сегодня для освоения приемов работы с LLM вообще нет необходимости знать какой-либо язык программирования. На рынке представлено огромное число чат-ботов и low-code платформ, типа n8n (Activepieces, Zapier, Make/Integromat и множество других, их реально уже не счесть), которые позволяют быстро отточить свое мастерство «промптинга» и подключения различных «тулзов». Однако, для корпоративного применения “as is” (в облачном варианте) проявляются ограничения:",
+    "statistics": {
+      "commentsCount": 0,
+      "favoritesCount": 7,
+      "readingCount": 784,
+      "score": 6,
+      "votesCount": 5,
+      "votesCountPlus": 5,
+      "votesCountMinus": 0,
+      "reach": 5555,
+      "readers": 447
+    },
+    "hubs": [
+      {
+        "id": "18694",
+        "alias": "haulmont",
+        "title": "Блог компании Haulmont"
+      },
+      {
+        "id": "397",
+        "alias": "analysis_design",
+        "title": "Анализ и проектирование систем"
+      },
+      {
+        "id": "19796",
+        "alias": "prototyping",
+        "title": "Прототипирование"
+      }
+    ],
+    "tags": [
+      "bpmn",
+      "ии-агенты",
+      "springai"
+    ],
+    "matchedTokens": [
+      "Spring",
+      "AI"
+    ]
+  },
+  {
+    "id": "1030854",
+    "url": "https://habr.com/ru/articles/1030854/",
+    "timePublished": "2026-05-03T14:46:13+00:00",
+    "postType": "article",
+    "title": "Как я написал E2EE-мессенджер на Spring Boot и WebCrypto — и почему сервер не видит сообщения",
+    "lead": "Привет, Хабр.Я Java-разработчик и в основном работаю с backend: Spring Boot, базы данных, интеграции, авторизация, WebSocket — всё то, что обычно находится за интерфейсом.В какой-то момент я поймал себя на мысли: я каждый день пользуюсь мессенджерами, но плохо понимаю, как они устроены внутри. Окей, JWT, WebSocket, PostgreSQL, Redis — это понятно. Но что технически означает фраза “end-to-end encryption”? Как сервер доставляет сообщения, если он не должен их читать? Где живут ключи? Что хранится в базе? Что происходит, если у пользователя два устройства?Решил разобраться через практику. Написал мессенджер с нуля. Назвал Chaos Messenger.Сразу честно: криптографическую часть я изучал вместе с Claude и ChatGPT — читал спецификации X3DH и Double Ratchet, разбирал примеры, задавал вопросы, пока не сложилась цельная картина. Frontend тоже делался с активной помощью ChatGPT: я backend-разработчик, React для меня не основная среда. Но архитектура, backend, интеграция WebCrypto, модель конвертов, хранение сообщений и принципиальные решения — мои.Для меня AI здесь был не заменой понимания, а инструментом — примерно как документация, Stack Overflow и ревью коллег. Без понимания threat model и архитектуры такой проект всё равно не собрать.В статье расскажу, как работает E2EE изнутри: как устанавливается сессия через X3DH, как каждое сообщение получает отдельный ключ через Symmetric Ratchet, почему сервер хранит только зашифрованные конверты, и какие ошибки я допустил по дороге.Стек: Spring Boot 3, React 18, WebCrypto API, PostgreSQL, Redis, WebSocket/STOMP, Prometheus, Grafana.",
+    "statistics": {
+      "commentsCount": 8,
+      "favoritesCount": 31,
+      "readingCount": 2337,
+      "score": 7,
+      "votesCount": 7,
+      "votesCountPlus": 7,
+      "votesCountMinus": 0,
+      "reach": 13468,
+      "readers": 1312
+    },
+    "hubs": [
+      {
+        "id": "50",
+        "alias": "infosecurity",
+        "title": "Информационная безопасность"
+      },
+      {
+        "id": "375",
+        "alias": "java",
+        "title": "Java"
+      },
+      {
+        "id": "118",
+        "alias": "crypto",
+        "title": "Криптография"
+      },
+      {
+        "id": "91",
+        "alias": "webdev",
+        "title": "Веб-разработка"
+      },
+      {
+        "id": "144",
+        "alias": "open_source",
+        "title": "Open source"
+      }
+    ],
+    "tags": [
+      "java",
+      "шифрование",
+      "криптография",
+      "мессенджер",
+      "websocket",
+      "spring boot",
+      "e2ee",
+      "signal protocol",
+      "x3dh",
+      "webcrypto"
+    ],
+    "matchedTokens": [
+      "Spring",
+      "AI"
+    ]
+  },
+  {
+    "id": "849752",
+    "url": "https://habr.com/ru/articles/849752/",
+    "timePublished": "2024-10-10T13:23:40+00:00",
+    "postType": "article",
+    "title": "Вышел Spring AI 1.0.0 M3",
+    "lead": "Spring выпустил Spring AI 1.0.0 M3, который принес множество значительных улучшений и новых возможностей в разработку AI-приложений. В новом переводе от команды Spring АйО рассказывается про улучшения, связанные с observability, совершенствование системы advisor`ов и оптимизацию работы с функциями и embedding моделями.",
+    "statistics": {
+      "commentsCount": 1,
+      "favoritesCount": 25,
+      "readingCount": 6186,
+      "score": 9,
+      "votesCount": 7,
+      "votesCountPlus": 7,
+      "votesCountMinus": 0,
+      "reach": 10354,
+      "readers": 10259
+    },
+    "hubs": [
+      {
+        "id": "23393",
+        "alias": "spring_aio",
+        "title": "Блог компании Spring АйО"
+      },
+      {
+        "id": "359",
+        "alias": "programming",
+        "title": "Программирование"
+      },
+      {
+        "id": "375",
+        "alias": "java",
+        "title": "Java"
+      },
+      {
+        "id": "19441",
+        "alias": "kotlin",
+        "title": "Kotlin"
+      }
+    ],
+    "tags": [
+      "java",
+      "spring",
+      "spring framework",
+      "kotlin",
+      "spring boot",
+      "spring-ai"
+    ],
+    "matchedTokens": [
+      "Spring",
+      "AI"
+    ]
+  },
+  {
+    "id": "855398",
+    "url": "https://habr.com/ru/articles/855398/",
+    "timePublished": "2024-11-01T13:45:07+00:00",
+    "postType": "article",
+    "title": "AI и Spring Petclinic: Внедрение ИИ-ассистента с Spring AI (Часть II)",
+    "lead": "В продолжении статьи автор углубляется в возможности генерации с поддержкой поиска (RAG), чтобы LLM могла учесть некоторую контекстуальную информацию данных, первоначально невходившую в ее обучающую выборку.В новом переводе от команды Spring АйО рассматривается польза Spring AI и хранилища векторов, благодаря которым система не просто сопоставляет ключевые слова, но и понимает смысловые запросы пользователей, делая взаимодействие с приложением еще более естественным.",
+    "statistics": {
+      "commentsCount": 2,
+      "favoritesCount": 19,
+      "readingCount": 3979,
+      "score": 8,
+      "votesCount": 6,
+      "votesCountPlus": 6,
+      "votesCountMinus": 0,
+      "reach": 4744,
+      "readers": 4703
+    },
+    "hubs": [
+      {
+        "id": "23393",
+        "alias": "spring_aio",
+        "title": "Блог компании Spring АйО"
+      },
+      {
+        "id": "359",
+        "alias": "programming",
+        "title": "Программирование"
+      },
+      {
+        "id": "375",
+        "alias": "java",
+        "title": "Java"
+      },
+      {
+        "id": "19441",
+        "alias": "kotlin",
+        "title": "Kotlin"
+      }
+    ],
+    "tags": [
+      "java",
+      "spring",
+      "kotlin",
+      "spring boot",
+      "spring-ai"
+    ],
+    "matchedTokens": [
+      "Spring",
+      "AI"
+    ]
+  },
+  {
+    "id": "877196",
+    "url": "https://habr.com/ru/articles/877196/",
+    "timePublished": "2025-01-28T12:59:13+00:00",
+    "postType": "article",
+    "title": "Разработка эффективных агентов с помощью Spring AI (Часть 1)",
+    "lead": "Команда Spring АйО перевела статью, в которой рассказывается про разработку эффективных агентов с помощью Spring AI. Исследование Anthropic \"Building effective agents\" подчеркивает важность простоты и модульности в разработке LLM-агентов.В статье рассматривается, как эти принципы реализуются в Spring AI через пять ключевых паттернов: Chain Workflow, Parallelization Workflow, Routing Workflow, Orchestrator-Workers и Evaluator-Optimizer.",
+    "statistics": {
+      "commentsCount": 1,
+      "favoritesCount": 32,
+      "readingCount": 6436,
+      "score": 8,
+      "votesCount": 9,
+      "votesCountPlus": 8,
+      "votesCountMinus": 1,
+      "reach": 8620,
+      "readers": 8547
+    },
+    "hubs": [
+      {
+        "id": "23393",
+        "alias": "spring_aio",
+        "title": "Блог компании Spring АйО"
+      },
+      {
+        "id": "375",
+        "alias": "java",
+        "title": "Java"
+      },
+      {
+        "id": "19441",
+        "alias": "kotlin",
+        "title": "Kotlin"
+      },
+      {
+        "id": "359",
+        "alias": "programming",
+        "title": "Программирование"
+      }
+    ],
+    "tags": [
+      "java",
+      "spring",
+      "ai",
+      "spring framework",
+      "kotlin",
+      "spring boot",
+      "spring ai"
+    ],
+    "matchedTokens": [
+      "Spring",
+      "AI"
+    ]
+  },
+  {
+    "id": "884876",
+    "url": "https://habr.com/ru/articles/884876/",
+    "timePublished": "2025-02-25T08:00:53+00:00",
+    "postType": "article",
+    "title": "Как сделать Telegram-бота умнее: пошаговый гайд на Spring AI и Kotlin",
+    "lead": "Перед вами ещё один гайд о том, как написать свой telegram-бот, который взаимодействует с нейросетью. Мы напишем его таким образом, чтобы с нейросетью можно было вести диалог, т.е. рассмотрим, как сохранять контекст между сообщениями. Но таких гайдов, особенно для Python, уже написано немало. Поэтому напишем его на новом фреймворке Spring AI из эксосистемы Spring. А чтобы совсем было интересно - писать будем на Kotlin)",
+    "statistics": {
+      "commentsCount": 5,
+      "favoritesCount": 47,
+      "readingCount": 9133,
+      "score": 11,
+      "votesCount": 11,
+      "votesCountPlus": 11,
+      "votesCountMinus": 0,
+      "reach": 12507,
+      "readers": 12413
+    },
+    "hubs": [
+      {
+        "id": "23540",
+        "alias": "dockhost",
+        "title": "Блог компании Dockhost"
+      },
+      {
+        "id": "19441",
+        "alias": "kotlin",
+        "title": "Kotlin"
+      },
+      {
+        "id": "375",
+        "alias": "java",
+        "title": "Java"
+      },
+      {
+        "id": "359",
+        "alias": "programming",
+        "title": "Программирование"
+      }
+    ],
+    "tags": [
+      "kotlin",
+      "telegram",
+      "openai",
+      "chatgpt",
+      "spring ai"
+    ],
+    "matchedTokens": [
+      "Spring",
+      "AI"
+    ]
+  },
+  {
+    "id": "889974",
+    "url": "https://habr.com/ru/articles/889974/",
+    "timePublished": "2025-03-11T14:59:19+00:00",
+    "postType": "article",
+    "title": "Spring AI научился видеть! Показываю, как заставить GPT находить бананы на картинках",
+    "lead": "Новый перевод от команды Spring АйО расскажет вам о работе с мультимодальностью при работе со Spring AI и о различных вариантах работы с графическими изображениями с использованием искусственного интеллекта.",
+    "statistics": {
+      "commentsCount": 2,
+      "favoritesCount": 31,
+      "readingCount": 3699,
+      "score": 7,
+      "votesCount": 7,
+      "votesCountPlus": 7,
+      "votesCountMinus": 0,
+      "reach": 5627,
+      "readers": 5532
+    },
+    "hubs": [
+      {
+        "id": "23393",
+        "alias": "spring_aio",
+        "title": "Блог компании Spring АйО"
+      },
+      {
+        "id": "359",
+        "alias": "programming",
+        "title": "Программирование"
+      },
+      {
+        "id": "19441",
+        "alias": "kotlin",
+        "title": "Kotlin"
+      },
+      {
+        "id": "375",
+        "alias": "java",
+        "title": "Java"
+      }
+    ],
+    "tags": [
+      "images",
+      "image recognition",
+      "multimodality",
+      "spring ai",
+      "image generation"
+    ],
+    "matchedTokens": [
+      "Spring",
+      "AI"
+    ]
+  },
+  {
+    "id": "901360",
+    "url": "https://habr.com/ru/articles/901360/",
+    "timePublished": "2025-05-06T08:09:25+00:00",
+    "postType": "article",
+    "title": "Как обезопасить Spring AI MCP сервер с помощью OAuth2",
+    "lead": "Команда Spring АйО перевела статью о том, как правильно настраивать безопасность на MCP серверах с использованием возможностей OAuth2 в свете новейшей спецификации MCP, вышедшей в свет 26-го марта 2025-го года, то есть совсем недавно.",
+    "statistics": {
+      "commentsCount": 0,
+      "favoritesCount": 7,
+      "readingCount": 1339,
+      "score": 3,
+      "votesCount": 3,
+      "votesCountPlus": 3,
+      "votesCountMinus": 0,
+      "reach": 2052,
+      "readers": 1924
+    },
+    "hubs": [
+      {
+        "id": "23393",
+        "alias": "spring_aio",
+        "title": "Блог компании Spring АйО"
+      },
+      {
+        "id": "359",
+        "alias": "programming",
+        "title": "Программирование"
+      },
+      {
+        "id": "19441",
+        "alias": "kotlin",
+        "title": "Kotlin"
+      },
+      {
+        "id": "375",
+        "alias": "java",
+        "title": "Java"
+      }
+    ],
+    "tags": [
+      "java",
+      "security",
+      "spring",
+      "kotlin",
+      "oauth2",
+      "mcp server"
+    ],
+    "matchedTokens": [
+      "Spring",
+      "AI"
+    ]
+  },
+  {
+    "id": "920992",
+    "url": "https://habr.com/ru/articles/920992/",
+    "timePublished": "2025-06-23T13:00:30+00:00",
+    "postType": "article",
+    "title": "Spring AI: retrieval augmented generation",
+    "lead": "Spring AI, который только недавно получил первую стабильную версию, уже предоставляет довольно много возможностей для работы с RAG (retrieval augmented generation).Благодаря этому подходу нейросеть перед тем, как дать ответ на запрос пользователя, выполнит поиск подходящей информации в векторном хранилище. Причём каждый документ хранится не в виде текста, а в виде массива чисел (т.н. «векторов»).Процесс преобразования различных документов в такой векторный формат выполняется опять же с помощью LLM и называется embedding («встраивание»). Хорошая новость заключается в том, что всё это можно легко сделать с помощью Spring AI.",
+    "statistics": {
+      "commentsCount": 7,
+      "favoritesCount": 30,
+      "readingCount": 4725,
+      "score": 3,
+      "votesCount": 3,
+      "votesCountPlus": 3,
+      "votesCountMinus": 0,
+      "reach": 6170,
+      "readers": 6062
+    },
+    "hubs": [
+      {
+        "id": "19441",
+        "alias": "kotlin",
+        "title": "Kotlin"
+      },
+      {
+        "id": "375",
+        "alias": "java",
+        "title": "Java"
+      },
+      {
+        "id": "359",
+        "alias": "programming",
+        "title": "Программирование"
+      },
+      {
+        "id": "21922",
+        "alias": "artificial_intelligence",
+        "title": "Искусственный интеллект"
+      }
+    ],
+    "tags": [
+      "java",
+      "spring",
+      "postgres",
+      "kotlin",
+      "openai",
+      "rag",
+      "pgvector",
+      "spring ai"
+    ],
+    "matchedTokens": [
+      "Spring",
+      "AI"
+    ]
+  },
+  {
+    "id": "923638",
+    "url": "https://habr.com/ru/articles/923638/",
+    "timePublished": "2025-07-01T09:00:55+00:00",
+    "postType": "article",
+    "title": "Spring AI: Model Context Protocol",
+    "lead": "Model Context Protocol (MCP) — это унифицированный протокол взаимодействия между большими языковыми моделями (LLM) и внешними источниками данных и инструментами. Spring AI предоставляет очень простой декларативный подход для добавления любых инструментов в контекст LLM с помощью MCP. Мы рассмотрим несколько простых примеров по созданию MCP-клиента и MCP-сервера.",
+    "statistics": {
+      "commentsCount": 4,
+      "favoritesCount": 36,
+      "readingCount": 5568,
+      "score": 4,
+      "votesCount": 3,
+      "votesCountPlus": 3,
+      "votesCountMinus": 0,
+      "reach": 6865,
+      "readers": 6747
+    },
+    "hubs": [
+      {
+        "id": "375",
+        "alias": "java",
+        "title": "Java"
+      },
+      {
+        "id": "19441",
+        "alias": "kotlin",
+        "title": "Kotlin"
+      },
+      {
+        "id": "21922",
+        "alias": "artificial_intelligence",
+        "title": "Искусственный интеллект"
+      },
+      {
+        "id": "359",
+        "alias": "programming",
+        "title": "Программирование"
+      }
+    ],
+    "tags": [
+      "java",
+      "mcp",
+      "kotlin",
+      "spring ai",
+      "model context protocol"
+    ],
+    "matchedTokens": [
+      "Spring",
+      "AI"
+    ]
+  },
+  {
+    "id": "944266",
+    "url": "https://habr.com/ru/articles/944266/",
+    "timePublished": "2025-09-18T10:38:42+00:00",
+    "postType": "article",
+    "title": "Нейросети в Spring-разработке: убираем рутину, а не интеллект",
+    "lead": "Всем привет, на связи команда Explyt. Как известно наша компания предоставляет целую экосистему плагинов для IDEA: это и плагин для поддержки Spring, а также Explyt плагин для написания кода, генерации тестов и интеграции с AI. И нам пришла в голову идея - а почему бы не расширить функциональность Spring плагина с помощью AI ассистента, который есть в Explyt. И если вы используете оба наши плагина, то у вас появятся дополнительные возможности для Spring, позволяющие достаточно хорошо решать типовые задачи, которые возникают в процессе работы, с помощью AI, о которых мы подробно расскажем далее.",
+    "statistics": {
+      "commentsCount": 8,
+      "favoritesCount": 40,
+      "readingCount": 4826,
+      "score": 11,
+      "votesCount": 13,
+      "votesCountPlus": 12,
+      "votesCountMinus": 1,
+      "reach": 11361,
+      "readers": 7059
+    },
+    "hubs": [
+      {
+        "id": "21922",
+        "alias": "artificial_intelligence",
+        "title": "Искусственный интеллект"
+      },
+      {
+        "id": "23232",
+        "alias": "txt_ide",
+        "title": "Текстовые редакторы и IDE"
+      },
+      {
+        "id": "19441",
+        "alias": "kotlin",
+        "title": "Kotlin"
+      },
+      {
+        "id": "375",
+        "alias": "java",
+        "title": "Java"
+      }
+    ],
+    "tags": [
+      "idea",
+      "java",
+      "plugin",
+      "spring",
+      "kotlin",
+      "explyt"
+    ],
+    "matchedTokens": [
+      "Spring",
+      "AI"
+    ]
+  },
+  {
+    "id": "979950",
+    "url": "https://habr.com/ru/articles/979950/",
+    "timePublished": "2026-02-17T02:24:26+00:00",
+    "postType": "article",
+    "title": "28 дней со Spring AI: от простого чата до полноценного инструмента",
+    "lead": "Если дедлайн плавающий или его нет, обучение и пет-проекты превращаются в вечный \"черновик\": сегодня читаешь доки, завтра переписываешь пример, послезавтра думаешь про идеальную архитектуру. Это нормальный творческий процесс - пока не заметишь, что за месяц у тебя так и нет ничего, что можно запустить и показать.Когда я проходил AI Advent Challenge этот режим прокрастинации сломался: 28 дней подряд у тебя есть ровно сутки. В 10:00 приходит задание, а в 10:00 следующего дня - дедлайн. Поэтому каждый день заканчивается одной из двух вещей: либо у тебя есть работающий кусок, либо ты точно понимаешь, где решение не выдержало и почему.",
+    "statistics": {
+      "commentsCount": 0,
+      "favoritesCount": 40,
+      "readingCount": 4432,
+      "score": 6,
+      "votesCount": 8,
+      "votesCountPlus": 7,
+      "votesCountMinus": 1,
+      "reach": 10326,
+      "readers": 2608
+    },
+    "hubs": [
+      {
+        "id": "375",
+        "alias": "java",
+        "title": "Java"
+      },
+      {
+        "id": "21922",
+        "alias": "artificial_intelligence",
+        "title": "Искусственный интеллект"
+      },
+      {
+        "id": "359",
+        "alias": "programming",
+        "title": "Программирование"
+      }
+    ],
+    "tags": [
+      "java",
+      "spring",
+      "ai",
+      "llm",
+      "spring ai"
+    ],
+    "matchedTokens": [
+      "Spring",
+      "AI"
+    ]
+  },
+  {
+    "id": "1012666",
+    "url": "https://habr.com/ru/articles/1012666/",
+    "timePublished": "2026-03-23T09:00:22+00:00",
+    "postType": "article",
+    "title": "AI без Python: как исправить документацию и внедрить RAG в JVM-стеке",
+    "lead": "Даже для опытных пользователей системы (продукт-оунеры, техлиды, CTO, руководители уровня B-1, сотрудники кост-менеджмента) это не всегда просто, тем более для новых. Значительная часть времени уходит не на работу в системе, а на поиск информации в разрозненных источниках: Excel-таблицы, письма, локальные заметки или уточнение деталей у коллег. Отсюда и появилась идея AI-ассистента как удобного способа получать ответы в одном месте, обычным человеческим языком.Python почти стандарт для AI-проектов, но мы, как и большинство продуктовых команд в банке, используем JVM-стек: Kotlin, Java, Spring Boot. Поэтому осознанно выбрали развивать AI-ассистента в уже знакомом стеке. Это не просто техническое предпочтение. Мы хотели сохранить поддержку и масштабируемость внутри команды и не привлекать новые компетенции, которых у нас пока нет.Наш опыт может быть полезен командам, которые работают в JVM-среде и хотят внедрить AI без перехода на другой стек.",
+    "statistics": {
+      "commentsCount": 0,
+      "favoritesCount": 28,
+      "readingCount": 2419,
+      "score": 15,
+      "votesCount": 15,
+      "votesCountPlus": 15,
+      "votesCountMinus": 0,
+      "reach": 6784,
+      "readers": 1394
+    },
+    "hubs": [
+      {
+        "id": "21086",
+        "alias": "raiffeisenbank",
+        "title": "Блог компании Райффайзен Банк"
+      },
+      {
+        "id": "21922",
+        "alias": "artificial_intelligence",
+        "title": "Искусственный интеллект"
+      },
+      {
+        "id": "359",
+        "alias": "programming",
+        "title": "Программирование"
+      },
+      {
+        "id": "375",
+        "alias": "java",
+        "title": "Java"
+      },
+      {
+        "id": "19441",
+        "alias": "kotlin",
+        "title": "Kotlin"
+      }
+    ],
+    "tags": [
+      "jvm",
+      "ai",
+      "backend",
+      "kotlin",
+      "llm",
+      "rag",
+      "pgvector",
+      "spring ai",
+      "чанкинг",
+      "langchain4j"
+    ],
+    "matchedTokens": [
+      "Spring",
+      "AI"
+    ]
+  },
+  {
+    "id": "1043556",
+    "url": "https://habr.com/ru/articles/1043556/",
+    "timePublished": "2026-06-05T14:41:55+00:00",
+    "postType": "article",
+    "title": "Java Digest # 36: график выхода JDK 27, Spring Framework 7 в деталях и постмортем OOMKill после миграции на JDK 17",
+    "lead": "Всем привет! 👋👋👋👋👋 Мы — Java-разработчики Т-Банка: Андрей, Арсений, Роман, Константин и Константин. Собираем интересные новости, статьи, туториалы и другие материалы из мира Java-разработки и делимся этим со всем сообществом.В этом выпуске разбираем, почему G1 в JDK 27 окончательно прописывается дефолтным сборщиком мусора, и смотрим, что там с очередным, двенадцатым по счету инкубатором Vector API (спойлер: все по-прежнему ждем Valhalla). Заглянем в Netflix, посмотрим, как раскатили AOT из Project Leyden в прод и срезали время старта сервисов на 15—20%. Поговорим про то, как снимать heap-дампы с прода и не получить по шапке от безопасников, а заодно разберемся, зачем вообще были нужны гибкие конструкторы из Java 25. Посмотрим обзор фич Java 26 от Николая Парлога. Из любопытного — статья, где автор 18 месяцев гонял на проде два одинаковых сервиса на Spring Boot и Node.js и в итоге насчитал разницу в 24 тысячи долларов. Ну и пробежимся по свежим релизам: Micronaut 5.0, Quarkus 3.35 и 3.36, Spring AI и не только. Поехали!",
+    "statistics": {
+      "commentsCount": 1,
+      "favoritesCount": 11,
+      "readingCount": 2033,
+      "score": 10,
+      "votesCount": 10,
+      "votesCountPlus": 10,
+      "votesCountMinus": 0,
+      "reach": 8760,
+      "readers": 1190
+    },
+    "hubs": [
+      {
+        "id": "17420",
+        "alias": "tbank",
+        "title": "Блог компании Т-Банк"
+      },
+      {
+        "id": "359",
+        "alias": "programming",
+        "title": "Программирование"
+      },
+      {
+        "id": "375",
+        "alias": "java",
+        "title": "Java"
+      }
+    ],
+    "tags": [
+      "java",
+      "jvm",
+      "jdk",
+      "spring",
+      "micronaut",
+      "jep",
+      "quarkus",
+      "aot-компиляция",
+      "jdk27"
+    ],
+    "matchedTokens": [
+      "Spring",
+      "AI"
+    ]
+  },
+  {
+    "id": "1048112",
+    "url": "https://habr.com/ru/articles/1048112/",
+    "timePublished": "2026-06-17T09:04:15+00:00",
+    "postType": "article",
+    "title": "AI‑агент для склада в Джеймикс. Часть 2: write‑tools, безопасность, метаданные",
+    "lead": "write‑tools, безопасность, метаданныеЭто вторая часть статьи по Sping AI в Джеймикс. Короткая аннотация первой — на случай, если прошло время или вы её не читали: мы собрали read‑only агент внутри Джеймикс‑приложения. Пользователь задаёт вопрос на естественном языке; ChatClient из Spring AI крутит agent loop — дёргает @Tool‑методы, пока не наберёт достаточно данных для ответа. Каждый tool данные читает через DataManager с явным fetch plan‑ом, поэтому почти полностью остаётся внутри рамок системы безопасности Джеймикс и возвращает только нужные модели поля. UI — обычный Джеймикс‑вью, без REST‑прослойки. Также, в первой части мы убедились, что выбор модели — не деталь: модель без надёжного native tool calling ломает всю схему. Если первую часть не читали — начните с неё, код ниже строится как продолжение.В этой части мы дадим агенту право менять данные. И вот здесь, в отличие от первой половины, начинают всплывать вопросы, которые ни Spring AI, ни большинство туториалов по агентам обычно не поднимают: под каким пользователем выполняется tool, что делать с транзакциями, как аудировать действия, инициированные моделью, и как заставить агента работать с вашей доменной моделью без ручного перечисления сущностей в промпте.Это не косметические изменения, а ровно те решения, что отделяют демо от приложения, которое можно показывать заказчику.Полный исходник всего, что мы здесь обсуждаем, лежит здесь: https://github.com/jmix‑edu/ai‑warehouse — можно клонировать и сразу запустить.Что добавляем",
+    "statistics": {
+      "commentsCount": 0,
+      "favoritesCount": 2,
+      "readingCount": 389,
+      "score": 5,
+      "votesCount": 3,
+      "votesCountPlus": 3,
+      "votesCountMinus": 0,
+      "reach": 7327,
+      "readers": 240
+    },
+    "hubs": [
+      {
+        "id": "18694",
+        "alias": "haulmont",
+        "title": "Блог компании Haulmont"
+      },
+      {
+        "id": "126",
+        "alias": "search_technologies",
+        "title": "Поисковые технологии"
+      },
+      {
+        "id": "21922",
+        "alias": "artificial_intelligence",
+        "title": "Искусственный интеллект"
+      },
+      {
+        "id": "22374",
+        "alias": "data_engineering",
+        "title": "Data Engineering"
+      },
+      {
+        "id": "375",
+        "alias": "java",
+        "title": "Java"
+      }
+    ],
+    "tags": [
+      "java",
+      "demo",
+      "jmix",
+      "spring ai",
+      "llm-модели",
+      "local ai",
+      "sear",
+      "promp",
+      "сезон код будущего"
+    ],
+    "matchedTokens": [
+      "Spring",
+      "AI"
+    ]
+  },
+  {
+    "id": "1057472",
+    "url": "https://habr.com/ru/articles/1057472/",
+    "timePublished": "2026-07-09T11:26:56+00:00",
+    "postType": "article",
+    "title": "Самокорректирующийся структурированный вывод в Spring AI 2.0",
+    "lead": "Софту всё чаще приходится интегрироваться с LLM. И тут быстро всплывает неприятная деталь: модели хорошо пишут текст, но не всегда стабильно возвращают данные в строгой структуре.Даже если явно попросить ответ по JSON Schema, модель может добавить пояснение, пропустить поле или вернуть не тот тип. Нативный structured output у части провайдеров есть, но он работает не везде и не одинаково.В новом переводе от команды Spring АйО разбираем, как в Spring AI 2.0 решается эта проблема.",
+    "statistics": {
+      "commentsCount": 0,
+      "favoritesCount": 15,
+      "readingCount": 1620,
+      "score": 7,
+      "votesCount": 5,
+      "votesCountPlus": 5,
+      "votesCountMinus": 0,
+      "reach": 9288,
+      "readers": 1003
+    },
+    "hubs": [
+      {
+        "id": "23393",
+        "alias": "spring_aio",
+        "title": "Блог компании Spring АйО"
+      },
+      {
+        "id": "19441",
+        "alias": "kotlin",
+        "title": "Kotlin"
+      },
+      {
+        "id": "375",
+        "alias": "java",
+        "title": "Java"
+      },
+      {
+        "id": "359",
+        "alias": "programming",
+        "title": "Программирование"
+      }
+    ],
+    "tags": [
+      "java",
+      "spring",
+      "ai",
+      "spring framework",
+      "kotlin",
+      "spring ai"
+    ],
+    "matchedTokens": [
+      "Spring",
+      "AI"
+    ]
+  },
+  {
+    "id": "1079464",
+    "url": "https://habr.com/ru/articles/1079464/",
+    "timePublished": "2026-09-07T14:09:47+00:00",
+    "postType": "article",
+    "title": "Java Digest #39: 91 CVE в Spring, Value Objects в Java и AI-native разработка",
+    "lead": "У Spring за один день вышел 91 CVE — больше, чем за весь прошлый год, — и нашел их в основном AI-сканер. Oracle впервые за двадцать лет выпустила патч безопасности вне квартального цикла. А еще уже совсем скоро (15 сентября) выходит JDK 27. Обо всем этом и не только рассказываем в свежем выпуске 🙂",
+    "statistics": {
+      "commentsCount": 0,
+      "favoritesCount": 3,
+      "readingCount": 979,
+      "score": 11,
+      "votesCount": 9,
+      "votesCountPlus": 9,
+      "votesCountMinus": 0,
+      "reach": 8590,
+      "readers": 673
+    },
+    "hubs": [
+      {
+        "id": "17420",
+        "alias": "tbank",
+        "title": "Блог компании Т-Банк"
+      },
+      {
+        "id": "359",
+        "alias": "programming",
+        "title": "Программирование"
+      },
+      {
+        "id": "375",
+        "alias": "java",
+        "title": "Java"
+      }
+    ],
+    "tags": [
+      "java",
+      "jdk",
+      "spring",
+      "ai",
+      "hibernate"
+    ],
+    "matchedTokens": [
+      "Spring",
+      "AI"
+    ]
+  },
+  {
+    "id": "1089708",
+    "url": "https://habr.com/ru/articles/1089708/",
+    "timePublished": "2026-10-02T14:19:26+00:00",
+    "postType": "article",
+    "title": "Не каждый AI-вызов должен генерировать текст",
+    "lead": "Иногда от модели нужен не красивый ответ, а быстрое решение. Пропустить запрос или заблокировать, выбрать маршрут, оценить результат, отфильтровать документы для RAG.Для этого появился Spring AI TypeSafe. Проект интегрирует Jev API, который отвечает на типизированные вопросы числовыми значениями и не генерирует текст.",
+    "statistics": {
+      "commentsCount": 1,
+      "favoritesCount": 19,
+      "readingCount": 1887,
+      "score": 4,
+      "votesCount": 4,
+      "votesCountPlus": 3,
+      "votesCountMinus": 1,
+      "reach": 7699,
+      "readers": 1385
+    },
+    "hubs": [
+      {
+        "id": "23393",
+        "alias": "spring_aio",
+        "title": "Блог компании Spring АйО"
+      },
+      {
+        "id": "359",
+        "alias": "programming",
+        "title": "Программирование"
+      },
+      {
+        "id": "375",
+        "alias": "java",
+        "title": "Java"
+      },
+      {
+        "id": "19441",
+        "alias": "kotlin",
+        "title": "Kotlin"
+      }
+    ],
+    "tags": [
+      "java",
+      "spring",
+      "spring framework",
+      "kotlin",
+      "spring boot",
+      "spring-boot"
+    ],
+    "matchedTokens": [
+      "Spring",
+      "AI"
+    ]
+  },
+  {
+    "id": "1091500",
+    "url": "https://habr.com/ru/articles/1091500/",
+    "timePublished": "2026-10-07T13:07:08+00:00",
+    "postType": "article",
+    "title": "Java Digest 40: что изменилось в Java 27 и почему Spring ускоряет релизы",
+    "lead": "Всем привет! 👋👋👋👋 Мы — Java-разработчики Т-Банка: Андрей, Арсений, Роман и Константин. Собираем интересные новости, статьи, туториалы и другие материалы из мира Java-разработки и делимся этим со всем сообществом.В этом выпуске рассказываем о том, что Java 27 вышла с компактными заголовками объектов и G1 по умолчанию, Сбер представил собственный SberJDK, а Spring меняет подход к релизам из-за потока AI-найденных уязвимостей. Разбираем новые фичи, смотрим, как Netflix применяет AOT Cache, и выясняем, почему Spring Data JDBC — это не просто упрощенный Hibernate. Обо всем этом читайте в выпуске 🙂",
+    "statistics": {
+      "commentsCount": 1,
+      "favoritesCount": 13,
+      "readingCount": 2245,
+      "score": 10,
+      "votesCount": 10,
+      "votesCountPlus": 9,
+      "votesCountMinus": 1,
+      "reach": 8055,
+      "readers": 1453
+    },
+    "hubs": [
+      {
+        "id": "17420",
+        "alias": "tbank",
+        "title": "Блог компании Т-Банк"
+      },
+      {
+        "id": "375",
+        "alias": "java",
+        "title": "Java"
+      }
+    ],
+    "tags": [
+      "java",
+      "jvm",
+      "jdk",
+      "spring",
+      "spring-boot",
+      "java27"
+    ],
+    "matchedTokens": [
+      "Spring",
+      "AI"
+    ]
+  },
+  {
+    "id": "883830",
+    "url": "https://habr.com/ru/news/883830/",
+    "timePublished": "2025-02-19T07:53:45+00:00",
+    "postType": "news",
+    "title": "Джунов больше не будет / JVM бывает глубокой / Нас всех отсертифицируют | Spring АйО Подкаст №7",
+    "lead": "Представляем седьмой выпуск подкаста команды Spring АйО.Эксперты обсудили ключевые события недели: погружение в процесс запуска JVM, роль AI-агента от JetBrains, сертификацию разработчиков и ее необходимость, а также скрытые механизмы обработки ошибок в JVM.",
+    "statistics": {
+      "commentsCount": 4,
+      "favoritesCount": 9,
+      "readingCount": 6768,
+      "score": 5,
+      "votesCount": 7,
+      "votesCountPlus": 6,
+      "votesCountMinus": 1,
+      "reach": 11368,
+      "readers": 11309
+    },
+    "hubs": [
+      {
+        "id": "23393",
+        "alias": "spring_aio",
+        "title": "Блог компании Spring АйО"
+      },
+      {
+        "id": "359",
+        "alias": "programming",
+        "title": "Программирование"
+      },
+      {
+        "id": "375",
+        "alias": "java",
+        "title": "Java"
+      },
+      {
+        "id": "19441",
+        "alias": "kotlin",
+        "title": "Kotlin"
+      }
+    ],
+    "tags": [
+      "idea",
+      "ide",
+      "java",
+      "spring",
+      "spring framework",
+      "spring security",
+      "spring boot",
+      "spring-boot",
+      "koltin"
+    ],
+    "matchedTokens": [
+      "Spring",
+      "AI"
+    ]
+  },
+  {
+    "id": "896466",
+    "url": "https://habr.com/ru/news/896466/",
+    "timePublished": "2025-04-01T11:36:48+00:00",
+    "postType": "news",
+    "title": "Без диплома мы никто / AI: казнить нельзя помиловать / Ловим сеньора-вруна | Spring АйО Подкаст №12",
+    "lead": "Представляем двеннадцатый выпуск подкаста команды Spring АйО. Эксперты обсудили: противостояние самоучек и выпускников вузов, ценность Stack Overflow и ChatGPT для разработчиков, как отличить профессионала от иммитатора с 10-летним опытом и несколько постов сообщества прошедшей недели про SAML2 и сравнение SpringRunner со SpringExtension и @SpringBootTest",
+    "statistics": {
+      "commentsCount": 2,
+      "favoritesCount": 4,
+      "readingCount": 1557,
+      "score": 7,
+      "votesCount": 12,
+      "votesCountPlus": 9,
+      "votesCountMinus": 3,
+      "reach": 2500,
+      "readers": 2476
+    },
+    "hubs": [
+      {
+        "id": "23393",
+        "alias": "spring_aio",
+        "title": "Блог компании Spring АйО"
+      },
+      {
+        "id": "359",
+        "alias": "programming",
+        "title": "Программирование"
+      },
+      {
+        "id": "375",
+        "alias": "java",
+        "title": "Java"
+      },
+      {
+        "id": "19441",
+        "alias": "kotlin",
+        "title": "Kotlin"
+      }
+    ],
+    "tags": [
+      "test",
+      "java",
+      "spring",
+      "spring framework",
+      "spring data",
+      "spring boot",
+      "spring-boot",
+      "koltin"
+    ],
+    "matchedTokens": [
+      "Spring",
+      "AI"
+    ]
+  },
+  {
+    "id": "923806",
+    "url": "https://habr.com/ru/articles/923806/",
+    "timePublished": "2025-07-01T09:16:01+00:00",
+    "postType": "article",
+    "title": "Тест-кейсы на автопилоте: как Spring AI и Atlassian MCP упрощают жизнь тестировщика",
+    "lead": "Тест-кейсы перестанут быть твоей головной болью и болью твоей команды. Нужно просто перестать их писать. Путь от спецификации до коллекции в тест-менеджере может быть пройден за минуту. Достаточно принимать по одной чайной ложке...Или попытаться воспроизвести цепочку задач с помощью AI: модель легким движением промпта превращается в QA, нарезает спеку на чанки, отдавая тебе список из структурированных данных, которые ты шлешь далее в свой тест-менеджер.Пишу о своих изысканиях в области автоматизации рутинных процессов с помощью Spring AI, Atlassian MCP, Qdrant, OpenAI, Allure TestOps.",
+    "statistics": {
+      "commentsCount": 4,
+      "favoritesCount": 12,
+      "readingCount": 1943,
+      "score": 0,
+      "votesCount": 2,
+      "votesCountPlus": 1,
+      "votesCountMinus": 1,
+      "reach": 2889,
+      "readers": 2841
+    },
+    "hubs": [
+      {
+        "id": "144",
+        "alias": "open_source",
+        "title": "Open source"
+      },
+      {
+        "id": "375",
+        "alias": "java",
+        "title": "Java"
+      }
+    ],
+    "tags": [
+      "ai",
+      "qa",
+      "mcp",
+      "atlassian",
+      "qa automation",
+      "sping",
+      "allure testops",
+      "qdrant"
+    ],
+    "matchedTokens": [
+      "Spring",
+      "AI"
+    ]
+  },
+  {
+    "id": "973764",
+    "url": "https://habr.com/ru/articles/973764/",
+    "timePublished": "2025-12-07T08:00:46+00:00",
+    "postType": "article",
+    "title": "“JavaScript — это плохо, а Java — это хорошо”. AI, вайб-кодинг, Spring и рынок труда: что волнует джавистов сегодня",
+    "lead": "На конференции Joker 2025 у нас была отличная возможность понять, как живётся Java-сообществу.Как AI влияет на Java-разработку? Вайб-кодинг — полезный инструмент или угроза рабочим местам? Spring — незаменимый фреймворк или слишком тяжёл для многих задач? Что с рынком труда и зачем кандидаты накручивают опыт? И главное — зачем писать на Java, если есть JavaScript? Смотрите на YouTube и VK Видео",
+    "statistics": {
+      "commentsCount": 1,
+      "favoritesCount": 5,
+      "readingCount": 2725,
+      "score": 1,
+      "votesCount": 5,
+      "votesCountPlus": 3,
+      "votesCountMinus": 2,
+      "reach": 7174,
+      "readers": 1868
+    },
+    "hubs": [
+      {
+        "id": "23502",
+        "alias": "axiomjdk",
+        "title": "Блог компании Axiom JDK"
+      },
+      {
+        "id": "20754",
+        "alias": "tech_events",
+        "title": "Конференции"
+      },
+      {
+        "id": "359",
+        "alias": "programming",
+        "title": "Программирование"
+      },
+      {
+        "id": "19441",
+        "alias": "kotlin",
+        "title": "Kotlin"
+      },
+      {
+        "id": "375",
+        "alias": "java",
+        "title": "Java"
+      }
+    ],
+    "tags": [
+      "java",
+      "конференция",
+      "jdk",
+      "spring",
+      "ai",
+      "jokerconf",
+      "spring boot",
+      "axiom jdk",
+      "axiomjdk",
+      "vibecoding"
+    ],
+    "matchedTokens": [
+      "Spring",
+      "AI"
+    ]
+  },
+  {
+    "id": "984544",
+    "url": "https://habr.com/ru/articles/984544/",
+    "timePublished": "2026-01-12T14:56:05+00:00",
+    "postType": "article",
+    "title": "Как затащить AI в Java/Kotlin проект",
+    "lead": "Мир Enterprise-разработки на Java/Kotlin и мир нейронных сетей кажутся параллельными вселенными. С одной стороны - статическая типизация, многопоточность, Spring-контейнеры, а с другой - Python-скрипты, тензорные операции и эксперименты в Jupyter Notebook. Между ними - пропасть, через которую многие команды не решаются перешагнуть.Однако необходимость строить этот мост возникает всё чаще. Заказчик хочет «искусственный интеллект» в новом фиче, аналитики мечтают о реализации чат-бота с преферансом и барышнями, а менеджеры слышали, что конкуренты уже всё автоматизировали. Как же совместить надежность и структуру JVM-проекта с гибкостью и мощью AI? В этой статье постараемся разобраться какие инструменты для этого есть на данный момент и как с ними работать.",
+    "statistics": {
+      "commentsCount": 0,
+      "favoritesCount": 43,
+      "readingCount": 4930,
+      "score": 4,
+      "votesCount": 11,
+      "votesCountPlus": 7,
+      "votesCountMinus": 4,
+      "reach": 9618,
+      "readers": 2224
+    },
+    "hubs": [
+      {
+        "id": "19441",
+        "alias": "kotlin",
+        "title": "Kotlin"
+      },
+      {
+        "id": "375",
+        "alias": "java",
+        "title": "Java"
+      },
+      {
+        "id": "397",
+        "alias": "analysis_design",
+        "title": "Анализ и проектирование систем"
+      },
+      {
+        "id": "21922",
+        "alias": "artificial_intelligence",
+        "title": "Искусственный интеллект"
+      },
+      {
+        "id": "19439",
+        "alias": "machine_learning",
+        "title": "Машинное обучение"
+      }
+    ],
+    "tags": [
+      "java",
+      "ии",
+      "ai",
+      "kotlin",
+      "embeddings",
+      "llm",
+      "docling",
+      "state graph",
+      "vector db"
+    ],
+    "matchedTokens": [
+      "Spring",
+      "AI"
+    ]
+  },
+  {
+    "id": "986226",
+    "url": "https://habr.com/ru/articles/986226/",
+    "timePublished": "2026-02-06T11:06:24+00:00",
+    "postType": "article",
+    "title": "Explyt Spring. Tools for MCP Server plugin",
+    "lead": "Всем привет! На связи команда Explyt Spring. Недавно у нас вышел очередной релиз, который включает поддержку MCP Server plugin. Мы добавили “тулы”, облегчающие работу со Spring проектами для LLM. Ранее у нас уже была статья, в которой мы рассказывали об интеграции с Explyt AI плагином. Это были простые промпты для генерации: DTO, Entity, SQL скриптов и прочего. Несмотря на свою простоту, они добавляли в промпт необходимую информацию для выполнения конкретного действия: необходимый файл, тип БД - который подключен к проекту, библиотека для работы с Entity - javax или jakarta и прочее. Теперь пришло время добавить полноценные агентские Spring \"тулы\" для LLM, чтобы более точно понимать контекст Spring приложения.",
+    "statistics": {
+      "commentsCount": 5,
+      "favoritesCount": 7,
+      "readingCount": 933,
+      "score": 5,
+      "votesCount": 5,
+      "votesCountPlus": 5,
+      "votesCountMinus": 0,
+      "reach": 6088,
+      "readers": 494
+    },
+    "hubs": [
+      {
+        "id": "23232",
+        "alias": "txt_ide",
+        "title": "Текстовые редакторы и IDE"
+      },
+      {
+        "id": "144",
+        "alias": "open_source",
+        "title": "Open source"
+      },
+      {
+        "id": "375",
+        "alias": "java",
+        "title": "Java"
+      },
+      {
+        "id": "19441",
+        "alias": "kotlin",
+        "title": "Kotlin"
+      },
+      {
+        "id": "21922",
+        "alias": "artificial_intelligence",
+        "title": "Искусственный интеллект"
+      }
+    ],
+    "tags": [
+      "idea",
+      "java",
+      "plugin",
+      "spring",
+      "ai",
+      "mcp",
+      "kotlin",
+      "explyt"
+    ],
+    "matchedTokens": [
+      "Spring",
+      "AI"
+    ]
+  },
+  {
+    "id": "989662",
+    "url": "https://habr.com/ru/news/989662/",
+    "timePublished": "2026-01-27T16:21:32+00:00",
+    "postType": "news",
+    "title": "Fullstack проект на React, Python, Go и Spring: OpenIDE в действии [видео]",
+    "lead": "В новом видео Михаил Поливаха, Павел Кислов и Александр Шустанов проверяют OpenIDE на прочность в работе с мультиязычным стеком.По ходу видео эксперты рассказывают про типичные инженерные вещи — тестирование, прикладную бизнес-логику и интеграцию компонентов.В финале — краткие итоги и разговор про роль AI в разработке и инструментах программирования.",
+    "statistics": {
+      "commentsCount": 2,
+      "favoritesCount": 14,
+      "readingCount": 1468,
+      "score": 1,
+      "votesCount": 1,
+      "votesCountPlus": 1,
+      "votesCountMinus": 0,
+      "reach": 6636,
+      "readers": 1031
+    },
+    "hubs": [
+      {
+        "id": "18694",
+        "alias": "haulmont",
+        "title": "Блог компании Haulmont"
+      },
+      {
+        "id": "340",
+        "alias": "python",
+        "title": "Python"
+      },
+      {
+        "id": "17748",
+        "alias": "go",
+        "title": "Go"
+      },
+      {
+        "id": "375",
+        "alias": "java",
+        "title": "Java"
+      },
+      {
+        "id": "359",
+        "alias": "programming",
+        "title": "Программирование"
+      }
+    ],
+    "tags": [
+      "тестирование",
+      "go",
+      "python",
+      "spring",
+      "бизнес-логика",
+      "react",
+      "fullstack",
+      "openide",
+      "мультиязычный стек",
+      "ai в разработке"
+    ],
+    "matchedTokens": [
+      "Spring",
+      "AI"
+    ]
+  },
+  {
+    "id": "910122",
+    "url": "https://habr.com/ru/articles/910122/",
+    "timePublished": "2025-05-16T15:29:32+00:00",
+    "postType": "article",
+    "title": "Как я ушёл с Kotlin (Spring Boot) на Go (Gin) и сделал AI-чат с WebSocket и GPT-4",
+    "lead": "Меня зовут Артём, я занимаюсь коммерческой разработкой с 2019 года. Последние несколько лет я активно использовал Spring Boot для создания backend-сервисов на Java и Kotlin.Но в какой-то момент захотелось попробовать что-то новое. Не потому что Spring надоел, а просто чтобы выйти из зоны комфорта и узнать, как чувствует себя проект на другом языке. Я решил: возьму уже начатый pet-проект, перепишу его на Go — и посмотрю, как изменится подход, скорость разработки, ощущения.",
+    "statistics": {
+      "commentsCount": 17,
+      "favoritesCount": 88,
+      "readingCount": 12955,
+      "score": 6,
+      "votesCount": 19,
+      "votesCountPlus": 12,
+      "votesCountMinus": 7,
+      "reach": 19521,
+      "readers": 19419
+    },
+    "hubs": [
+      {
+        "id": "19441",
+        "alias": "kotlin",
+        "title": "Kotlin"
+      },
+      {
+        "id": "17748",
+        "alias": "go",
+        "title": "Go"
+      },
+      {
+        "id": "22125",
+        "alias": "natural_language_processing",
+        "title": "Natural Language Processing"
+      },
+      {
+        "id": "19439",
+        "alias": "machine_learning",
+        "title": "Машинное обучение"
+      },
+      {
+        "id": "6398",
+        "alias": "it-infrastructure",
+        "title": "IT-инфраструктура"
+      }
+    ],
+    "tags": [
+      "go",
+      "jwt",
+      "websocket",
+      "kotlin",
+      "docker",
+      "pet-project",
+      "github actions",
+      "gpt-4"
+    ],
+    "matchedTokens": [
+      "Spring",
+      "AI"
+    ]
+  },
+  {
+    "id": "854304",
+    "url": "https://habr.com/ru/articles/854304/",
+    "timePublished": "2024-10-29T17:12:48+00:00",
+    "postType": "article",
+    "title": "Не играй в догонялки со Spring — Explyt Spring plugin для IDEA Community",
+    "lead": "Всем привет. После моей предыдущей статьи о Maven плагине, где я предложил новый подход к реализации и создал свою версию для IDEA (вместо того чтобы писать свой мини-мавен, я делегировал всю основную работу ему посредством Maven плагина), меня пригласили работать над Spring плагином в IT-стартап Explyt. Компания занимается автоматической генерацией тестов на базе AI и формальных методов. В процессе работы столкнулся с проблемами, похожими на те, которые решал в своем Maven плагине. У меня возникло некое дежавю, и я подумал: почему бы не использовать подобный подход, чтобы доработать и улучшить Dependency Injection Explyt Spring плагина? Текст для тех, кто работает со Spring-плагинами и хочет разобраться, как эффективно применять готовую логику Спринга для новых задач. Заходите под кат, подробно поделюсь своим кейсом, покажу код, расскажу про итерации и объясню логику.",
+    "statistics": {
+      "commentsCount": 12,
+      "favoritesCount": 36,
+      "readingCount": 7655,
+      "score": 36,
+      "votesCount": 34,
+      "votesCountPlus": 31,
+      "votesCountMinus": 3,
+      "reach": 10949,
+      "readers": 10812
+    },
+    "hubs": [
+      {
+        "id": "144",
+        "alias": "open_source",
+        "title": "Open source"
+      },
+      {
+        "id": "23232",
+        "alias": "txt_ide",
+        "title": "Текстовые редакторы и IDE"
+      },
+      {
+        "id": "19441",
+        "alias": "kotlin",
+        "title": "Kotlin"
+      },
+      {
+        "id": "375",
+        "alias": "java",
+        "title": "Java"
+      },
+      {
+        "id": "359",
+        "alias": "programming",
+        "title": "Программирование"
+      }
+    ],
+    "tags": [
+      "idea",
+      "java",
+      "plugin",
+      "spring",
+      "kotlin",
+      "spring-boot",
+      "explyt",
+      "сезон open source"
+    ],
+    "matchedTokens": [
+      "Spring",
+      "AI"
+    ]
+  },
+  {
+    "id": "881288",
+    "url": "https://habr.com/ru/articles/881288/",
+    "timePublished": "2025-02-12T11:10:06+00:00",
+    "postType": "article",
+    "title": "Junie – новый AI-агент от JetBrains. Junior разработчики больше не нужны",
+    "lead": "В новом переводе от команды Spring АйО мы расскажем вам о новом продукте от компании JetBrains, который называется Junie. Новый продукт работает по принципу искусственного интеллекта и способен самостоятельно выполняет задачи по написанию кода.",
+    "statistics": {
+      "commentsCount": 26,
+      "favoritesCount": 41,
+      "readingCount": 21032,
+      "score": 7,
+      "votesCount": 18,
+      "votesCountPlus": 12,
+      "votesCountMinus": 6,
+      "reach": 35127,
+      "readers": 34971
+    },
+    "hubs": [
+      {
+        "id": "23393",
+        "alias": "spring_aio",
+        "title": "Блог компании Spring АйО"
+      },
+      {
+        "id": "375",
+        "alias": "java",
+        "title": "Java"
+      },
+      {
+        "id": "19441",
+        "alias": "kotlin",
+        "title": "Kotlin"
+      },
+      {
+        "id": "359",
+        "alias": "programming",
+        "title": "Программирование"
+      }
+    ],
+    "tags": [
+      "java",
+      "ai",
+      "junie",
+      "coding agent",
+      "swebench verified benchmark",
+      "coding assistant"
+    ],
+    "matchedTokens": [
+      "Spring",
+      "AI"
+    ]
+  },
+  {
+    "id": "1025934",
+    "url": "https://habr.com/ru/news/1025934/",
+    "timePublished": "2026-04-21T12:52:19+00:00",
+    "postType": "news",
+    "title": "Онлайн-вебинар: научи своего AI-агента писать код на Spring",
+    "lead": "Уже в этот четверг Илья Кучмин (AI DevTools Lead) и Павел Кислов (Эксперт Spring АйО) проведут прямую трансляцию, на которой расскажут, как:– ускорить разработку с AI-агентами (Claude, Codex, OpenCode, ...)– снизить количество токенов во время решения рабочих задач– и получать код, который не приходится переписывать вручную",
+    "statistics": {
+      "commentsCount": 0,
+      "favoritesCount": 0,
+      "readingCount": 393,
+      "score": 4,
+      "votesCount": 4,
+      "votesCountPlus": 4,
+      "votesCountMinus": 0,
+      "reach": 5551,
+      "readers": 266
+    },
+    "hubs": [
+      {
+        "id": "18694",
+        "alias": "haulmont",
+        "title": "Блог компании Haulmont"
+      },
+      {
+        "id": "375",
+        "alias": "java",
+        "title": "Java"
+      },
+      {
+        "id": "23232",
+        "alias": "txt_ide",
+        "title": "Текстовые редакторы и IDE"
+      },
+      {
+        "id": "21922",
+        "alias": "artificial_intelligence",
+        "title": "Искусственный интеллект"
+      },
+      {
+        "id": "359",
+        "alias": "programming",
+        "title": "Программирование"
+      }
+    ],
+    "tags": [
+      "ide",
+      "искусственный интеллект",
+      "агент",
+      "intellij idea",
+      "codex",
+      "amplicode",
+      "ai agent",
+      "openide",
+      "claude code"
+    ],
+    "matchedTokens": [
+      "Spring",
+      "AI"
+    ]
+  },
+  {
+    "id": "1032174",
+    "url": "https://habr.com/ru/articles/1032174/",
+    "timePublished": "2026-05-06T13:03:15+00:00",
+    "postType": "article",
+    "title": "Cursor удалил прод за 9 секунд, а Zig и JVM запретили AI-коммиты",
+    "lead": "Двенадцатый выпуск еженедельных IT-новостей от OpenIDE!На этой неделе прошёл JPoint 2026, вышел Amplicode 2026.1 со Spring Agent Toolkit, а Anthropic впервые обогнала OpenAI по оценке на вторичном рынке. Плюс история о том, как AI-агент удалил продакшн-базу данных за 9 секунд.",
+    "statistics": {
+      "commentsCount": 4,
+      "favoritesCount": 8,
+      "readingCount": 6692,
+      "score": 14,
+      "votesCount": 14,
+      "votesCountPlus": 13,
+      "votesCountMinus": 1,
+      "reach": 15165,
+      "readers": 5374
+    },
+    "hubs": [
+      {
+        "id": "18694",
+        "alias": "haulmont",
+        "title": "Блог компании Haulmont"
+      },
+      {
+        "id": "23232",
+        "alias": "txt_ide",
+        "title": "Текстовые редакторы и IDE"
+      },
+      {
+        "id": "375",
+        "alias": "java",
+        "title": "Java"
+      },
+      {
+        "id": "359",
+        "alias": "programming",
+        "title": "Программирование"
+      },
+      {
+        "id": "21922",
+        "alias": "artificial_intelligence",
+        "title": "Искусственный интеллект"
+      }
+    ],
+    "tags": [
+      "cursor",
+      "zig",
+      "github copilot",
+      "anthropic",
+      "amplicode",
+      "ghostty",
+      "claude opus",
+      "ai инфраструктура",
+      "spring agent toolkit"
+    ],
+    "matchedTokens": [
+      "Spring",
+      "AI"
+    ]
+  },
+  {
+    "id": "1034688",
+    "url": "https://habr.com/ru/articles/1034688/",
+    "timePublished": "2026-05-18T10:49:36+00:00",
+    "postType": "article",
+    "title": "Spring Agent Toolkit: ультимативный набор для вашего AI-агента",
+    "lead": "AI-агенты уже стали частью повседневной разработки. Сначала это выглядит как магия: формулируешь задачу, получаешь код, тесты, иногда даже готовый PR.Но довольно быстро приходит осознание:– токены улетают слишком быстро;– задача выполняется дольше, чем ожидалось;– результат не всегда совпадает с тем, что было задумано.В этой статье разберем, что с этим можно сделать на практике и почему для хорошего результата критически важен правильно подобранный набор инструментов.",
+    "statistics": {
+      "commentsCount": 0,
+      "favoritesCount": 31,
+      "readingCount": 3690,
+      "score": 5,
+      "votesCount": 10,
+      "votesCountPlus": 7,
+      "votesCountMinus": 3,
+      "reach": 9632,
+      "readers": 1836
+    },
+    "hubs": [
+      {
+        "id": "18694",
+        "alias": "haulmont",
+        "title": "Блог компании Haulmont"
+      },
+      {
+        "id": "359",
+        "alias": "programming",
+        "title": "Программирование"
+      },
+      {
+        "id": "375",
+        "alias": "java",
+        "title": "Java"
+      },
+      {
+        "id": "22014",
+        "alias": "futurenow",
+        "title": "Будущее здесь"
+      },
+      {
+        "id": "21922",
+        "alias": "artificial_intelligence",
+        "title": "Искусственный интеллект"
+      }
+    ],
+    "tags": [
+      "rest",
+      "mcp",
+      "генерация кода",
+      "skill",
+      "jpa",
+      "spring-boot",
+      "ai-агенты"
+    ],
+    "matchedTokens": [
+      "Spring",
+      "AI"
+    ]
+  },
+  {
+    "id": "1040280",
+    "url": "https://habr.com/ru/articles/1040280/",
+    "timePublished": "2026-05-30T10:03:15+00:00",
+    "postType": "article",
+    "title": "Как я заставил AI‑агента писать нормальный код на Spring",
+    "lead": "Откуда берётся «среднее приложение с GitHub»? Если попросить агента создать JPA‑сущность или настроить Spring Security, то он выдаст вполне рабочий код. Вопрос только в одном: для какого проекта?Модели натренированы на миллионах репозиториев: студенческие работы, всех задолбавшая Petclinic, туториалы с YouTube, у меня кстати, есть куча своих:D. Но без чёткого контекста агент выдаёт типичное «среднее приложение с GitHub»: всё синтаксически верно, но далеко не всегда вписывается в существующий РЕАЛЬНЫЙ проект. С Lombok или без него? Используя @IdClass или @EmbeddedId? Предпочитаешь Record'ы или классические классы? Как у тебя маппятся DTO? Агент этого не знает и чаще всего либо пытается угадать, либо начинает грепать всё что можно и нельзя.Prompt engineering помогает, но ненадолго. Прикреплять каждый раз примеры сущностей и архитектурные правила — прошлый век. Интеграция в IDE с @ и выбором файлов уже лучше, но всё равно надо постоянно об этом помнить и как РОБОТ писать ему одно и тоже.",
+    "statistics": {
+      "commentsCount": 1,
+      "favoritesCount": 45,
+      "readingCount": 5106,
+      "score": 10,
+      "votesCount": 11,
+      "votesCountPlus": 10,
+      "votesCountMinus": 1,
+      "reach": 12387,
+      "readers": 3187
+    },
+    "hubs": [
+      {
+        "id": "18694",
+        "alias": "haulmont",
+        "title": "Блог компании Haulmont"
+      },
+      {
+        "id": "21922",
+        "alias": "artificial_intelligence",
+        "title": "Искусственный интеллект"
+      },
+      {
+        "id": "359",
+        "alias": "programming",
+        "title": "Программирование"
+      },
+      {
+        "id": "375",
+        "alias": "java",
+        "title": "Java"
+      },
+      {
+        "id": "19441",
+        "alias": "kotlin",
+        "title": "Kotlin"
+      }
+    ],
+    "tags": [
+      "cursor ai",
+      "claude code",
+      "mcp server",
+      "ai coding",
+      "agentic development",
+      "spring agent toolkit",
+      "spring skills",
+      "spring boot architecture",
+      "jpa best practices",
+      "intellij ai plugin"
+    ],
+    "matchedTokens": [
+      "Spring",
+      "AI"
+    ]
+  },
+  {
+    "id": "1045590",
+    "url": "https://habr.com/ru/articles/1045590/",
+    "timePublished": "2026-06-17T07:49:33+00:00",
+    "postType": "article",
+    "title": "Skill of the Week: Spring Data JPA. Никто не знает JPA, даже AI",
+    "lead": "Знание и умение разрабатывать на Spring Data JPA — это обязательный навык для разработчика, если он хочет заниматься разработкой приложений на Spring. Этого мы ожидаем и от AI-агента.Удовлетворяют ли наши AI-агента этому условию? Во многом зависит от того, насколько продвинутую модель вы используете. Значит ли это, что Opus 4.8 не совершает ошибок? Совсем нет. Более того, иногда удивляешься, почему еще вчера он настроил связь правильно, а уже сегодня сделал ту же работу, но добавил CascadeType.ALL.В сегодняшнем эпизоде еженедельной рубрики Skill of the Week разберёмся, как, используя Spring Data JPA Skill, научить своего агента важным навыкам при работе со Spring Data JPA.",
+    "statistics": {
+      "commentsCount": 5,
+      "favoritesCount": 12,
+      "readingCount": 2178,
+      "score": 7,
+      "votesCount": 7,
+      "votesCountPlus": 6,
+      "votesCountMinus": 1,
+      "reach": 8049,
+      "readers": 1341
+    },
+    "hubs": [
+      {
+        "id": "18694",
+        "alias": "haulmont",
+        "title": "Блог компании Haulmont"
+      },
+      {
+        "id": "359",
+        "alias": "programming",
+        "title": "Программирование"
+      },
+      {
+        "id": "375",
+        "alias": "java",
+        "title": "Java"
+      },
+      {
+        "id": "22014",
+        "alias": "futurenow",
+        "title": "Будущее здесь"
+      },
+      {
+        "id": "21922",
+        "alias": "artificial_intelligence",
+        "title": "Искусственный интеллект"
+      }
+    ],
+    "tags": [
+      "java",
+      "spring",
+      "hibernate",
+      "jpa",
+      "skills",
+      "spring boot",
+      "spring data jpa",
+      "ai-агенты"
+    ],
+    "matchedTokens": [
+      "Spring",
+      "AI"
+    ]
+  },
+  {
+    "id": "1050834",
+    "url": "https://habr.com/ru/articles/1050834/",
+    "timePublished": "2026-06-24T08:42:50+00:00",
+    "postType": "article",
+    "title": "Skill of the Week: Spring Data JDBC — качество Opus на модели за копейки",
+    "lead": "Ранее в рубрике Skill of the Week мы уже разбирали Skill для Spring Data JPA. И, что предсказуемо, в комментариях нашлись те, кто увидел в нём лишнее доказательство простого тезиса: «вот видите, JPA не нужна, она слишком сложная». Аргумент понятный — у AI Agent-а с JPA действительно регулярно случаются «пожары»: ошибки в настройке связей между сущностями, странности с конфигурацией базовых типов, путаница с контекстом персистентности и разными состояниями сущности. Что характерно, ровно на этих же местах спотыкаются и живые разработчики — так что претензия скорее к технологии, чем к модели.Раз JPA такая сложная — почему бы не взять что-нибудь попроще? Чистый JDBC многим кажется слишком низкоуровневым, и взгляд естественным образом падает на Spring Data JDBC: те же репозитории и сущности, но без прокси, lazy loading и кэша первого уровня. Технология проще — значит, и никакой Skill тут не нужен, верно?А вот и нет. Умение AI «пользоваться» той или иной технологией зависит не столько от её когнитивной сложности, сколько от того, сколько кода с её использованием модель видела на этапе обучения. Spring Data JDBC объективно проще JPA, но кода с ней в открытом доступе на порядки меньше. Парадокс, но именно для технологий «с малым количеством кода» Skill даёт наибольший эффект: он закрывает ровно тот пробел, который модели нечем заполнить самостоятельно.В сегодняшнем эпизоде еженедельной рубрики Skill of the Week разберёмся, как, используя Spring Data JDBC Skill, научить своего агента важным навыкам при работе со Spring Data JDBC.",
+    "statistics": {
+      "commentsCount": 0,
+      "favoritesCount": 12,
+      "readingCount": 1531,
+      "score": 12,
+      "votesCount": 9,
+      "votesCountPlus": 9,
+      "votesCountMinus": 0,
+      "reach": 8865,
+      "readers": 917
+    },
+    "hubs": [
+      {
+        "id": "18694",
+        "alias": "haulmont",
+        "title": "Блог компании Haulmont"
+      },
+      {
+        "id": "22014",
+        "alias": "futurenow",
+        "title": "Будущее здесь"
+      },
+      {
+        "id": "21922",
+        "alias": "artificial_intelligence",
+        "title": "Искусственный интеллект"
+      },
+      {
+        "id": "375",
+        "alias": "java",
+        "title": "Java"
+      },
+      {
+        "id": "359",
+        "alias": "programming",
+        "title": "Программирование"
+      }
+    ],
+    "tags": [
+      "java",
+      "ddd",
+      "spring",
+      "jdbc",
+      "kotlin",
+      "spring boot",
+      "spring data jdbc",
+      "llm",
+      "ai-агенты",
+      "claude-code"
+    ],
+    "matchedTokens": [
+      "Spring",
+      "AI"
+    ]
+  },
+  {
+    "id": "1055288",
+    "url": "https://habr.com/ru/articles/1055288/",
+    "timePublished": "2026-07-03T12:14:03+00:00",
+    "postType": "article",
+    "title": "LSP vs весь стек JetBrains IDE: что получает AI-агент без доступа к платформе IDE",
+    "lead": "Привет, Хабр.Сейчас почти каждый AI-кодинг-агент подключает LSP — Language Server Protocol. Это тот самый протокол, по которому редактор общается с языковым сервером: go-to-definition, find usages, hover с типом, диагностика. На этом обычно и пишут: «агент понимает код семантически».Но мы в Veai делаем агента для JetBrains IDE, и нас периодически спрашивают: а зачем вообще нужен IDE, если LSP уже всё умеет? Хороший вопрос. LSP и правда решает много задач, но он проектировался для редактора, а не для агента. Подсветить ошибку, показать тип под курсором, найти ссылки — для этого LSP достаточно. А вот поменять Spring-бин в enterprise-проекте и не сломать сборку — тут нужно чуть больше.Под катом разберём, что именно LSP даёт агенту, где этого перестаёт хватать и что поверх той же модели проекта предлагает JetBrains Platform. Спойлер: сравнивать LSP и PSI один в один бессмысленно — LSP это протокол, PSI это модель. Речь пойдёт о LSP vs весь стек IDE.",
+    "statistics": {
+      "commentsCount": 10,
+      "favoritesCount": 18,
+      "readingCount": 1512,
+      "score": 11,
+      "votesCount": 9,
+      "votesCountPlus": 9,
+      "votesCountMinus": 0,
+      "reach": 9825,
+      "readers": 933
+    },
+    "hubs": [
+      {
+        "id": "23526",
+        "alias": "veai",
+        "title": "Блог компании Veai"
+      },
+      {
+        "id": "23232",
+        "alias": "txt_ide",
+        "title": "Текстовые редакторы и IDE"
+      },
+      {
+        "id": "19441",
+        "alias": "kotlin",
+        "title": "Kotlin"
+      },
+      {
+        "id": "375",
+        "alias": "java",
+        "title": "Java"
+      },
+      {
+        "id": "359",
+        "alias": "programming",
+        "title": "Программирование"
+      }
+    ],
+    "tags": [
+      "idea",
+      "ide",
+      "java",
+      "программирование",
+      "ai",
+      "lsp",
+      "lspconfig",
+      "ai-агенты",
+      "jetbrains ide",
+      "lsp аналог"
+    ],
+    "matchedTokens": [
+      "Spring",
+      "AI"
+    ]
+  },
+  {
+    "id": "1073796",
+    "url": "https://habr.com/ru/articles/1073796/",
+    "timePublished": "2026-08-25T07:19:30+00:00",
+    "postType": "article",
+    "title": "OpenIDE Pro в деле: Java, Spring, базы данных и AI-агенты в одной IDE",
+    "lead": "За последние несколько лет часть привычных инструментов разработки стала для российских компаний ограничена или недоступна: возникли сложности с закупкой лицензий, обновлениями и официальной поддержкой. При этом разработчикам по-прежнему нужны знакомые инструменты: навигация по коду, рефакторинг, работа с фреймворками, базами данных и другими компонентами привычной IDE.27 августа в 11:00 покажем OpenIDE Pro вживую: от разработки на Java и Spring до работы с базами данных и AI-агентами прямо в IDE.👉 Зарегистрироваться на вебинар",
+    "statistics": {
+      "commentsCount": 0,
+      "favoritesCount": 8,
+      "readingCount": 1320,
+      "score": 10,
+      "votesCount": 9,
+      "votesCountPlus": 8,
+      "votesCountMinus": 1,
+      "reach": 6778,
+      "readers": 1017
+    },
+    "hubs": [
+      {
+        "id": "23502",
+        "alias": "axiomjdk",
+        "title": "Блог компании Axiom JDK"
+      },
+      {
+        "id": "559",
+        "alias": "cpp",
+        "title": "C++"
+      },
+      {
+        "id": "375",
+        "alias": "java",
+        "title": "Java"
+      },
+      {
+        "id": "340",
+        "alias": "python",
+        "title": "Python"
+      },
+      {
+        "id": "23232",
+        "alias": "txt_ide",
+        "title": "Текстовые редакторы и IDE"
+      }
+    ],
+    "tags": [
+      "ide",
+      "go",
+      "python",
+      "c++",
+      "разработка приложений",
+      "kotlin",
+      "spring boot",
+      "axiom jdk",
+      "axiomjdk",
+      "openide"
+    ],
+    "matchedTokens": [
+      "Spring",
+      "AI"
+    ]
+  },
+  {
+    "id": "1022940",
+    "url": "https://habr.com/ru/news/1022940/",
+    "timePublished": "2026-04-13T13:51:18+00:00",
+    "postType": "news",
+    "title": "ИИ в корпоративной разработке: Джеймикс офлайн митап в Москве",
+    "lead": "🗓 23 апреля 2026, 18:30 - 22:30📍Адрес: AZIMUT Сити Отель Смоленская Москва 4*, г. Москва, ул. Смоленская, д. 8 (м. Смоленская)Это возможность для Java-сообщества обсудить, как меняется enterprise-разработка в эпоху цифровой трансформации и какие инструменты стоит использовать сегодня.Программа:✔️ Как мы Джеймикс с ИИ дружилиДима Кремнев, ведущий разработчикРасскажем историю развития ИИ в Джеймикс — от умного ассистента до искусственного коллеги-аналитика. На живых примерах покажем, как ИИ можно использовать прямо на продакшене. И, конечно, поделимся, как воспитывать LLM, чтобы она не устраивала апокалипсис в вашем приложении.✔️ Как прикрутить ИИ к приложению и перестать страдатьДима Черкасов, ведущий разработчикВаш менеджер уже спрашивал: «А можем ли мы туда ИИ прикрутить?» Да? Скоро спросит снова. Так давайте подготовимся. Разберем, как Spring AI + Джеймикс превращают страшное слово «ИИ-интеграция» в пару конфигов и один контроллер. RAG, чат-боты с памятью, автоклассификация — всё на знакомом стеке, без ученой степени по ИИ и жертвоприношений GPU-кластеру. Код будет в докладе, а слайды с буллетпоинтами — нет.✔️ Умный чат, закрытый контур и немного здорового недоверияДима Ващенко, ведущий тренерУмный чат, закрытый контур и немного здорового недоверияПоговорим о том, как строить ИИ-ассистента с локальными моделями на Джеймикс так, чтобы он искал по базе знаний, отвечал по-человечески, не уносил данные наружу и не фантазировал там, где должен просто взять и посчитать.Записей докладов не будет!",
+    "statistics": {
+      "commentsCount": 0,
+      "favoritesCount": 3,
+      "readingCount": 173,
+      "score": 0,
+      "votesCount": 0,
+      "votesCountPlus": 0,
+      "votesCountMinus": 0,
+      "reach": 3961,
+      "readers": 124
+    },
+    "hubs": [
+      {
+        "id": "18694",
+        "alias": "haulmont",
+        "title": "Блог компании Haulmont"
+      },
+      {
+        "id": "359",
+        "alias": "programming",
+        "title": "Программирование"
+      },
+      {
+        "id": "21922",
+        "alias": "artificial_intelligence",
+        "title": "Искусственный интеллект"
+      },
+      {
+        "id": "22014",
+        "alias": "futurenow",
+        "title": "Будущее здесь"
+      }
+    ],
+    "tags": [
+      "программирование",
+      "ии",
+      "митап",
+      "intellij idea plugin",
+      "intellijidea",
+      "jmix",
+      "ии-ассистент"
+    ],
+    "matchedTokens": [
+      "Spring",
+      "AI"
+    ]
+  },
+  {
+    "id": "1070290",
+    "url": "https://habr.com/ru/articles/1070290/",
+    "timePublished": "2026-08-15T08:43:31+00:00",
+    "postType": "article",
+    "title": "Курсы по ИИ-агентам 2026: обзор программ от Учебного центра IBS для разработчиков и ИБ-специалистов",
+    "lead": "Курсы по ИИ-агентам превращают рутинную разработку в рабочую систему AI-автоматизации: программисты осваивают Semantic Kernel, Spring AI и MCP, создавая безопасных агентов для enterprise-задач и SOC. Мы протестировали несколько программ от IBS из каталога Хабр Курсов и подготовили точный алгоритм выбора под ваш технологический стек.",
+    "statistics": {
+      "commentsCount": 0,
+      "favoritesCount": 0,
+      "readingCount": 225,
+      "score": 0,
+      "votesCount": 0,
+      "votesCountPlus": 0,
+      "votesCountMinus": 0,
+      "reach": 233,
+      "readers": 138
+    },
+    "hubs": [
+      {
+        "id": "23790",
+        "alias": "top_picks",
+        "title": "Лучшие рекомендации"
+      }
+    ],
+    "tags": [
+      "онлайн обучение",
+      "онлайн курсы",
+      "онлайн образование"
+    ],
+    "matchedTokens": [
+      "Spring",
+      "AI"
+    ]
+  },
+  {
+    "id": "906538",
+    "url": "https://habr.com/ru/articles/906538/",
+    "timePublished": "2025-05-03T00:53:46+00:00",
+    "postType": "article",
+    "title": "Mellum. Быстрая, миниатюрная модель для дополнения кода в редакторе",
+    "lead": "Человек купил в магазине ящик елочных игрушек. На следующий день приносит его обратно:- Ваш товар бракованный.- Что, игрушки битые?- Нет, целые.- Не блестят?- Блестят.- Так в чем же дело?- НЕ РАДУЮТ! Автодополнение всегда было силой и гордостью современных IDE. Сравнивая IDEA, VSCode и Eclipse, мы смотрим — оно вообще адекватные вещи пишет в выпадающей менюшке? Знает про Spring, про Next.js, про свежие апдейты в Питоне?В последнее время, обычные алгоритмы не являются предметом хайпа. В мире IDE появился новый царь горы — AI, который обязан быть везде. Старые игрушки продолжают работать, но уже не радуют. Этот текст — адаптированный перевод статьи из блога JetBrains (я постарался сделать текст более читабельным и менее похожим на политкорректный пресс-релиз). Мы посмотрим, как обучилась модель Mellum, лежащая в основе облачного автодополнения, и что из этого вышло.Напоминаю, основной продукт JetBrains — это их IDE, редактор кода для программистов. Модель Mellum занимается автодополнением кода в редакторе, и является одной из самых быстрых и миниатюрных в своем классе. Она способна запускаться на устройстве (не только в облаке у арабских шейхов). Чем-то похожим по смыслу можно считать Microsoft Phi.",
+    "statistics": {
+      "commentsCount": 9,
+      "favoritesCount": 22,
+      "readingCount": 4584,
+      "score": 8,
+      "votesCount": 7,
+      "votesCountPlus": 7,
+      "votesCountMinus": 0,
+      "reach": 7057,
+      "readers": 6904
+    },
+    "hubs": [
+      {
+        "id": "23048",
+        "alias": "bar",
+        "title": "Блог компании Anarchic AI"
+      },
+      {
+        "id": "23232",
+        "alias": "txt_ide",
+        "title": "Текстовые редакторы и IDE"
+      },
+      {
+        "id": "19439",
+        "alias": "machine_learning",
+        "title": "Машинное обучение"
+      },
+      {
+        "id": "21922",
+        "alias": "artificial_intelligence",
+        "title": "Искусственный интеллект"
+      },
+      {
+        "id": "359",
+        "alias": "programming",
+        "title": "Программирование"
+      }
+    ],
+    "tags": [
+      "ide",
+      "jetbrains",
+      "olegchir",
+      "anarchic",
+      "mellum",
+      "anarchic ai",
+      "1red2black"
+    ],
+    "matchedTokens": [
+      "Spring",
+      "AI"
+    ]
+  },
+  {
+    "id": "1055250",
+    "url": "https://habr.com/ru/articles/1055250/",
+    "timePublished": "2026-07-03T11:24:34+00:00",
+    "postType": "article",
+    "title": "CLA или почему ваш PR в Open Source не может быть принят",
+    "lead": "Всем привет!Вероятно, часть людей уже меня знает, но всё же представлюсь. Меня зовут Михаил Поливаха, я являюсь техническим лидером проекта Axelix.Я уже какое-то время назад выпускал статью, которая поясняла, что такое Copyright, что такое лицензия в общем её смысле, какие типы лицензий бывают и т.д. Рассматривайте данную статью как некое продолжение этой прошлой статьи.Сегодня я хочу осветить такой момент, как CLA и почему в том или ином виде он есть у любого крупного Open Source-а. Мы также рассмотрим, как AI влияет на CLA и на принятие контрибьюшенов со стороны. Есть ещё DCO. Его, например, уже давно использует Linux, и Spring Framework в своё время перешёл на него с CLA. Но DCO, я думаю, стоит обсудить отдельно. Если интересно будет - пишите, я потрачу время, расскажу.В общем, без долгих прелюдий, начнём.",
+    "statistics": {
+      "commentsCount": 3,
+      "favoritesCount": 3,
+      "readingCount": 968,
+      "score": 8,
+      "votesCount": 5,
+      "votesCountPlus": 5,
+      "votesCountMinus": 0,
+      "reach": 7518,
+      "readers": 743
+    },
+    "hubs": [
+      {
+        "id": "23393",
+        "alias": "spring_aio",
+        "title": "Блог компании Spring АйО"
+      },
+      {
+        "id": "359",
+        "alias": "programming",
+        "title": "Программирование"
+      },
+      {
+        "id": "375",
+        "alias": "java",
+        "title": "Java"
+      }
+    ],
+    "tags": [
+      "copyright",
+      "ai",
+      "license",
+      "ai-agents",
+      "axelix"
+    ],
+    "matchedTokens": [
+      "Spring",
+      "AI"
+    ]
+  },
+  {
+    "id": "812663",
+    "url": "https://habr.com/ru/articles/812663/",
+    "timePublished": "2024-05-06T15:23:57+00:00",
+    "postType": "article",
+    "title": "Java Digest #12",
+    "lead": "Всем привет! ? ? ??Мы — Java-разработчики Тинькофф: Андрей, Арсений, Константин и Константин. Собираем интересные новости, статьи, туториалы и другие материалы из мира Java-разработки и делимся этим со всем сообществом.В этом месяце в меню обновления: Intellij Idea с модным терминалом и AI-подсказками, миграции на новые версии Spring Boot за пару кликов в новой версии Java on VS Code, не забыли обновить и Micronaut, GraalVm, PMD и JMC. На горячее JEPы: Exception handling in switch, Derived Record Creation, Stream Gatherers, Vector API, String Templates. Не забыли и про бесплатный сыр — доступ к Spring Academy Pro. Утоляем голод по новым знаниям интересными статьями и видео, для любителей экзотики — новые инструменты сборки, если не пробовали bld. А на десерт стоит присмотреться презентациям с прошедшего Jpoint 2024.",
+    "statistics": {
+      "commentsCount": 5,
+      "favoritesCount": 36,
+      "readingCount": 5762,
+      "score": 23,
+      "votesCount": 22,
+      "votesCountPlus": 22,
+      "votesCountMinus": 0,
+      "reach": 6132,
+      "readers": 6066
+    },
+    "hubs": [
+      {
+        "id": "17420",
+        "alias": "tbank",
+        "title": "Блог компании Т-Банк"
+      },
+      {
+        "id": "359",
+        "alias": "programming",
+        "title": "Программирование"
+      },
+      {
+        "id": "375",
+        "alias": "java",
+        "title": "Java"
+      }
+    ],
+    "tags": [
+      "java",
+      "программирование",
+      "digest",
+      "tinkoff"
+    ],
+    "matchedTokens": [
+      "Spring",
+      "AI"
+    ]
+  },
+  {
+    "id": "842854",
+    "url": "https://habr.com/ru/articles/842854/",
+    "timePublished": "2024-09-12T13:36:21+00:00",
+    "postType": "article",
+    "title": "IntelliJ IDEA 2024.3 EAP: Новые Возможности и Улучшения",
+    "lead": "Команда Spring АйО рада поделиться с вами свежей новостью от JetBrains: стала доступна первая EAP-версия IntelliJ IDEA 2024.3. Среди нововведений улучшения для java и kotlin, прокаченный AI Assistant, а также улучшенный UX.",
+    "statistics": {
+      "commentsCount": 6,
+      "favoritesCount": 13,
+      "readingCount": 7509,
+      "score": 11,
+      "votesCount": 17,
+      "votesCountPlus": 13,
+      "votesCountMinus": 4,
+      "reach": 12405,
+      "readers": 12305
+    },
+    "hubs": [
+      {
+        "id": "23393",
+        "alias": "spring_aio",
+        "title": "Блог компании Spring АйО"
+      },
+      {
+        "id": "23232",
+        "alias": "txt_ide",
+        "title": "Текстовые редакторы и IDE"
+      },
+      {
+        "id": "19441",
+        "alias": "kotlin",
+        "title": "Kotlin"
+      },
+      {
+        "id": "375",
+        "alias": "java",
+        "title": "Java"
+      },
+      {
+        "id": "359",
+        "alias": "programming",
+        "title": "Программирование"
+      }
+    ],
+    "tags": [
+      "ide",
+      "java",
+      "intellij idea",
+      "intellij",
+      "kotlin"
+    ],
+    "matchedTokens": [
+      "Spring",
+      "AI"
+    ]
+  },
+  {
+    "id": "653501",
+    "url": "https://habr.com/ru/articles/653501/",
+    "timePublished": "2022-02-25T13:52:32+00:00",
+    "postType": "article",
+    "title": "ИИ-помощник Copilot от GitHub — как новый инструмент повлияет на работу программистов",
+    "lead": "Летом 2021 года Microsoft и GitHub представили нейросетевого помощника программиста Copilot на базе технологий компании Open AI. Авторы проекта научили Copilot премудростям работы с фреймворками и разным языкам программирования. После релиза системы было заявлено, что лучше всего она может работать с такими языками, как Python, JavaScript, TypeScript, Ruby и Go.Позиционируется Copilot как ассистент разработчика, который помогает найти альтернативные способы решения проблем разработки, улучшить код и изучать новые технологии \"на лету\", без необходимости погружаться в пучины поисковых систем. Но насколько совершенна эта система и не произойдет ли в один прекрасный момент так, что Copilot заменит большую часть разработчиков? Об этом сегодня и поговорим вместе с Кириллом Кошаевым, старшим тимлидом командных дипломных проектов, а также автором курса “Java-фреймворк Spring” Skillbox.",
+    "statistics": {
+      "commentsCount": 20,
+      "favoritesCount": 50,
+      "readingCount": 31114,
+      "score": 5,
+      "votesCount": 8,
+      "votesCountPlus": 5,
+      "votesCountMinus": 3,
+      "reach": 33988,
+      "readers": 33941
+    },
+    "hubs": [
+      {
+        "id": "21490",
+        "alias": "skillbox",
+        "title": "Блог компании Skillbox"
+      },
+      {
+        "id": "359",
+        "alias": "programming",
+        "title": "Программирование"
+      },
+      {
+        "id": "18790",
+        "alias": "github",
+        "title": "GitHub"
+      },
+      {
+        "id": "21922",
+        "alias": "artificial_intelligence",
+        "title": "Искусственный интеллект"
+      }
+    ],
+    "tags": [
+      "github",
+      "copilot"
+    ],
+    "matchedTokens": [
+      "Spring",
+      "AI"
+    ]
+  }
+]
