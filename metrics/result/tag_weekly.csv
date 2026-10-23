@@ -1,0 +1,3049 @@
+﻿event,tag,week_start,articles,rel_week
+Go 1.27,1.27,2026-07-20,1,-4
+Go 1.27,1.27,2026-07-27,0,-3
+Go 1.27,1.27,2026-08-03,0,-2
+Go 1.27,1.27,2026-08-10,0,-1
+Go 1.27,1.27,2026-08-17,0,0
+Go 1.27,1.27,2026-08-24,0,1
+Go 1.27,1.27,2026-08-31,0,2
+Go 1.27,1.27,2026-09-07,0,3
+Go 1.27,1.27,2026-09-14,0,4
+Go 1.27,avx-512,2026-07-20,1,-4
+Go 1.27,avx-512,2026-07-27,0,-3
+Go 1.27,avx-512,2026-08-03,0,-2
+Go 1.27,avx-512,2026-08-10,0,-1
+Go 1.27,avx-512,2026-08-17,0,0
+Go 1.27,avx-512,2026-08-24,0,1
+Go 1.27,avx-512,2026-08-31,0,2
+Go 1.27,avx-512,2026-09-07,0,3
+Go 1.27,avx-512,2026-09-14,0,4
+Go 1.27,avx2,2026-07-20,1,-4
+Go 1.27,avx2,2026-07-27,0,-3
+Go 1.27,avx2,2026-08-03,0,-2
+Go 1.27,avx2,2026-08-10,0,-1
+Go 1.27,avx2,2026-08-17,0,0
+Go 1.27,avx2,2026-08-24,0,1
+Go 1.27,avx2,2026-08-31,0,2
+Go 1.27,avx2,2026-09-07,0,3
+Go 1.27,avx2,2026-09-14,0,4
+Go 1.27,generic methods,2026-07-20,0,-4
+Go 1.27,generic methods,2026-07-27,0,-3
+Go 1.27,generic methods,2026-08-03,0,-2
+Go 1.27,generic methods,2026-08-10,0,-1
+Go 1.27,generic methods,2026-08-17,2,0
+Go 1.27,generic methods,2026-08-24,0,1
+Go 1.27,generic methods,2026-08-31,0,2
+Go 1.27,generic methods,2026-09-07,0,3
+Go 1.27,generic methods,2026-09-14,0,4
+Go 1.27,go,2026-07-20,1,-4
+Go 1.27,go,2026-07-27,0,-3
+Go 1.27,go,2026-08-03,0,-2
+Go 1.27,go,2026-08-10,0,-1
+Go 1.27,go,2026-08-17,4,0
+Go 1.27,go,2026-08-24,0,1
+Go 1.27,go,2026-08-31,0,2
+Go 1.27,go,2026-09-07,0,3
+Go 1.27,go,2026-09-14,1,4
+Go 1.27,go 1.27,2026-07-20,1,-4
+Go 1.27,go 1.27,2026-07-27,0,-3
+Go 1.27,go 1.27,2026-08-03,0,-2
+Go 1.27,go 1.27,2026-08-10,0,-1
+Go 1.27,go 1.27,2026-08-17,4,0
+Go 1.27,go 1.27,2026-08-24,0,1
+Go 1.27,go 1.27,2026-08-31,2,2
+Go 1.27,go 1.27,2026-09-07,0,3
+Go 1.27,go 1.27,2026-09-14,0,4
+Go 1.27,go1.27,2026-07-20,1,-4
+Go 1.27,go1.27,2026-07-27,0,-3
+Go 1.27,go1.27,2026-08-03,0,-2
+Go 1.27,go1.27,2026-08-10,0,-1
+Go 1.27,go1.27,2026-08-17,0,0
+Go 1.27,go1.27,2026-08-24,0,1
+Go 1.27,go1.27,2026-08-31,0,2
+Go 1.27,go1.27,2026-09-07,0,3
+Go 1.27,go1.27,2026-09-14,0,4
+Go 1.27,golang,2026-07-20,0,-4
+Go 1.27,golang,2026-07-27,0,-3
+Go 1.27,golang,2026-08-03,0,-2
+Go 1.27,golang,2026-08-10,0,-1
+Go 1.27,golang,2026-08-17,3,0
+Go 1.27,golang,2026-08-24,0,1
+Go 1.27,golang,2026-08-31,2,2
+Go 1.27,golang,2026-09-07,0,3
+Go 1.27,golang,2026-09-14,1,4
+Go 1.27,json,2026-07-20,0,-4
+Go 1.27,json,2026-07-27,0,-3
+Go 1.27,json,2026-08-03,0,-2
+Go 1.27,json,2026-08-10,0,-1
+Go 1.27,json,2026-08-17,2,0
+Go 1.27,json,2026-08-24,0,1
+Go 1.27,json,2026-08-31,1,2
+Go 1.27,json,2026-09-07,0,3
+Go 1.27,json,2026-09-14,0,4
+Go 1.27,neon,2026-07-20,1,-4
+Go 1.27,neon,2026-07-27,0,-3
+Go 1.27,neon,2026-08-03,0,-2
+Go 1.27,neon,2026-08-10,0,-1
+Go 1.27,neon,2026-08-17,0,0
+Go 1.27,neon,2026-08-24,0,1
+Go 1.27,neon,2026-08-31,0,2
+Go 1.27,neon,2026-09-07,0,3
+Go 1.27,neon,2026-09-14,0,4
+Go 1.27,reflect,2026-07-20,0,-4
+Go 1.27,reflect,2026-07-27,0,-3
+Go 1.27,reflect,2026-08-03,0,-2
+Go 1.27,reflect,2026-08-10,0,-1
+Go 1.27,reflect,2026-08-17,1,0
+Go 1.27,reflect,2026-08-24,0,1
+Go 1.27,reflect,2026-08-31,0,2
+Go 1.27,reflect,2026-09-07,0,3
+Go 1.27,reflect,2026-09-14,0,4
+Go 1.27,simd,2026-07-20,1,-4
+Go 1.27,simd,2026-07-27,0,-3
+Go 1.27,simd,2026-08-03,0,-2
+Go 1.27,simd,2026-08-10,0,-1
+Go 1.27,simd,2026-08-17,0,0
+Go 1.27,simd,2026-08-24,0,1
+Go 1.27,simd,2026-08-31,0,2
+Go 1.27,simd,2026-09-07,0,3
+Go 1.27,simd,2026-09-14,0,4
+Go 1.27,sse,2026-07-20,1,-4
+Go 1.27,sse,2026-07-27,0,-3
+Go 1.27,sse,2026-08-03,0,-2
+Go 1.27,sse,2026-08-10,0,-1
+Go 1.27,sse,2026-08-17,0,0
+Go 1.27,sse,2026-08-24,0,1
+Go 1.27,sse,2026-08-31,0,2
+Go 1.27,sse,2026-09-07,0,3
+Go 1.27,sse,2026-09-14,0,4
+Go 1.27,uuid,2026-07-20,0,-4
+Go 1.27,uuid,2026-07-27,0,-3
+Go 1.27,uuid,2026-08-03,0,-2
+Go 1.27,uuid,2026-08-10,0,-1
+Go 1.27,uuid,2026-08-17,2,0
+Go 1.27,uuid,2026-08-24,0,1
+Go 1.27,uuid,2026-08-31,0,2
+Go 1.27,uuid,2026-09-07,0,3
+Go 1.27,uuid,2026-09-14,0,4
+Go 1.27,дженерики,2026-07-20,0,-4
+Go 1.27,дженерики,2026-07-27,0,-3
+Go 1.27,дженерики,2026-08-03,0,-2
+Go 1.27,дженерики,2026-08-10,0,-1
+Go 1.27,дженерики,2026-08-17,1,0
+Go 1.27,дженерики,2026-08-24,0,1
+Go 1.27,дженерики,2026-08-31,0,2
+Go 1.27,дженерики,2026-09-07,0,3
+Go 1.27,дженерики,2026-09-14,0,4
+Rust 1.95,c++,2026-03-16,0,-4
+Rust 1.95,c++,2026-03-23,0,-3
+Rust 1.95,c++,2026-03-30,0,-2
+Rust 1.95,c++,2026-04-06,0,-1
+Rust 1.95,c++,2026-04-13,0,0
+Rust 1.95,c++,2026-04-20,0,1
+Rust 1.95,c++,2026-04-27,0,2
+Rust 1.95,c++,2026-05-04,1,3
+Rust 1.95,c++,2026-05-11,0,4
+Rust 1.95,cargo,2026-03-16,0,-4
+Rust 1.95,cargo,2026-03-23,0,-3
+Rust 1.95,cargo,2026-03-30,0,-2
+Rust 1.95,cargo,2026-04-06,0,-1
+Rust 1.95,cargo,2026-04-13,1,0
+Rust 1.95,cargo,2026-04-20,0,1
+Rust 1.95,cargo,2026-04-27,0,2
+Rust 1.95,cargo,2026-05-04,0,3
+Rust 1.95,cargo,2026-05-11,0,4
+Rust 1.95,clippy,2026-03-16,0,-4
+Rust 1.95,clippy,2026-03-23,0,-3
+Rust 1.95,clippy,2026-03-30,0,-2
+Rust 1.95,clippy,2026-04-06,0,-1
+Rust 1.95,clippy,2026-04-13,1,0
+Rust 1.95,clippy,2026-04-20,0,1
+Rust 1.95,clippy,2026-04-27,0,2
+Rust 1.95,clippy,2026-05-04,0,3
+Rust 1.95,clippy,2026-05-11,0,4
+Rust 1.95,go,2026-03-16,0,-4
+Rust 1.95,go,2026-03-23,0,-3
+Rust 1.95,go,2026-03-30,0,-2
+Rust 1.95,go,2026-04-06,0,-1
+Rust 1.95,go,2026-04-13,0,0
+Rust 1.95,go,2026-04-20,0,1
+Rust 1.95,go,2026-04-27,0,2
+Rust 1.95,go,2026-05-04,1,3
+Rust 1.95,go,2026-05-11,0,4
+Rust 1.95,java,2026-03-16,0,-4
+Rust 1.95,java,2026-03-23,0,-3
+Rust 1.95,java,2026-03-30,0,-2
+Rust 1.95,java,2026-04-06,0,-1
+Rust 1.95,java,2026-04-13,0,0
+Rust 1.95,java,2026-04-20,0,1
+Rust 1.95,java,2026-04-27,0,2
+Rust 1.95,java,2026-05-04,1,3
+Rust 1.95,java,2026-05-11,0,4
+Rust 1.95,release,2026-03-16,0,-4
+Rust 1.95,release,2026-03-23,0,-3
+Rust 1.95,release,2026-03-30,0,-2
+Rust 1.95,release,2026-04-06,0,-1
+Rust 1.95,release,2026-04-13,1,0
+Rust 1.95,release,2026-04-20,0,1
+Rust 1.95,release,2026-04-27,0,2
+Rust 1.95,release,2026-05-04,0,3
+Rust 1.95,release,2026-05-11,0,4
+Rust 1.95,rust,2026-03-16,0,-4
+Rust 1.95,rust,2026-03-23,0,-3
+Rust 1.95,rust,2026-03-30,0,-2
+Rust 1.95,rust,2026-04-06,0,-1
+Rust 1.95,rust,2026-04-13,2,0
+Rust 1.95,rust,2026-04-20,0,1
+Rust 1.95,rust,2026-04-27,0,2
+Rust 1.95,rust,2026-05-04,1,3
+Rust 1.95,rust,2026-05-11,0,4
+Rust 1.95,rust 1.95,2026-03-16,0,-4
+Rust 1.95,rust 1.95,2026-03-23,0,-3
+Rust 1.95,rust 1.95,2026-03-30,0,-2
+Rust 1.95,rust 1.95,2026-04-06,0,-1
+Rust 1.95,rust 1.95,2026-04-13,1,0
+Rust 1.95,rust 1.95,2026-04-20,0,1
+Rust 1.95,rust 1.95,2026-04-27,0,2
+Rust 1.95,rust 1.95,2026-05-04,0,3
+Rust 1.95,rust 1.95,2026-05-11,0,4
+Rust 1.95,rustc,2026-03-16,0,-4
+Rust 1.95,rustc,2026-03-23,0,-3
+Rust 1.95,rustc,2026-03-30,0,-2
+Rust 1.95,rustc,2026-04-06,0,-1
+Rust 1.95,rustc,2026-04-13,1,0
+Rust 1.95,rustc,2026-04-20,0,1
+Rust 1.95,rustc,2026-04-27,0,2
+Rust 1.95,rustc,2026-05-04,0,3
+Rust 1.95,rustc,2026-05-11,0,4
+Rust 1.95,stable,2026-03-16,0,-4
+Rust 1.95,stable,2026-03-23,0,-3
+Rust 1.95,stable,2026-03-30,0,-2
+Rust 1.95,stable,2026-04-06,0,-1
+Rust 1.95,stable,2026-04-13,1,0
+Rust 1.95,stable,2026-04-20,0,1
+Rust 1.95,stable,2026-04-27,0,2
+Rust 1.95,stable,2026-05-04,0,3
+Rust 1.95,stable,2026-05-11,0,4
+Rust 1.95,безопасность,2026-03-16,0,-4
+Rust 1.95,безопасность,2026-03-23,0,-3
+Rust 1.95,безопасность,2026-03-30,0,-2
+Rust 1.95,безопасность,2026-04-06,0,-1
+Rust 1.95,безопасность,2026-04-13,0,0
+Rust 1.95,безопасность,2026-04-20,0,1
+Rust 1.95,безопасность,2026-04-27,0,2
+Rust 1.95,безопасность,2026-05-04,1,3
+Rust 1.95,безопасность,2026-05-11,0,4
+Rust 1.95,высоконагруженные системы,2026-03-16,0,-4
+Rust 1.95,высоконагруженные системы,2026-03-23,0,-3
+Rust 1.95,высоконагруженные системы,2026-03-30,0,-2
+Rust 1.95,высоконагруженные системы,2026-04-06,0,-1
+Rust 1.95,высоконагруженные системы,2026-04-13,0,0
+Rust 1.95,высоконагруженные системы,2026-04-20,0,1
+Rust 1.95,высоконагруженные системы,2026-04-27,0,2
+Rust 1.95,высоконагруженные системы,2026-05-04,1,3
+Rust 1.95,высоконагруженные системы,2026-05-11,0,4
+Rust 1.95,надежность,2026-03-16,0,-4
+Rust 1.95,надежность,2026-03-23,0,-3
+Rust 1.95,надежность,2026-03-30,0,-2
+Rust 1.95,надежность,2026-04-06,0,-1
+Rust 1.95,надежность,2026-04-13,0,0
+Rust 1.95,надежность,2026-04-20,0,1
+Rust 1.95,надежность,2026-04-27,0,2
+Rust 1.95,надежность,2026-05-04,1,3
+Rust 1.95,надежность,2026-05-11,0,4
+Rust 1.95,новости технологий,2026-03-16,0,-4
+Rust 1.95,новости технологий,2026-03-23,0,-3
+Rust 1.95,новости технологий,2026-03-30,0,-2
+Rust 1.95,новости технологий,2026-04-06,0,-1
+Rust 1.95,новости технологий,2026-04-13,1,0
+Rust 1.95,новости технологий,2026-04-20,0,1
+Rust 1.95,новости технологий,2026-04-27,0,2
+Rust 1.95,новости технологий,2026-05-04,0,3
+Rust 1.95,новости технологий,2026-05-11,0,4
+Rust 1.95,перевод,2026-03-16,0,-4
+Rust 1.95,перевод,2026-03-23,0,-3
+Rust 1.95,перевод,2026-03-30,0,-2
+Rust 1.95,перевод,2026-04-06,0,-1
+Rust 1.95,перевод,2026-04-13,1,0
+Rust 1.95,перевод,2026-04-20,0,1
+Rust 1.95,перевод,2026-04-27,0,2
+Rust 1.95,перевод,2026-05-04,0,3
+Rust 1.95,перевод,2026-05-11,0,4
+TypeScript 7.0,go,2026-04-06,0,-13
+TypeScript 7.0,go,2026-04-13,0,-12
+TypeScript 7.0,go,2026-04-20,1,-11
+TypeScript 7.0,go,2026-04-27,0,-10
+TypeScript 7.0,go,2026-05-04,0,-9
+TypeScript 7.0,go,2026-05-11,0,-8
+TypeScript 7.0,go,2026-05-18,0,-7
+TypeScript 7.0,go,2026-05-25,0,-6
+TypeScript 7.0,go,2026-06-01,0,-5
+TypeScript 7.0,go,2026-06-08,0,-4
+TypeScript 7.0,go,2026-06-15,0,-3
+TypeScript 7.0,go,2026-06-22,0,-2
+TypeScript 7.0,go,2026-06-29,0,-1
+TypeScript 7.0,go,2026-07-06,0,0
+TypeScript 7.0,go,2026-07-13,0,1
+TypeScript 7.0,go,2026-07-20,0,2
+TypeScript 7.0,go,2026-07-27,0,3
+TypeScript 7.0,go,2026-08-03,0,4
+TypeScript 7.0,go,2026-08-10,0,5
+TypeScript 7.0,go,2026-08-17,0,6
+TypeScript 7.0,go,2026-08-24,0,7
+TypeScript 7.0,go,2026-08-31,0,8
+TypeScript 7.0,go,2026-09-07,0,9
+TypeScript 7.0,go,2026-09-14,0,10
+TypeScript 7.0,go,2026-09-21,0,11
+TypeScript 7.0,go,2026-09-28,0,12
+TypeScript 7.0,go,2026-10-05,0,13
+TypeScript 7.0,golang,2026-04-06,0,-13
+TypeScript 7.0,golang,2026-04-13,0,-12
+TypeScript 7.0,golang,2026-04-20,0,-11
+TypeScript 7.0,golang,2026-04-27,0,-10
+TypeScript 7.0,golang,2026-05-04,0,-9
+TypeScript 7.0,golang,2026-05-11,0,-8
+TypeScript 7.0,golang,2026-05-18,0,-7
+TypeScript 7.0,golang,2026-05-25,0,-6
+TypeScript 7.0,golang,2026-06-01,0,-5
+TypeScript 7.0,golang,2026-06-08,0,-4
+TypeScript 7.0,golang,2026-06-15,0,-3
+TypeScript 7.0,golang,2026-06-22,1,-2
+TypeScript 7.0,golang,2026-06-29,0,-1
+TypeScript 7.0,golang,2026-07-06,0,0
+TypeScript 7.0,golang,2026-07-13,0,1
+TypeScript 7.0,golang,2026-07-20,0,2
+TypeScript 7.0,golang,2026-07-27,0,3
+TypeScript 7.0,golang,2026-08-03,0,4
+TypeScript 7.0,golang,2026-08-10,0,5
+TypeScript 7.0,golang,2026-08-17,0,6
+TypeScript 7.0,golang,2026-08-24,0,7
+TypeScript 7.0,golang,2026-08-31,0,8
+TypeScript 7.0,golang,2026-09-07,0,9
+TypeScript 7.0,golang,2026-09-14,0,10
+TypeScript 7.0,golang,2026-09-21,0,11
+TypeScript 7.0,golang,2026-09-28,0,12
+TypeScript 7.0,golang,2026-10-05,0,13
+TypeScript 7.0,javascript,2026-04-06,0,-13
+TypeScript 7.0,javascript,2026-04-13,0,-12
+TypeScript 7.0,javascript,2026-04-20,0,-11
+TypeScript 7.0,javascript,2026-04-27,0,-10
+TypeScript 7.0,javascript,2026-05-04,0,-9
+TypeScript 7.0,javascript,2026-05-11,0,-8
+TypeScript 7.0,javascript,2026-05-18,0,-7
+TypeScript 7.0,javascript,2026-05-25,0,-6
+TypeScript 7.0,javascript,2026-06-01,0,-5
+TypeScript 7.0,javascript,2026-06-08,0,-4
+TypeScript 7.0,javascript,2026-06-15,0,-3
+TypeScript 7.0,javascript,2026-06-22,1,-2
+TypeScript 7.0,javascript,2026-06-29,0,-1
+TypeScript 7.0,javascript,2026-07-06,1,0
+TypeScript 7.0,javascript,2026-07-13,0,1
+TypeScript 7.0,javascript,2026-07-20,0,2
+TypeScript 7.0,javascript,2026-07-27,0,3
+TypeScript 7.0,javascript,2026-08-03,0,4
+TypeScript 7.0,javascript,2026-08-10,0,5
+TypeScript 7.0,javascript,2026-08-17,0,6
+TypeScript 7.0,javascript,2026-08-24,0,7
+TypeScript 7.0,javascript,2026-08-31,0,8
+TypeScript 7.0,javascript,2026-09-07,0,9
+TypeScript 7.0,javascript,2026-09-14,0,10
+TypeScript 7.0,javascript,2026-09-21,0,11
+TypeScript 7.0,javascript,2026-09-28,0,12
+TypeScript 7.0,javascript,2026-10-05,0,13
+TypeScript 7.0,microsoft,2026-04-06,0,-13
+TypeScript 7.0,microsoft,2026-04-13,0,-12
+TypeScript 7.0,microsoft,2026-04-20,1,-11
+TypeScript 7.0,microsoft,2026-04-27,0,-10
+TypeScript 7.0,microsoft,2026-05-04,0,-9
+TypeScript 7.0,microsoft,2026-05-11,0,-8
+TypeScript 7.0,microsoft,2026-05-18,0,-7
+TypeScript 7.0,microsoft,2026-05-25,0,-6
+TypeScript 7.0,microsoft,2026-06-01,0,-5
+TypeScript 7.0,microsoft,2026-06-08,0,-4
+TypeScript 7.0,microsoft,2026-06-15,0,-3
+TypeScript 7.0,microsoft,2026-06-22,0,-2
+TypeScript 7.0,microsoft,2026-06-29,0,-1
+TypeScript 7.0,microsoft,2026-07-06,0,0
+TypeScript 7.0,microsoft,2026-07-13,0,1
+TypeScript 7.0,microsoft,2026-07-20,0,2
+TypeScript 7.0,microsoft,2026-07-27,0,3
+TypeScript 7.0,microsoft,2026-08-03,0,4
+TypeScript 7.0,microsoft,2026-08-10,0,5
+TypeScript 7.0,microsoft,2026-08-17,0,6
+TypeScript 7.0,microsoft,2026-08-24,0,7
+TypeScript 7.0,microsoft,2026-08-31,0,8
+TypeScript 7.0,microsoft,2026-09-07,0,9
+TypeScript 7.0,microsoft,2026-09-14,0,10
+TypeScript 7.0,microsoft,2026-09-21,0,11
+TypeScript 7.0,microsoft,2026-09-28,0,12
+TypeScript 7.0,microsoft,2026-10-05,0,13
+TypeScript 7.0,typescript,2026-04-06,0,-13
+TypeScript 7.0,typescript,2026-04-13,0,-12
+TypeScript 7.0,typescript,2026-04-20,1,-11
+TypeScript 7.0,typescript,2026-04-27,0,-10
+TypeScript 7.0,typescript,2026-05-04,0,-9
+TypeScript 7.0,typescript,2026-05-11,0,-8
+TypeScript 7.0,typescript,2026-05-18,0,-7
+TypeScript 7.0,typescript,2026-05-25,0,-6
+TypeScript 7.0,typescript,2026-06-01,0,-5
+TypeScript 7.0,typescript,2026-06-08,0,-4
+TypeScript 7.0,typescript,2026-06-15,0,-3
+TypeScript 7.0,typescript,2026-06-22,1,-2
+TypeScript 7.0,typescript,2026-06-29,0,-1
+TypeScript 7.0,typescript,2026-07-06,2,0
+TypeScript 7.0,typescript,2026-07-13,0,1
+TypeScript 7.0,typescript,2026-07-20,0,2
+TypeScript 7.0,typescript,2026-07-27,0,3
+TypeScript 7.0,typescript,2026-08-03,0,4
+TypeScript 7.0,typescript,2026-08-10,0,5
+TypeScript 7.0,typescript,2026-08-17,0,6
+TypeScript 7.0,typescript,2026-08-24,0,7
+TypeScript 7.0,typescript,2026-08-31,0,8
+TypeScript 7.0,typescript,2026-09-07,0,9
+TypeScript 7.0,typescript,2026-09-14,0,10
+TypeScript 7.0,typescript,2026-09-21,0,11
+TypeScript 7.0,typescript,2026-09-28,0,12
+TypeScript 7.0,typescript,2026-10-05,0,13
+TypeScript 7.0,typescript 7,2026-04-06,0,-13
+TypeScript 7.0,typescript 7,2026-04-13,0,-12
+TypeScript 7.0,typescript 7,2026-04-20,1,-11
+TypeScript 7.0,typescript 7,2026-04-27,0,-10
+TypeScript 7.0,typescript 7,2026-05-04,0,-9
+TypeScript 7.0,typescript 7,2026-05-11,0,-8
+TypeScript 7.0,typescript 7,2026-05-18,0,-7
+TypeScript 7.0,typescript 7,2026-05-25,0,-6
+TypeScript 7.0,typescript 7,2026-06-01,0,-5
+TypeScript 7.0,typescript 7,2026-06-08,0,-4
+TypeScript 7.0,typescript 7,2026-06-15,0,-3
+TypeScript 7.0,typescript 7,2026-06-22,0,-2
+TypeScript 7.0,typescript 7,2026-06-29,0,-1
+TypeScript 7.0,typescript 7,2026-07-06,1,0
+TypeScript 7.0,typescript 7,2026-07-13,1,1
+TypeScript 7.0,typescript 7,2026-07-20,0,2
+TypeScript 7.0,typescript 7,2026-07-27,0,3
+TypeScript 7.0,typescript 7,2026-08-03,0,4
+TypeScript 7.0,typescript 7,2026-08-10,0,5
+TypeScript 7.0,typescript 7,2026-08-17,0,6
+TypeScript 7.0,typescript 7,2026-08-24,0,7
+TypeScript 7.0,typescript 7,2026-08-31,0,8
+TypeScript 7.0,typescript 7,2026-09-07,0,9
+TypeScript 7.0,typescript 7,2026-09-14,0,10
+TypeScript 7.0,typescript 7,2026-09-21,0,11
+TypeScript 7.0,typescript 7,2026-09-28,0,12
+TypeScript 7.0,typescript 7,2026-10-05,0,13
+TypeScript 7.0,typescript 7.0,2026-04-06,0,-13
+TypeScript 7.0,typescript 7.0,2026-04-13,0,-12
+TypeScript 7.0,typescript 7.0,2026-04-20,0,-11
+TypeScript 7.0,typescript 7.0,2026-04-27,0,-10
+TypeScript 7.0,typescript 7.0,2026-05-04,0,-9
+TypeScript 7.0,typescript 7.0,2026-05-11,0,-8
+TypeScript 7.0,typescript 7.0,2026-05-18,0,-7
+TypeScript 7.0,typescript 7.0,2026-05-25,0,-6
+TypeScript 7.0,typescript 7.0,2026-06-01,0,-5
+TypeScript 7.0,typescript 7.0,2026-06-08,0,-4
+TypeScript 7.0,typescript 7.0,2026-06-15,0,-3
+TypeScript 7.0,typescript 7.0,2026-06-22,1,-2
+TypeScript 7.0,typescript 7.0,2026-06-29,0,-1
+TypeScript 7.0,typescript 7.0,2026-07-06,1,0
+TypeScript 7.0,typescript 7.0,2026-07-13,0,1
+TypeScript 7.0,typescript 7.0,2026-07-20,0,2
+TypeScript 7.0,typescript 7.0,2026-07-27,0,3
+TypeScript 7.0,typescript 7.0,2026-08-03,0,4
+TypeScript 7.0,typescript 7.0,2026-08-10,0,5
+TypeScript 7.0,typescript 7.0,2026-08-17,0,6
+TypeScript 7.0,typescript 7.0,2026-08-24,0,7
+TypeScript 7.0,typescript 7.0,2026-08-31,0,8
+TypeScript 7.0,typescript 7.0,2026-09-07,0,9
+TypeScript 7.0,typescript 7.0,2026-09-14,0,10
+TypeScript 7.0,typescript 7.0,2026-09-21,0,11
+TypeScript 7.0,typescript 7.0,2026-09-28,0,12
+TypeScript 7.0,typescript 7.0,2026-10-05,0,13
+TypeScript 7.0,typescript go,2026-04-06,0,-13
+TypeScript 7.0,typescript go,2026-04-13,0,-12
+TypeScript 7.0,typescript go,2026-04-20,0,-11
+TypeScript 7.0,typescript go,2026-04-27,0,-10
+TypeScript 7.0,typescript go,2026-05-04,0,-9
+TypeScript 7.0,typescript go,2026-05-11,0,-8
+TypeScript 7.0,typescript go,2026-05-18,0,-7
+TypeScript 7.0,typescript go,2026-05-25,0,-6
+TypeScript 7.0,typescript go,2026-06-01,0,-5
+TypeScript 7.0,typescript go,2026-06-08,0,-4
+TypeScript 7.0,typescript go,2026-06-15,0,-3
+TypeScript 7.0,typescript go,2026-06-22,0,-2
+TypeScript 7.0,typescript go,2026-06-29,0,-1
+TypeScript 7.0,typescript go,2026-07-06,1,0
+TypeScript 7.0,typescript go,2026-07-13,1,1
+TypeScript 7.0,typescript go,2026-07-20,0,2
+TypeScript 7.0,typescript go,2026-07-27,0,3
+TypeScript 7.0,typescript go,2026-08-03,0,4
+TypeScript 7.0,typescript go,2026-08-10,0,5
+TypeScript 7.0,typescript go,2026-08-17,0,6
+TypeScript 7.0,typescript go,2026-08-24,0,7
+TypeScript 7.0,typescript go,2026-08-31,0,8
+TypeScript 7.0,typescript go,2026-09-07,0,9
+TypeScript 7.0,typescript go,2026-09-14,0,10
+TypeScript 7.0,typescript go,2026-09-21,0,11
+TypeScript 7.0,typescript go,2026-09-28,0,12
+TypeScript 7.0,typescript go,2026-10-05,0,13
+TypeScript 7.0,бета-версия,2026-04-06,0,-13
+TypeScript 7.0,бета-версия,2026-04-13,0,-12
+TypeScript 7.0,бета-версия,2026-04-20,1,-11
+TypeScript 7.0,бета-версия,2026-04-27,0,-10
+TypeScript 7.0,бета-версия,2026-05-04,0,-9
+TypeScript 7.0,бета-версия,2026-05-11,0,-8
+TypeScript 7.0,бета-версия,2026-05-18,0,-7
+TypeScript 7.0,бета-версия,2026-05-25,0,-6
+TypeScript 7.0,бета-версия,2026-06-01,0,-5
+TypeScript 7.0,бета-версия,2026-06-08,0,-4
+TypeScript 7.0,бета-версия,2026-06-15,0,-3
+TypeScript 7.0,бета-версия,2026-06-22,0,-2
+TypeScript 7.0,бета-версия,2026-06-29,0,-1
+TypeScript 7.0,бета-версия,2026-07-06,0,0
+TypeScript 7.0,бета-версия,2026-07-13,0,1
+TypeScript 7.0,бета-версия,2026-07-20,0,2
+TypeScript 7.0,бета-версия,2026-07-27,0,3
+TypeScript 7.0,бета-версия,2026-08-03,0,4
+TypeScript 7.0,бета-версия,2026-08-10,0,5
+TypeScript 7.0,бета-версия,2026-08-17,0,6
+TypeScript 7.0,бета-версия,2026-08-24,0,7
+TypeScript 7.0,бета-версия,2026-08-31,0,8
+TypeScript 7.0,бета-версия,2026-09-07,0,9
+TypeScript 7.0,бета-версия,2026-09-14,0,10
+TypeScript 7.0,бета-версия,2026-09-21,0,11
+TypeScript 7.0,бета-версия,2026-09-28,0,12
+TypeScript 7.0,бета-версия,2026-10-05,0,13
+TypeScript 7.0,компилятор,2026-04-06,0,-13
+TypeScript 7.0,компилятор,2026-04-13,0,-12
+TypeScript 7.0,компилятор,2026-04-20,0,-11
+TypeScript 7.0,компилятор,2026-04-27,0,-10
+TypeScript 7.0,компилятор,2026-05-04,0,-9
+TypeScript 7.0,компилятор,2026-05-11,0,-8
+TypeScript 7.0,компилятор,2026-05-18,0,-7
+TypeScript 7.0,компилятор,2026-05-25,0,-6
+TypeScript 7.0,компилятор,2026-06-01,0,-5
+TypeScript 7.0,компилятор,2026-06-08,0,-4
+TypeScript 7.0,компилятор,2026-06-15,0,-3
+TypeScript 7.0,компилятор,2026-06-22,1,-2
+TypeScript 7.0,компилятор,2026-06-29,0,-1
+TypeScript 7.0,компилятор,2026-07-06,0,0
+TypeScript 7.0,компилятор,2026-07-13,0,1
+TypeScript 7.0,компилятор,2026-07-20,0,2
+TypeScript 7.0,компилятор,2026-07-27,0,3
+TypeScript 7.0,компилятор,2026-08-03,0,4
+TypeScript 7.0,компилятор,2026-08-10,0,5
+TypeScript 7.0,компилятор,2026-08-17,0,6
+TypeScript 7.0,компилятор,2026-08-24,0,7
+TypeScript 7.0,компилятор,2026-08-31,0,8
+TypeScript 7.0,компилятор,2026-09-07,0,9
+TypeScript 7.0,компилятор,2026-09-14,0,10
+TypeScript 7.0,компилятор,2026-09-21,0,11
+TypeScript 7.0,компилятор,2026-09-28,0,12
+TypeScript 7.0,компилятор,2026-10-05,0,13
+TypeScript 7.0,нативный typescript,2026-04-06,0,-13
+TypeScript 7.0,нативный typescript,2026-04-13,0,-12
+TypeScript 7.0,нативный typescript,2026-04-20,0,-11
+TypeScript 7.0,нативный typescript,2026-04-27,0,-10
+TypeScript 7.0,нативный typescript,2026-05-04,0,-9
+TypeScript 7.0,нативный typescript,2026-05-11,0,-8
+TypeScript 7.0,нативный typescript,2026-05-18,0,-7
+TypeScript 7.0,нативный typescript,2026-05-25,0,-6
+TypeScript 7.0,нативный typescript,2026-06-01,0,-5
+TypeScript 7.0,нативный typescript,2026-06-08,0,-4
+TypeScript 7.0,нативный typescript,2026-06-15,0,-3
+TypeScript 7.0,нативный typescript,2026-06-22,0,-2
+TypeScript 7.0,нативный typescript,2026-06-29,0,-1
+TypeScript 7.0,нативный typescript,2026-07-06,1,0
+TypeScript 7.0,нативный typescript,2026-07-13,0,1
+TypeScript 7.0,нативный typescript,2026-07-20,0,2
+TypeScript 7.0,нативный typescript,2026-07-27,0,3
+TypeScript 7.0,нативный typescript,2026-08-03,0,4
+TypeScript 7.0,нативный typescript,2026-08-10,0,5
+TypeScript 7.0,нативный typescript,2026-08-17,0,6
+TypeScript 7.0,нативный typescript,2026-08-24,0,7
+TypeScript 7.0,нативный typescript,2026-08-31,0,8
+TypeScript 7.0,нативный typescript,2026-09-07,0,9
+TypeScript 7.0,нативный typescript,2026-09-14,0,10
+TypeScript 7.0,нативный typescript,2026-09-21,0,11
+TypeScript 7.0,нативный typescript,2026-09-28,0,12
+TypeScript 7.0,нативный typescript,2026-10-05,0,13
+TypeScript 7.0,проверка типов,2026-04-06,0,-13
+TypeScript 7.0,проверка типов,2026-04-13,0,-12
+TypeScript 7.0,проверка типов,2026-04-20,0,-11
+TypeScript 7.0,проверка типов,2026-04-27,0,-10
+TypeScript 7.0,проверка типов,2026-05-04,0,-9
+TypeScript 7.0,проверка типов,2026-05-11,0,-8
+TypeScript 7.0,проверка типов,2026-05-18,0,-7
+TypeScript 7.0,проверка типов,2026-05-25,0,-6
+TypeScript 7.0,проверка типов,2026-06-01,0,-5
+TypeScript 7.0,проверка типов,2026-06-08,0,-4
+TypeScript 7.0,проверка типов,2026-06-15,0,-3
+TypeScript 7.0,проверка типов,2026-06-22,1,-2
+TypeScript 7.0,проверка типов,2026-06-29,0,-1
+TypeScript 7.0,проверка типов,2026-07-06,0,0
+TypeScript 7.0,проверка типов,2026-07-13,0,1
+TypeScript 7.0,проверка типов,2026-07-20,0,2
+TypeScript 7.0,проверка типов,2026-07-27,0,3
+TypeScript 7.0,проверка типов,2026-08-03,0,4
+TypeScript 7.0,проверка типов,2026-08-10,0,5
+TypeScript 7.0,проверка типов,2026-08-17,0,6
+TypeScript 7.0,проверка типов,2026-08-24,0,7
+TypeScript 7.0,проверка типов,2026-08-31,0,8
+TypeScript 7.0,проверка типов,2026-09-07,0,9
+TypeScript 7.0,проверка типов,2026-09-14,0,10
+TypeScript 7.0,проверка типов,2026-09-21,0,11
+TypeScript 7.0,проверка типов,2026-09-28,0,12
+TypeScript 7.0,проверка типов,2026-10-05,0,13
+TypeScript 7.0,производительность сборки,2026-04-06,0,-13
+TypeScript 7.0,производительность сборки,2026-04-13,0,-12
+TypeScript 7.0,производительность сборки,2026-04-20,0,-11
+TypeScript 7.0,производительность сборки,2026-04-27,0,-10
+TypeScript 7.0,производительность сборки,2026-05-04,0,-9
+TypeScript 7.0,производительность сборки,2026-05-11,0,-8
+TypeScript 7.0,производительность сборки,2026-05-18,0,-7
+TypeScript 7.0,производительность сборки,2026-05-25,0,-6
+TypeScript 7.0,производительность сборки,2026-06-01,0,-5
+TypeScript 7.0,производительность сборки,2026-06-08,0,-4
+TypeScript 7.0,производительность сборки,2026-06-15,0,-3
+TypeScript 7.0,производительность сборки,2026-06-22,1,-2
+TypeScript 7.0,производительность сборки,2026-06-29,0,-1
+TypeScript 7.0,производительность сборки,2026-07-06,0,0
+TypeScript 7.0,производительность сборки,2026-07-13,0,1
+TypeScript 7.0,производительность сборки,2026-07-20,0,2
+TypeScript 7.0,производительность сборки,2026-07-27,0,3
+TypeScript 7.0,производительность сборки,2026-08-03,0,4
+TypeScript 7.0,производительность сборки,2026-08-10,0,5
+TypeScript 7.0,производительность сборки,2026-08-17,0,6
+TypeScript 7.0,производительность сборки,2026-08-24,0,7
+TypeScript 7.0,производительность сборки,2026-08-31,0,8
+TypeScript 7.0,производительность сборки,2026-09-07,0,9
+TypeScript 7.0,производительность сборки,2026-09-14,0,10
+TypeScript 7.0,производительность сборки,2026-09-21,0,11
+TypeScript 7.0,производительность сборки,2026-09-28,0,12
+TypeScript 7.0,производительность сборки,2026-10-05,0,13
+TypeScript 7.0,тестирование,2026-04-06,0,-13
+TypeScript 7.0,тестирование,2026-04-13,0,-12
+TypeScript 7.0,тестирование,2026-04-20,1,-11
+TypeScript 7.0,тестирование,2026-04-27,0,-10
+TypeScript 7.0,тестирование,2026-05-04,0,-9
+TypeScript 7.0,тестирование,2026-05-11,0,-8
+TypeScript 7.0,тестирование,2026-05-18,0,-7
+TypeScript 7.0,тестирование,2026-05-25,0,-6
+TypeScript 7.0,тестирование,2026-06-01,0,-5
+TypeScript 7.0,тестирование,2026-06-08,0,-4
+TypeScript 7.0,тестирование,2026-06-15,0,-3
+TypeScript 7.0,тестирование,2026-06-22,0,-2
+TypeScript 7.0,тестирование,2026-06-29,0,-1
+TypeScript 7.0,тестирование,2026-07-06,0,0
+TypeScript 7.0,тестирование,2026-07-13,0,1
+TypeScript 7.0,тестирование,2026-07-20,0,2
+TypeScript 7.0,тестирование,2026-07-27,0,3
+TypeScript 7.0,тестирование,2026-08-03,0,4
+TypeScript 7.0,тестирование,2026-08-10,0,5
+TypeScript 7.0,тестирование,2026-08-17,0,6
+TypeScript 7.0,тестирование,2026-08-24,0,7
+TypeScript 7.0,тестирование,2026-08-31,0,8
+TypeScript 7.0,тестирование,2026-09-07,0,9
+TypeScript 7.0,тестирование,2026-09-14,0,10
+TypeScript 7.0,тестирование,2026-09-21,0,11
+TypeScript 7.0,тестирование,2026-09-28,0,12
+TypeScript 7.0,тестирование,2026-10-05,0,13
+TypeScript 7.0,язык программирования,2026-04-06,0,-13
+TypeScript 7.0,язык программирования,2026-04-13,0,-12
+TypeScript 7.0,язык программирования,2026-04-20,1,-11
+TypeScript 7.0,язык программирования,2026-04-27,0,-10
+TypeScript 7.0,язык программирования,2026-05-04,0,-9
+TypeScript 7.0,язык программирования,2026-05-11,0,-8
+TypeScript 7.0,язык программирования,2026-05-18,0,-7
+TypeScript 7.0,язык программирования,2026-05-25,0,-6
+TypeScript 7.0,язык программирования,2026-06-01,0,-5
+TypeScript 7.0,язык программирования,2026-06-08,0,-4
+TypeScript 7.0,язык программирования,2026-06-15,0,-3
+TypeScript 7.0,язык программирования,2026-06-22,0,-2
+TypeScript 7.0,язык программирования,2026-06-29,0,-1
+TypeScript 7.0,язык программирования,2026-07-06,0,0
+TypeScript 7.0,язык программирования,2026-07-13,0,1
+TypeScript 7.0,язык программирования,2026-07-20,0,2
+TypeScript 7.0,язык программирования,2026-07-27,0,3
+TypeScript 7.0,язык программирования,2026-08-03,0,4
+TypeScript 7.0,язык программирования,2026-08-10,0,5
+TypeScript 7.0,язык программирования,2026-08-17,0,6
+TypeScript 7.0,язык программирования,2026-08-24,0,7
+TypeScript 7.0,язык программирования,2026-08-31,0,8
+TypeScript 7.0,язык программирования,2026-09-07,0,9
+TypeScript 7.0,язык программирования,2026-09-14,0,10
+TypeScript 7.0,язык программирования,2026-09-21,0,11
+TypeScript 7.0,язык программирования,2026-09-28,0,12
+TypeScript 7.0,язык программирования,2026-10-05,0,13
+Python 3.14,concurrent.interpreters,2025-06-09,0,-17
+Python 3.14,concurrent.interpreters,2025-06-16,0,-16
+Python 3.14,concurrent.interpreters,2025-06-23,0,-15
+Python 3.14,concurrent.interpreters,2025-06-30,0,-14
+Python 3.14,concurrent.interpreters,2025-07-07,0,-13
+Python 3.14,concurrent.interpreters,2025-07-14,0,-12
+Python 3.14,concurrent.interpreters,2025-07-21,0,-11
+Python 3.14,concurrent.interpreters,2025-07-28,0,-10
+Python 3.14,concurrent.interpreters,2025-08-04,0,-9
+Python 3.14,concurrent.interpreters,2025-08-11,0,-8
+Python 3.14,concurrent.interpreters,2025-08-18,1,-7
+Python 3.14,concurrent.interpreters,2025-08-25,0,-6
+Python 3.14,concurrent.interpreters,2025-09-01,0,-5
+Python 3.14,concurrent.interpreters,2025-09-08,0,-4
+Python 3.14,concurrent.interpreters,2025-09-15,0,-3
+Python 3.14,concurrent.interpreters,2025-09-22,0,-2
+Python 3.14,concurrent.interpreters,2025-09-29,0,-1
+Python 3.14,concurrent.interpreters,2025-10-06,0,0
+Python 3.14,concurrent.interpreters,2025-10-13,0,1
+Python 3.14,concurrent.interpreters,2025-10-20,0,2
+Python 3.14,concurrent.interpreters,2025-10-27,0,3
+Python 3.14,concurrent.interpreters,2025-11-03,0,4
+Python 3.14,concurrent.interpreters,2025-11-10,0,5
+Python 3.14,concurrent.interpreters,2025-11-17,0,6
+Python 3.14,concurrent.interpreters,2025-11-24,0,7
+Python 3.14,concurrent.interpreters,2025-12-01,0,8
+Python 3.14,concurrent.interpreters,2025-12-08,0,9
+Python 3.14,concurrent.interpreters,2025-12-15,0,10
+Python 3.14,concurrent.interpreters,2025-12-22,0,11
+Python 3.14,concurrent.interpreters,2025-12-29,0,12
+Python 3.14,concurrent.interpreters,2026-01-05,0,13
+Python 3.14,concurrent.interpreters,2026-01-12,0,14
+Python 3.14,concurrent.interpreters,2026-01-19,0,15
+Python 3.14,concurrent.interpreters,2026-01-26,0,16
+Python 3.14,concurrent.interpreters,2026-02-02,0,17
+Python 3.14,free-threaded,2025-06-09,0,-17
+Python 3.14,free-threaded,2025-06-16,0,-16
+Python 3.14,free-threaded,2025-06-23,0,-15
+Python 3.14,free-threaded,2025-06-30,0,-14
+Python 3.14,free-threaded,2025-07-07,0,-13
+Python 3.14,free-threaded,2025-07-14,0,-12
+Python 3.14,free-threaded,2025-07-21,1,-11
+Python 3.14,free-threaded,2025-07-28,0,-10
+Python 3.14,free-threaded,2025-08-04,0,-9
+Python 3.14,free-threaded,2025-08-11,0,-8
+Python 3.14,free-threaded,2025-08-18,0,-7
+Python 3.14,free-threaded,2025-08-25,0,-6
+Python 3.14,free-threaded,2025-09-01,0,-5
+Python 3.14,free-threaded,2025-09-08,0,-4
+Python 3.14,free-threaded,2025-09-15,0,-3
+Python 3.14,free-threaded,2025-09-22,0,-2
+Python 3.14,free-threaded,2025-09-29,0,-1
+Python 3.14,free-threaded,2025-10-06,0,0
+Python 3.14,free-threaded,2025-10-13,0,1
+Python 3.14,free-threaded,2025-10-20,0,2
+Python 3.14,free-threaded,2025-10-27,0,3
+Python 3.14,free-threaded,2025-11-03,0,4
+Python 3.14,free-threaded,2025-11-10,0,5
+Python 3.14,free-threaded,2025-11-17,0,6
+Python 3.14,free-threaded,2025-11-24,0,7
+Python 3.14,free-threaded,2025-12-01,0,8
+Python 3.14,free-threaded,2025-12-08,0,9
+Python 3.14,free-threaded,2025-12-15,0,10
+Python 3.14,free-threaded,2025-12-22,0,11
+Python 3.14,free-threaded,2025-12-29,0,12
+Python 3.14,free-threaded,2026-01-05,0,13
+Python 3.14,free-threaded,2026-01-12,0,14
+Python 3.14,free-threaded,2026-01-19,0,15
+Python 3.14,free-threaded,2026-01-26,0,16
+Python 3.14,free-threaded,2026-02-02,0,17
+Python 3.14,free-threading,2025-06-09,0,-17
+Python 3.14,free-threading,2025-06-16,0,-16
+Python 3.14,free-threading,2025-06-23,0,-15
+Python 3.14,free-threading,2025-06-30,0,-14
+Python 3.14,free-threading,2025-07-07,0,-13
+Python 3.14,free-threading,2025-07-14,0,-12
+Python 3.14,free-threading,2025-07-21,1,-11
+Python 3.14,free-threading,2025-07-28,0,-10
+Python 3.14,free-threading,2025-08-04,0,-9
+Python 3.14,free-threading,2025-08-11,0,-8
+Python 3.14,free-threading,2025-08-18,0,-7
+Python 3.14,free-threading,2025-08-25,0,-6
+Python 3.14,free-threading,2025-09-01,0,-5
+Python 3.14,free-threading,2025-09-08,0,-4
+Python 3.14,free-threading,2025-09-15,0,-3
+Python 3.14,free-threading,2025-09-22,0,-2
+Python 3.14,free-threading,2025-09-29,0,-1
+Python 3.14,free-threading,2025-10-06,0,0
+Python 3.14,free-threading,2025-10-13,0,1
+Python 3.14,free-threading,2025-10-20,0,2
+Python 3.14,free-threading,2025-10-27,0,3
+Python 3.14,free-threading,2025-11-03,0,4
+Python 3.14,free-threading,2025-11-10,0,5
+Python 3.14,free-threading,2025-11-17,0,6
+Python 3.14,free-threading,2025-11-24,0,7
+Python 3.14,free-threading,2025-12-01,0,8
+Python 3.14,free-threading,2025-12-08,0,9
+Python 3.14,free-threading,2025-12-15,0,10
+Python 3.14,free-threading,2025-12-22,0,11
+Python 3.14,free-threading,2025-12-29,0,12
+Python 3.14,free-threading,2026-01-05,0,13
+Python 3.14,free-threading,2026-01-12,0,14
+Python 3.14,free-threading,2026-01-19,0,15
+Python 3.14,free-threading,2026-01-26,0,16
+Python 3.14,free-threading,2026-02-02,0,17
+Python 3.14,gil,2025-06-09,0,-17
+Python 3.14,gil,2025-06-16,0,-16
+Python 3.14,gil,2025-06-23,0,-15
+Python 3.14,gil,2025-06-30,0,-14
+Python 3.14,gil,2025-07-07,0,-13
+Python 3.14,gil,2025-07-14,0,-12
+Python 3.14,gil,2025-07-21,0,-11
+Python 3.14,gil,2025-07-28,0,-10
+Python 3.14,gil,2025-08-04,0,-9
+Python 3.14,gil,2025-08-11,0,-8
+Python 3.14,gil,2025-08-18,1,-7
+Python 3.14,gil,2025-08-25,0,-6
+Python 3.14,gil,2025-09-01,0,-5
+Python 3.14,gil,2025-09-08,0,-4
+Python 3.14,gil,2025-09-15,0,-3
+Python 3.14,gil,2025-09-22,0,-2
+Python 3.14,gil,2025-09-29,0,-1
+Python 3.14,gil,2025-10-06,1,0
+Python 3.14,gil,2025-10-13,0,1
+Python 3.14,gil,2025-10-20,0,2
+Python 3.14,gil,2025-10-27,0,3
+Python 3.14,gil,2025-11-03,0,4
+Python 3.14,gil,2025-11-10,0,5
+Python 3.14,gil,2025-11-17,0,6
+Python 3.14,gil,2025-11-24,1,7
+Python 3.14,gil,2025-12-01,0,8
+Python 3.14,gil,2025-12-08,0,9
+Python 3.14,gil,2025-12-15,0,10
+Python 3.14,gil,2025-12-22,0,11
+Python 3.14,gil,2025-12-29,0,12
+Python 3.14,gil,2026-01-05,0,13
+Python 3.14,gil,2026-01-12,0,14
+Python 3.14,gil,2026-01-19,0,15
+Python 3.14,gil,2026-01-26,0,16
+Python 3.14,gil,2026-02-02,0,17
+Python 3.14,git,2025-06-09,0,-17
+Python 3.14,git,2025-06-16,0,-16
+Python 3.14,git,2025-06-23,0,-15
+Python 3.14,git,2025-06-30,0,-14
+Python 3.14,git,2025-07-07,0,-13
+Python 3.14,git,2025-07-14,0,-12
+Python 3.14,git,2025-07-21,0,-11
+Python 3.14,git,2025-07-28,0,-10
+Python 3.14,git,2025-08-04,0,-9
+Python 3.14,git,2025-08-11,0,-8
+Python 3.14,git,2025-08-18,0,-7
+Python 3.14,git,2025-08-25,0,-6
+Python 3.14,git,2025-09-01,0,-5
+Python 3.14,git,2025-09-08,0,-4
+Python 3.14,git,2025-09-15,0,-3
+Python 3.14,git,2025-09-22,0,-2
+Python 3.14,git,2025-09-29,0,-1
+Python 3.14,git,2025-10-06,1,0
+Python 3.14,git,2025-10-13,0,1
+Python 3.14,git,2025-10-20,0,2
+Python 3.14,git,2025-10-27,0,3
+Python 3.14,git,2025-11-03,0,4
+Python 3.14,git,2025-11-10,0,5
+Python 3.14,git,2025-11-17,0,6
+Python 3.14,git,2025-11-24,0,7
+Python 3.14,git,2025-12-01,0,8
+Python 3.14,git,2025-12-08,0,9
+Python 3.14,git,2025-12-15,0,10
+Python 3.14,git,2025-12-22,0,11
+Python 3.14,git,2025-12-29,0,12
+Python 3.14,git,2026-01-05,0,13
+Python 3.14,git,2026-01-12,0,14
+Python 3.14,git,2026-01-19,0,15
+Python 3.14,git,2026-01-26,0,16
+Python 3.14,git,2026-02-02,0,17
+Python 3.14,interpreterpoolexecutor,2025-06-09,0,-17
+Python 3.14,interpreterpoolexecutor,2025-06-16,0,-16
+Python 3.14,interpreterpoolexecutor,2025-06-23,0,-15
+Python 3.14,interpreterpoolexecutor,2025-06-30,0,-14
+Python 3.14,interpreterpoolexecutor,2025-07-07,0,-13
+Python 3.14,interpreterpoolexecutor,2025-07-14,0,-12
+Python 3.14,interpreterpoolexecutor,2025-07-21,0,-11
+Python 3.14,interpreterpoolexecutor,2025-07-28,0,-10
+Python 3.14,interpreterpoolexecutor,2025-08-04,0,-9
+Python 3.14,interpreterpoolexecutor,2025-08-11,0,-8
+Python 3.14,interpreterpoolexecutor,2025-08-18,1,-7
+Python 3.14,interpreterpoolexecutor,2025-08-25,0,-6
+Python 3.14,interpreterpoolexecutor,2025-09-01,0,-5
+Python 3.14,interpreterpoolexecutor,2025-09-08,0,-4
+Python 3.14,interpreterpoolexecutor,2025-09-15,0,-3
+Python 3.14,interpreterpoolexecutor,2025-09-22,0,-2
+Python 3.14,interpreterpoolexecutor,2025-09-29,0,-1
+Python 3.14,interpreterpoolexecutor,2025-10-06,0,0
+Python 3.14,interpreterpoolexecutor,2025-10-13,0,1
+Python 3.14,interpreterpoolexecutor,2025-10-20,0,2
+Python 3.14,interpreterpoolexecutor,2025-10-27,0,3
+Python 3.14,interpreterpoolexecutor,2025-11-03,0,4
+Python 3.14,interpreterpoolexecutor,2025-11-10,0,5
+Python 3.14,interpreterpoolexecutor,2025-11-17,0,6
+Python 3.14,interpreterpoolexecutor,2025-11-24,0,7
+Python 3.14,interpreterpoolexecutor,2025-12-01,0,8
+Python 3.14,interpreterpoolexecutor,2025-12-08,0,9
+Python 3.14,interpreterpoolexecutor,2025-12-15,0,10
+Python 3.14,interpreterpoolexecutor,2025-12-22,0,11
+Python 3.14,interpreterpoolexecutor,2025-12-29,0,12
+Python 3.14,interpreterpoolexecutor,2026-01-05,0,13
+Python 3.14,interpreterpoolexecutor,2026-01-12,0,14
+Python 3.14,interpreterpoolexecutor,2026-01-19,0,15
+Python 3.14,interpreterpoolexecutor,2026-01-26,0,16
+Python 3.14,interpreterpoolexecutor,2026-02-02,0,17
+Python 3.14,jil,2025-06-09,0,-17
+Python 3.14,jil,2025-06-16,0,-16
+Python 3.14,jil,2025-06-23,0,-15
+Python 3.14,jil,2025-06-30,0,-14
+Python 3.14,jil,2025-07-07,0,-13
+Python 3.14,jil,2025-07-14,0,-12
+Python 3.14,jil,2025-07-21,0,-11
+Python 3.14,jil,2025-07-28,0,-10
+Python 3.14,jil,2025-08-04,0,-9
+Python 3.14,jil,2025-08-11,0,-8
+Python 3.14,jil,2025-08-18,0,-7
+Python 3.14,jil,2025-08-25,0,-6
+Python 3.14,jil,2025-09-01,0,-5
+Python 3.14,jil,2025-09-08,0,-4
+Python 3.14,jil,2025-09-15,0,-3
+Python 3.14,jil,2025-09-22,0,-2
+Python 3.14,jil,2025-09-29,0,-1
+Python 3.14,jil,2025-10-06,1,0
+Python 3.14,jil,2025-10-13,0,1
+Python 3.14,jil,2025-10-20,0,2
+Python 3.14,jil,2025-10-27,0,3
+Python 3.14,jil,2025-11-03,0,4
+Python 3.14,jil,2025-11-10,0,5
+Python 3.14,jil,2025-11-17,0,6
+Python 3.14,jil,2025-11-24,0,7
+Python 3.14,jil,2025-12-01,0,8
+Python 3.14,jil,2025-12-08,0,9
+Python 3.14,jil,2025-12-15,0,10
+Python 3.14,jil,2025-12-22,0,11
+Python 3.14,jil,2025-12-29,0,12
+Python 3.14,jil,2026-01-05,0,13
+Python 3.14,jil,2026-01-12,0,14
+Python 3.14,jil,2026-01-19,0,15
+Python 3.14,jil,2026-01-26,0,16
+Python 3.14,jil,2026-02-02,0,17
+Python 3.14,python,2025-06-09,0,-17
+Python 3.14,python,2025-06-16,0,-16
+Python 3.14,python,2025-06-23,0,-15
+Python 3.14,python,2025-06-30,0,-14
+Python 3.14,python,2025-07-07,0,-13
+Python 3.14,python,2025-07-14,1,-12
+Python 3.14,python,2025-07-21,0,-11
+Python 3.14,python,2025-07-28,0,-10
+Python 3.14,python,2025-08-04,0,-9
+Python 3.14,python,2025-08-11,0,-8
+Python 3.14,python,2025-08-18,1,-7
+Python 3.14,python,2025-08-25,0,-6
+Python 3.14,python,2025-09-01,0,-5
+Python 3.14,python,2025-09-08,0,-4
+Python 3.14,python,2025-09-15,0,-3
+Python 3.14,python,2025-09-22,0,-2
+Python 3.14,python,2025-09-29,0,-1
+Python 3.14,python,2025-10-06,2,0
+Python 3.14,python,2025-10-13,0,1
+Python 3.14,python,2025-10-20,0,2
+Python 3.14,python,2025-10-27,0,3
+Python 3.14,python,2025-11-03,0,4
+Python 3.14,python,2025-11-10,0,5
+Python 3.14,python,2025-11-17,0,6
+Python 3.14,python,2025-11-24,1,7
+Python 3.14,python,2025-12-01,0,8
+Python 3.14,python,2025-12-08,0,9
+Python 3.14,python,2025-12-15,0,10
+Python 3.14,python,2025-12-22,0,11
+Python 3.14,python,2025-12-29,0,12
+Python 3.14,python,2026-01-05,0,13
+Python 3.14,python,2026-01-12,0,14
+Python 3.14,python,2026-01-19,0,15
+Python 3.14,python,2026-01-26,0,16
+Python 3.14,python,2026-02-02,0,17
+Python 3.14,python 3.14,2025-06-09,0,-17
+Python 3.14,python 3.14,2025-06-16,0,-16
+Python 3.14,python 3.14,2025-06-23,0,-15
+Python 3.14,python 3.14,2025-06-30,0,-14
+Python 3.14,python 3.14,2025-07-07,0,-13
+Python 3.14,python 3.14,2025-07-14,0,-12
+Python 3.14,python 3.14,2025-07-21,1,-11
+Python 3.14,python 3.14,2025-07-28,0,-10
+Python 3.14,python 3.14,2025-08-04,0,-9
+Python 3.14,python 3.14,2025-08-11,0,-8
+Python 3.14,python 3.14,2025-08-18,1,-7
+Python 3.14,python 3.14,2025-08-25,0,-6
+Python 3.14,python 3.14,2025-09-01,0,-5
+Python 3.14,python 3.14,2025-09-08,0,-4
+Python 3.14,python 3.14,2025-09-15,0,-3
+Python 3.14,python 3.14,2025-09-22,0,-2
+Python 3.14,python 3.14,2025-09-29,0,-1
+Python 3.14,python 3.14,2025-10-06,3,0
+Python 3.14,python 3.14,2025-10-13,1,1
+Python 3.14,python 3.14,2025-10-20,0,2
+Python 3.14,python 3.14,2025-10-27,0,3
+Python 3.14,python 3.14,2025-11-03,0,4
+Python 3.14,python 3.14,2025-11-10,0,5
+Python 3.14,python 3.14,2025-11-17,0,6
+Python 3.14,python 3.14,2025-11-24,0,7
+Python 3.14,python 3.14,2025-12-01,0,8
+Python 3.14,python 3.14,2025-12-08,0,9
+Python 3.14,python 3.14,2025-12-15,0,10
+Python 3.14,python 3.14,2025-12-22,0,11
+Python 3.14,python 3.14,2025-12-29,0,12
+Python 3.14,python 3.14,2026-01-05,0,13
+Python 3.14,python 3.14,2026-01-12,0,14
+Python 3.14,python 3.14,2026-01-19,0,15
+Python 3.14,python 3.14,2026-01-26,0,16
+Python 3.14,python 3.14,2026-02-02,0,17
+Python 3.14,python 3.14 rc1,2025-06-09,0,-17
+Python 3.14,python 3.14 rc1,2025-06-16,0,-16
+Python 3.14,python 3.14 rc1,2025-06-23,0,-15
+Python 3.14,python 3.14 rc1,2025-06-30,0,-14
+Python 3.14,python 3.14 rc1,2025-07-07,0,-13
+Python 3.14,python 3.14 rc1,2025-07-14,0,-12
+Python 3.14,python 3.14 rc1,2025-07-21,1,-11
+Python 3.14,python 3.14 rc1,2025-07-28,0,-10
+Python 3.14,python 3.14 rc1,2025-08-04,0,-9
+Python 3.14,python 3.14 rc1,2025-08-11,0,-8
+Python 3.14,python 3.14 rc1,2025-08-18,0,-7
+Python 3.14,python 3.14 rc1,2025-08-25,0,-6
+Python 3.14,python 3.14 rc1,2025-09-01,0,-5
+Python 3.14,python 3.14 rc1,2025-09-08,0,-4
+Python 3.14,python 3.14 rc1,2025-09-15,0,-3
+Python 3.14,python 3.14 rc1,2025-09-22,0,-2
+Python 3.14,python 3.14 rc1,2025-09-29,0,-1
+Python 3.14,python 3.14 rc1,2025-10-06,0,0
+Python 3.14,python 3.14 rc1,2025-10-13,0,1
+Python 3.14,python 3.14 rc1,2025-10-20,0,2
+Python 3.14,python 3.14 rc1,2025-10-27,0,3
+Python 3.14,python 3.14 rc1,2025-11-03,0,4
+Python 3.14,python 3.14 rc1,2025-11-10,0,5
+Python 3.14,python 3.14 rc1,2025-11-17,0,6
+Python 3.14,python 3.14 rc1,2025-11-24,0,7
+Python 3.14,python 3.14 rc1,2025-12-01,0,8
+Python 3.14,python 3.14 rc1,2025-12-08,0,9
+Python 3.14,python 3.14 rc1,2025-12-15,0,10
+Python 3.14,python 3.14 rc1,2025-12-22,0,11
+Python 3.14,python 3.14 rc1,2025-12-29,0,12
+Python 3.14,python 3.14 rc1,2026-01-05,0,13
+Python 3.14,python 3.14 rc1,2026-01-12,0,14
+Python 3.14,python 3.14 rc1,2026-01-19,0,15
+Python 3.14,python 3.14 rc1,2026-01-26,0,16
+Python 3.14,python 3.14 rc1,2026-02-02,0,17
+Python 3.14,subinterpreters,2025-06-09,0,-17
+Python 3.14,subinterpreters,2025-06-16,0,-16
+Python 3.14,subinterpreters,2025-06-23,0,-15
+Python 3.14,subinterpreters,2025-06-30,0,-14
+Python 3.14,subinterpreters,2025-07-07,0,-13
+Python 3.14,subinterpreters,2025-07-14,1,-12
+Python 3.14,subinterpreters,2025-07-21,0,-11
+Python 3.14,subinterpreters,2025-07-28,0,-10
+Python 3.14,subinterpreters,2025-08-04,0,-9
+Python 3.14,subinterpreters,2025-08-11,0,-8
+Python 3.14,subinterpreters,2025-08-18,1,-7
+Python 3.14,subinterpreters,2025-08-25,0,-6
+Python 3.14,subinterpreters,2025-09-01,0,-5
+Python 3.14,subinterpreters,2025-09-08,0,-4
+Python 3.14,subinterpreters,2025-09-15,0,-3
+Python 3.14,subinterpreters,2025-09-22,0,-2
+Python 3.14,subinterpreters,2025-09-29,0,-1
+Python 3.14,subinterpreters,2025-10-06,0,0
+Python 3.14,subinterpreters,2025-10-13,0,1
+Python 3.14,subinterpreters,2025-10-20,0,2
+Python 3.14,subinterpreters,2025-10-27,0,3
+Python 3.14,subinterpreters,2025-11-03,0,4
+Python 3.14,subinterpreters,2025-11-10,0,5
+Python 3.14,subinterpreters,2025-11-17,0,6
+Python 3.14,subinterpreters,2025-11-24,0,7
+Python 3.14,subinterpreters,2025-12-01,0,8
+Python 3.14,subinterpreters,2025-12-08,0,9
+Python 3.14,subinterpreters,2025-12-15,0,10
+Python 3.14,subinterpreters,2025-12-22,0,11
+Python 3.14,subinterpreters,2025-12-29,0,12
+Python 3.14,subinterpreters,2026-01-05,0,13
+Python 3.14,subinterpreters,2026-01-12,0,14
+Python 3.14,subinterpreters,2026-01-19,0,15
+Python 3.14,subinterpreters,2026-01-26,0,16
+Python 3.14,subinterpreters,2026-02-02,0,17
+Python 3.14,интерпретаторы,2025-06-09,0,-17
+Python 3.14,интерпретаторы,2025-06-16,0,-16
+Python 3.14,интерпретаторы,2025-06-23,0,-15
+Python 3.14,интерпретаторы,2025-06-30,0,-14
+Python 3.14,интерпретаторы,2025-07-07,0,-13
+Python 3.14,интерпретаторы,2025-07-14,0,-12
+Python 3.14,интерпретаторы,2025-07-21,0,-11
+Python 3.14,интерпретаторы,2025-07-28,0,-10
+Python 3.14,интерпретаторы,2025-08-04,0,-9
+Python 3.14,интерпретаторы,2025-08-11,0,-8
+Python 3.14,интерпретаторы,2025-08-18,0,-7
+Python 3.14,интерпретаторы,2025-08-25,0,-6
+Python 3.14,интерпретаторы,2025-09-01,0,-5
+Python 3.14,интерпретаторы,2025-09-08,0,-4
+Python 3.14,интерпретаторы,2025-09-15,0,-3
+Python 3.14,интерпретаторы,2025-09-22,0,-2
+Python 3.14,интерпретаторы,2025-09-29,0,-1
+Python 3.14,интерпретаторы,2025-10-06,1,0
+Python 3.14,интерпретаторы,2025-10-13,0,1
+Python 3.14,интерпретаторы,2025-10-20,0,2
+Python 3.14,интерпретаторы,2025-10-27,0,3
+Python 3.14,интерпретаторы,2025-11-03,0,4
+Python 3.14,интерпретаторы,2025-11-10,0,5
+Python 3.14,интерпретаторы,2025-11-17,0,6
+Python 3.14,интерпретаторы,2025-11-24,0,7
+Python 3.14,интерпретаторы,2025-12-01,0,8
+Python 3.14,интерпретаторы,2025-12-08,0,9
+Python 3.14,интерпретаторы,2025-12-15,0,10
+Python 3.14,интерпретаторы,2025-12-22,0,11
+Python 3.14,интерпретаторы,2025-12-29,0,12
+Python 3.14,интерпретаторы,2026-01-05,0,13
+Python 3.14,интерпретаторы,2026-01-12,0,14
+Python 3.14,интерпретаторы,2026-01-19,0,15
+Python 3.14,интерпретаторы,2026-01-26,0,16
+Python 3.14,интерпретаторы,2026-02-02,0,17
+Python 3.14,интерпритатор,2025-06-09,0,-17
+Python 3.14,интерпритатор,2025-06-16,0,-16
+Python 3.14,интерпритатор,2025-06-23,0,-15
+Python 3.14,интерпритатор,2025-06-30,0,-14
+Python 3.14,интерпритатор,2025-07-07,0,-13
+Python 3.14,интерпритатор,2025-07-14,0,-12
+Python 3.14,интерпритатор,2025-07-21,0,-11
+Python 3.14,интерпритатор,2025-07-28,0,-10
+Python 3.14,интерпритатор,2025-08-04,0,-9
+Python 3.14,интерпритатор,2025-08-11,0,-8
+Python 3.14,интерпритатор,2025-08-18,0,-7
+Python 3.14,интерпритатор,2025-08-25,0,-6
+Python 3.14,интерпритатор,2025-09-01,0,-5
+Python 3.14,интерпритатор,2025-09-08,0,-4
+Python 3.14,интерпритатор,2025-09-15,0,-3
+Python 3.14,интерпритатор,2025-09-22,0,-2
+Python 3.14,интерпритатор,2025-09-29,0,-1
+Python 3.14,интерпритатор,2025-10-06,0,0
+Python 3.14,интерпритатор,2025-10-13,0,1
+Python 3.14,интерпритатор,2025-10-20,0,2
+Python 3.14,интерпритатор,2025-10-27,0,3
+Python 3.14,интерпритатор,2025-11-03,0,4
+Python 3.14,интерпритатор,2025-11-10,0,5
+Python 3.14,интерпритатор,2025-11-17,0,6
+Python 3.14,интерпритатор,2025-11-24,1,7
+Python 3.14,интерпритатор,2025-12-01,0,8
+Python 3.14,интерпритатор,2025-12-08,0,9
+Python 3.14,интерпритатор,2025-12-15,0,10
+Python 3.14,интерпритатор,2025-12-22,0,11
+Python 3.14,интерпритатор,2025-12-29,0,12
+Python 3.14,интерпритатор,2026-01-05,0,13
+Python 3.14,интерпритатор,2026-01-12,0,14
+Python 3.14,интерпритатор,2026-01-19,0,15
+Python 3.14,интерпритатор,2026-01-26,0,16
+Python 3.14,интерпритатор,2026-02-02,0,17
+Python 3.14,мультипоточность,2025-06-09,0,-17
+Python 3.14,мультипоточность,2025-06-16,0,-16
+Python 3.14,мультипоточность,2025-06-23,0,-15
+Python 3.14,мультипоточность,2025-06-30,0,-14
+Python 3.14,мультипоточность,2025-07-07,0,-13
+Python 3.14,мультипоточность,2025-07-14,0,-12
+Python 3.14,мультипоточность,2025-07-21,0,-11
+Python 3.14,мультипоточность,2025-07-28,0,-10
+Python 3.14,мультипоточность,2025-08-04,0,-9
+Python 3.14,мультипоточность,2025-08-11,0,-8
+Python 3.14,мультипоточность,2025-08-18,1,-7
+Python 3.14,мультипоточность,2025-08-25,0,-6
+Python 3.14,мультипоточность,2025-09-01,0,-5
+Python 3.14,мультипоточность,2025-09-08,0,-4
+Python 3.14,мультипоточность,2025-09-15,0,-3
+Python 3.14,мультипоточность,2025-09-22,0,-2
+Python 3.14,мультипоточность,2025-09-29,0,-1
+Python 3.14,мультипоточность,2025-10-06,0,0
+Python 3.14,мультипоточность,2025-10-13,0,1
+Python 3.14,мультипоточность,2025-10-20,0,2
+Python 3.14,мультипоточность,2025-10-27,0,3
+Python 3.14,мультипоточность,2025-11-03,0,4
+Python 3.14,мультипоточность,2025-11-10,0,5
+Python 3.14,мультипоточность,2025-11-17,0,6
+Python 3.14,мультипоточность,2025-11-24,0,7
+Python 3.14,мультипоточность,2025-12-01,0,8
+Python 3.14,мультипоточность,2025-12-08,0,9
+Python 3.14,мультипоточность,2025-12-15,0,10
+Python 3.14,мультипоточность,2025-12-22,0,11
+Python 3.14,мультипоточность,2025-12-29,0,12
+Python 3.14,мультипоточность,2026-01-05,0,13
+Python 3.14,мультипоточность,2026-01-12,0,14
+Python 3.14,мультипоточность,2026-01-19,0,15
+Python 3.14,мультипоточность,2026-01-26,0,16
+Python 3.14,мультипоточность,2026-02-02,0,17
+Python 3.14,отладка,2025-06-09,0,-17
+Python 3.14,отладка,2025-06-16,0,-16
+Python 3.14,отладка,2025-06-23,0,-15
+Python 3.14,отладка,2025-06-30,0,-14
+Python 3.14,отладка,2025-07-07,0,-13
+Python 3.14,отладка,2025-07-14,0,-12
+Python 3.14,отладка,2025-07-21,0,-11
+Python 3.14,отладка,2025-07-28,0,-10
+Python 3.14,отладка,2025-08-04,0,-9
+Python 3.14,отладка,2025-08-11,0,-8
+Python 3.14,отладка,2025-08-18,0,-7
+Python 3.14,отладка,2025-08-25,0,-6
+Python 3.14,отладка,2025-09-01,0,-5
+Python 3.14,отладка,2025-09-08,0,-4
+Python 3.14,отладка,2025-09-15,0,-3
+Python 3.14,отладка,2025-09-22,0,-2
+Python 3.14,отладка,2025-09-29,0,-1
+Python 3.14,отладка,2025-10-06,0,0
+Python 3.14,отладка,2025-10-13,0,1
+Python 3.14,отладка,2025-10-20,0,2
+Python 3.14,отладка,2025-10-27,0,3
+Python 3.14,отладка,2025-11-03,0,4
+Python 3.14,отладка,2025-11-10,0,5
+Python 3.14,отладка,2025-11-17,0,6
+Python 3.14,отладка,2025-11-24,1,7
+Python 3.14,отладка,2025-12-01,0,8
+Python 3.14,отладка,2025-12-08,0,9
+Python 3.14,отладка,2025-12-15,0,10
+Python 3.14,отладка,2025-12-22,0,11
+Python 3.14,отладка,2025-12-29,0,12
+Python 3.14,отладка,2026-01-05,0,13
+Python 3.14,отладка,2026-01-12,0,14
+Python 3.14,отладка,2026-01-19,0,15
+Python 3.14,отладка,2026-01-26,0,16
+Python 3.14,отладка,2026-02-02,0,17
+Java 26,aot,2026-01-12,0,-9
+Java 26,aot,2026-01-19,0,-8
+Java 26,aot,2026-01-26,0,-7
+Java 26,aot,2026-02-02,0,-6
+Java 26,aot,2026-02-09,0,-5
+Java 26,aot,2026-02-16,0,-4
+Java 26,aot,2026-02-23,0,-3
+Java 26,aot,2026-03-02,0,-2
+Java 26,aot,2026-03-09,0,-1
+Java 26,aot,2026-03-16,1,0
+Java 26,aot,2026-03-23,0,1
+Java 26,aot,2026-03-30,0,2
+Java 26,aot,2026-04-06,0,3
+Java 26,aot,2026-04-13,0,4
+Java 26,aot,2026-04-20,0,5
+Java 26,aot,2026-04-27,0,6
+Java 26,aot,2026-05-04,0,7
+Java 26,aot,2026-05-11,0,8
+Java 26,g1,2026-01-12,0,-9
+Java 26,g1,2026-01-19,0,-8
+Java 26,g1,2026-01-26,0,-7
+Java 26,g1,2026-02-02,0,-6
+Java 26,g1,2026-02-09,0,-5
+Java 26,g1,2026-02-16,0,-4
+Java 26,g1,2026-02-23,0,-3
+Java 26,g1,2026-03-02,0,-2
+Java 26,g1,2026-03-09,0,-1
+Java 26,g1,2026-03-16,1,0
+Java 26,g1,2026-03-23,0,1
+Java 26,g1,2026-03-30,0,2
+Java 26,g1,2026-04-06,0,3
+Java 26,g1,2026-04-13,1,4
+Java 26,g1,2026-04-20,0,5
+Java 26,g1,2026-04-27,0,6
+Java 26,g1,2026-05-04,0,7
+Java 26,g1,2026-05-11,0,8
+Java 26,gc,2026-01-12,0,-9
+Java 26,gc,2026-01-19,0,-8
+Java 26,gc,2026-01-26,0,-7
+Java 26,gc,2026-02-02,0,-6
+Java 26,gc,2026-02-09,0,-5
+Java 26,gc,2026-02-16,0,-4
+Java 26,gc,2026-02-23,0,-3
+Java 26,gc,2026-03-02,0,-2
+Java 26,gc,2026-03-09,0,-1
+Java 26,gc,2026-03-16,1,0
+Java 26,gc,2026-03-23,0,1
+Java 26,gc,2026-03-30,0,2
+Java 26,gc,2026-04-06,0,3
+Java 26,gc,2026-04-13,0,4
+Java 26,gc,2026-04-20,0,5
+Java 26,gc,2026-04-27,0,6
+Java 26,gc,2026-05-04,0,7
+Java 26,gc,2026-05-11,0,8
+Java 26,http3,2026-01-12,0,-9
+Java 26,http3,2026-01-19,0,-8
+Java 26,http3,2026-01-26,0,-7
+Java 26,http3,2026-02-02,0,-6
+Java 26,http3,2026-02-09,0,-5
+Java 26,http3,2026-02-16,0,-4
+Java 26,http3,2026-02-23,0,-3
+Java 26,http3,2026-03-02,0,-2
+Java 26,http3,2026-03-09,0,-1
+Java 26,http3,2026-03-16,2,0
+Java 26,http3,2026-03-23,1,1
+Java 26,http3,2026-03-30,0,2
+Java 26,http3,2026-04-06,0,3
+Java 26,http3,2026-04-13,0,4
+Java 26,http3,2026-04-20,0,5
+Java 26,http3,2026-04-27,0,6
+Java 26,http3,2026-05-04,0,7
+Java 26,http3,2026-05-11,0,8
+Java 26,java,2026-01-12,0,-9
+Java 26,java,2026-01-19,0,-8
+Java 26,java,2026-01-26,0,-7
+Java 26,java,2026-02-02,0,-6
+Java 26,java,2026-02-09,0,-5
+Java 26,java,2026-02-16,0,-4
+Java 26,java,2026-02-23,0,-3
+Java 26,java,2026-03-02,0,-2
+Java 26,java,2026-03-09,0,-1
+Java 26,java,2026-03-16,2,0
+Java 26,java,2026-03-23,1,1
+Java 26,java,2026-03-30,1,2
+Java 26,java,2026-04-06,0,3
+Java 26,java,2026-04-13,0,4
+Java 26,java,2026-04-20,0,5
+Java 26,java,2026-04-27,0,6
+Java 26,java,2026-05-04,0,7
+Java 26,java,2026-05-11,0,8
+Java 26,java 26,2026-01-12,0,-9
+Java 26,java 26,2026-01-19,0,-8
+Java 26,java 26,2026-01-26,0,-7
+Java 26,java 26,2026-02-02,0,-6
+Java 26,java 26,2026-02-09,0,-5
+Java 26,java 26,2026-02-16,0,-4
+Java 26,java 26,2026-02-23,0,-3
+Java 26,java 26,2026-03-02,0,-2
+Java 26,java 26,2026-03-09,0,-1
+Java 26,java 26,2026-03-16,0,0
+Java 26,java 26,2026-03-23,1,1
+Java 26,java 26,2026-03-30,1,2
+Java 26,java 26,2026-04-06,0,3
+Java 26,java 26,2026-04-13,2,4
+Java 26,java 26,2026-04-20,0,5
+Java 26,java 26,2026-04-27,0,6
+Java 26,java 26,2026-05-04,0,7
+Java 26,java 26,2026-05-11,0,8
+Java 26,jdk,2026-01-12,0,-9
+Java 26,jdk,2026-01-19,0,-8
+Java 26,jdk,2026-01-26,0,-7
+Java 26,jdk,2026-02-02,0,-6
+Java 26,jdk,2026-02-09,0,-5
+Java 26,jdk,2026-02-16,0,-4
+Java 26,jdk,2026-02-23,0,-3
+Java 26,jdk,2026-03-02,0,-2
+Java 26,jdk,2026-03-09,0,-1
+Java 26,jdk,2026-03-16,2,0
+Java 26,jdk,2026-03-23,1,1
+Java 26,jdk,2026-03-30,1,2
+Java 26,jdk,2026-04-06,0,3
+Java 26,jdk,2026-04-13,0,4
+Java 26,jdk,2026-04-20,0,5
+Java 26,jdk,2026-04-27,0,6
+Java 26,jdk,2026-05-04,0,7
+Java 26,jdk,2026-05-11,0,8
+Java 26,jep,2026-01-12,0,-9
+Java 26,jep,2026-01-19,0,-8
+Java 26,jep,2026-01-26,0,-7
+Java 26,jep,2026-02-02,0,-6
+Java 26,jep,2026-02-09,0,-5
+Java 26,jep,2026-02-16,0,-4
+Java 26,jep,2026-02-23,0,-3
+Java 26,jep,2026-03-02,0,-2
+Java 26,jep,2026-03-09,0,-1
+Java 26,jep,2026-03-16,1,0
+Java 26,jep,2026-03-23,0,1
+Java 26,jep,2026-03-30,0,2
+Java 26,jep,2026-04-06,0,3
+Java 26,jep,2026-04-13,1,4
+Java 26,jep,2026-04-20,0,5
+Java 26,jep,2026-04-27,0,6
+Java 26,jep,2026-05-04,0,7
+Java 26,jep,2026-05-11,0,8
+Java 26,jeps,2026-01-12,0,-9
+Java 26,jeps,2026-01-19,0,-8
+Java 26,jeps,2026-01-26,0,-7
+Java 26,jeps,2026-02-02,0,-6
+Java 26,jeps,2026-02-09,0,-5
+Java 26,jeps,2026-02-16,0,-4
+Java 26,jeps,2026-02-23,0,-3
+Java 26,jeps,2026-03-02,0,-2
+Java 26,jeps,2026-03-09,0,-1
+Java 26,jeps,2026-03-16,1,0
+Java 26,jeps,2026-03-23,0,1
+Java 26,jeps,2026-03-30,0,2
+Java 26,jeps,2026-04-06,0,3
+Java 26,jeps,2026-04-13,0,4
+Java 26,jeps,2026-04-20,0,5
+Java 26,jeps,2026-04-27,0,6
+Java 26,jeps,2026-05-04,0,7
+Java 26,jeps,2026-05-11,0,8
+Java 26,jvm,2026-01-12,0,-9
+Java 26,jvm,2026-01-19,0,-8
+Java 26,jvm,2026-01-26,0,-7
+Java 26,jvm,2026-02-02,0,-6
+Java 26,jvm,2026-02-09,0,-5
+Java 26,jvm,2026-02-16,0,-4
+Java 26,jvm,2026-02-23,0,-3
+Java 26,jvm,2026-03-02,0,-2
+Java 26,jvm,2026-03-09,0,-1
+Java 26,jvm,2026-03-16,1,0
+Java 26,jvm,2026-03-23,0,1
+Java 26,jvm,2026-03-30,0,2
+Java 26,jvm,2026-04-06,0,3
+Java 26,jvm,2026-04-13,0,4
+Java 26,jvm,2026-04-20,0,5
+Java 26,jvm,2026-04-27,0,6
+Java 26,jvm,2026-05-04,0,7
+Java 26,jvm,2026-05-11,0,8
+Java 26,kotlin,2026-01-12,0,-9
+Java 26,kotlin,2026-01-19,0,-8
+Java 26,kotlin,2026-01-26,0,-7
+Java 26,kotlin,2026-02-02,0,-6
+Java 26,kotlin,2026-02-09,0,-5
+Java 26,kotlin,2026-02-16,0,-4
+Java 26,kotlin,2026-02-23,0,-3
+Java 26,kotlin,2026-03-02,0,-2
+Java 26,kotlin,2026-03-09,0,-1
+Java 26,kotlin,2026-03-16,1,0
+Java 26,kotlin,2026-03-23,1,1
+Java 26,kotlin,2026-03-30,0,2
+Java 26,kotlin,2026-04-06,0,3
+Java 26,kotlin,2026-04-13,0,4
+Java 26,kotlin,2026-04-20,0,5
+Java 26,kotlin,2026-04-27,0,6
+Java 26,kotlin,2026-05-04,0,7
+Java 26,kotlin,2026-05-11,0,8
+Java 26,openjdk,2026-01-12,0,-9
+Java 26,openjdk,2026-01-19,0,-8
+Java 26,openjdk,2026-01-26,0,-7
+Java 26,openjdk,2026-02-02,0,-6
+Java 26,openjdk,2026-02-09,0,-5
+Java 26,openjdk,2026-02-16,0,-4
+Java 26,openjdk,2026-02-23,0,-3
+Java 26,openjdk,2026-03-02,0,-2
+Java 26,openjdk,2026-03-09,0,-1
+Java 26,openjdk,2026-03-16,1,0
+Java 26,openjdk,2026-03-23,0,1
+Java 26,openjdk,2026-03-30,0,2
+Java 26,openjdk,2026-04-06,0,3
+Java 26,openjdk,2026-04-13,0,4
+Java 26,openjdk,2026-04-20,0,5
+Java 26,openjdk,2026-04-27,0,6
+Java 26,openjdk,2026-05-04,0,7
+Java 26,openjdk,2026-05-11,0,8
+Java 26,spring,2026-01-12,0,-9
+Java 26,spring,2026-01-19,0,-8
+Java 26,spring,2026-01-26,0,-7
+Java 26,spring,2026-02-02,0,-6
+Java 26,spring,2026-02-09,0,-5
+Java 26,spring,2026-02-16,0,-4
+Java 26,spring,2026-02-23,0,-3
+Java 26,spring,2026-03-02,0,-2
+Java 26,spring,2026-03-09,0,-1
+Java 26,spring,2026-03-16,1,0
+Java 26,spring,2026-03-23,1,1
+Java 26,spring,2026-03-30,1,2
+Java 26,spring,2026-04-06,0,3
+Java 26,spring,2026-04-13,0,4
+Java 26,spring,2026-04-20,0,5
+Java 26,spring,2026-04-27,0,6
+Java 26,spring,2026-05-04,0,7
+Java 26,spring,2026-05-11,0,8
+Java 26,spring boot,2026-01-12,0,-9
+Java 26,spring boot,2026-01-19,0,-8
+Java 26,spring boot,2026-01-26,0,-7
+Java 26,spring boot,2026-02-02,0,-6
+Java 26,spring boot,2026-02-09,0,-5
+Java 26,spring boot,2026-02-16,0,-4
+Java 26,spring boot,2026-02-23,0,-3
+Java 26,spring boot,2026-03-02,0,-2
+Java 26,spring boot,2026-03-09,0,-1
+Java 26,spring boot,2026-03-16,1,0
+Java 26,spring boot,2026-03-23,1,1
+Java 26,spring boot,2026-03-30,0,2
+Java 26,spring boot,2026-04-06,0,3
+Java 26,spring boot,2026-04-13,1,4
+Java 26,spring boot,2026-04-20,0,5
+Java 26,spring boot,2026-04-27,0,6
+Java 26,spring boot,2026-05-04,0,7
+Java 26,spring boot,2026-05-11,0,8
+Java 26,spring framework,2026-01-12,0,-9
+Java 26,spring framework,2026-01-19,0,-8
+Java 26,spring framework,2026-01-26,0,-7
+Java 26,spring framework,2026-02-02,0,-6
+Java 26,spring framework,2026-02-09,0,-5
+Java 26,spring framework,2026-02-16,0,-4
+Java 26,spring framework,2026-02-23,0,-3
+Java 26,spring framework,2026-03-02,0,-2
+Java 26,spring framework,2026-03-09,0,-1
+Java 26,spring framework,2026-03-16,1,0
+Java 26,spring framework,2026-03-23,0,1
+Java 26,spring framework,2026-03-30,0,2
+Java 26,spring framework,2026-04-06,0,3
+Java 26,spring framework,2026-04-13,0,4
+Java 26,spring framework,2026-04-20,0,5
+Java 26,spring framework,2026-04-27,0,6
+Java 26,spring framework,2026-05-04,0,7
+Java 26,spring framework,2026-05-11,0,8
+Let's Encrypt: отзыв сертификатов,let's encrypt,2020-02-03,0,-4
+Let's Encrypt: отзыв сертификатов,let's encrypt,2020-02-10,0,-3
+Let's Encrypt: отзыв сертификатов,let's encrypt,2020-02-17,0,-2
+Let's Encrypt: отзыв сертификатов,let's encrypt,2020-02-24,0,-1
+Let's Encrypt: отзыв сертификатов,let's encrypt,2020-03-02,1,0
+Let's Encrypt: отзыв сертификатов,let's encrypt,2020-03-09,0,1
+Let's Encrypt: отзыв сертификатов,let's encrypt,2020-03-16,0,2
+Let's Encrypt: отзыв сертификатов,let's encrypt,2020-03-23,0,3
+Let's Encrypt: отзыв сертификатов,let's encrypt,2020-03-30,0,4
+Let's Encrypt: отзыв сертификатов,отзыв сертификатов,2020-02-03,0,-4
+Let's Encrypt: отзыв сертификатов,отзыв сертификатов,2020-02-10,0,-3
+Let's Encrypt: отзыв сертификатов,отзыв сертификатов,2020-02-17,0,-2
+Let's Encrypt: отзыв сертификатов,отзыв сертификатов,2020-02-24,0,-1
+Let's Encrypt: отзыв сертификатов,отзыв сертификатов,2020-03-02,1,0
+Let's Encrypt: отзыв сертификатов,отзыв сертификатов,2020-03-09,0,1
+Let's Encrypt: отзыв сертификатов,отзыв сертификатов,2020-03-16,0,2
+Let's Encrypt: отзыв сертификатов,отзыв сертификатов,2020-03-23,0,3
+Let's Encrypt: отзыв сертификатов,отзыв сертификатов,2020-03-30,0,4
+Let's Encrypt: отзыв сертификатов,проблема,2020-02-03,0,-4
+Let's Encrypt: отзыв сертификатов,проблема,2020-02-10,0,-3
+Let's Encrypt: отзыв сертификатов,проблема,2020-02-17,0,-2
+Let's Encrypt: отзыв сертификатов,проблема,2020-02-24,0,-1
+Let's Encrypt: отзыв сертификатов,проблема,2020-03-02,1,0
+Let's Encrypt: отзыв сертификатов,проблема,2020-03-09,0,1
+Let's Encrypt: отзыв сертификатов,проблема,2020-03-16,0,2
+Let's Encrypt: отзыв сертификатов,проблема,2020-03-23,0,3
+Let's Encrypt: отзыв сертификатов,проблема,2020-03-30,0,4
+Сертификаты Минцифры,tls-сертификат,2026-03-09,0,-13
+Сертификаты Минцифры,tls-сертификат,2026-03-16,0,-12
+Сертификаты Минцифры,tls-сертификат,2026-03-23,0,-11
+Сертификаты Минцифры,tls-сертификат,2026-03-30,0,-10
+Сертификаты Минцифры,tls-сертификат,2026-04-06,0,-9
+Сертификаты Минцифры,tls-сертификат,2026-04-13,0,-8
+Сертификаты Минцифры,tls-сертификат,2026-04-20,0,-7
+Сертификаты Минцифры,tls-сертификат,2026-04-27,0,-6
+Сертификаты Минцифры,tls-сертификат,2026-05-04,0,-5
+Сертификаты Минцифры,tls-сертификат,2026-05-11,0,-4
+Сертификаты Минцифры,tls-сертификат,2026-05-18,0,-3
+Сертификаты Минцифры,tls-сертификат,2026-05-25,0,-2
+Сертификаты Минцифры,tls-сертификат,2026-06-01,0,-1
+Сертификаты Минцифры,tls-сертификат,2026-06-08,1,0
+Сертификаты Минцифры,tls-сертификат,2026-06-15,0,1
+Сертификаты Минцифры,tls-сертификат,2026-06-22,0,2
+Сертификаты Минцифры,tls-сертификат,2026-06-29,0,3
+Сертификаты Минцифры,tls-сертификат,2026-07-06,0,4
+Сертификаты Минцифры,tls-сертификат,2026-07-13,0,5
+Сертификаты Минцифры,tls-сертификат,2026-07-20,0,6
+Сертификаты Минцифры,tls-сертификат,2026-07-27,0,7
+Сертификаты Минцифры,tls-сертификат,2026-08-03,0,8
+Сертификаты Минцифры,tls-сертификат,2026-08-10,0,9
+Сертификаты Минцифры,tls-сертификат,2026-08-17,0,10
+Сертификаты Минцифры,tls-сертификат,2026-08-24,0,11
+Сертификаты Минцифры,tls-сертификат,2026-08-31,0,12
+Сертификаты Минцифры,tls-сертификат,2026-09-07,0,13
+Сертификаты Минцифры,минцифры,2026-03-09,0,-13
+Сертификаты Минцифры,минцифры,2026-03-16,0,-12
+Сертификаты Минцифры,минцифры,2026-03-23,0,-11
+Сертификаты Минцифры,минцифры,2026-03-30,0,-10
+Сертификаты Минцифры,минцифры,2026-04-06,0,-9
+Сертификаты Минцифры,минцифры,2026-04-13,0,-8
+Сертификаты Минцифры,минцифры,2026-04-20,0,-7
+Сертификаты Минцифры,минцифры,2026-04-27,0,-6
+Сертификаты Минцифры,минцифры,2026-05-04,0,-5
+Сертификаты Минцифры,минцифры,2026-05-11,0,-4
+Сертификаты Минцифры,минцифры,2026-05-18,0,-3
+Сертификаты Минцифры,минцифры,2026-05-25,0,-2
+Сертификаты Минцифры,минцифры,2026-06-01,0,-1
+Сертификаты Минцифры,минцифры,2026-06-08,1,0
+Сертификаты Минцифры,минцифры,2026-06-15,0,1
+Сертификаты Минцифры,минцифры,2026-06-22,0,2
+Сертификаты Минцифры,минцифры,2026-06-29,0,3
+Сертификаты Минцифры,минцифры,2026-07-06,0,4
+Сертификаты Минцифры,минцифры,2026-07-13,0,5
+Сертификаты Минцифры,минцифры,2026-07-20,0,6
+Сертификаты Минцифры,минцифры,2026-07-27,0,7
+Сертификаты Минцифры,минцифры,2026-08-03,0,8
+Сертификаты Минцифры,минцифры,2026-08-10,1,9
+Сертификаты Минцифры,минцифры,2026-08-17,0,10
+Сертификаты Минцифры,минцифры,2026-08-24,0,11
+Сертификаты Минцифры,минцифры,2026-08-31,1,12
+Сертификаты Минцифры,минцифры,2026-09-07,0,13
+Сертификаты Минцифры,нуц,2026-03-09,0,-13
+Сертификаты Минцифры,нуц,2026-03-16,0,-12
+Сертификаты Минцифры,нуц,2026-03-23,0,-11
+Сертификаты Минцифры,нуц,2026-03-30,0,-10
+Сертификаты Минцифры,нуц,2026-04-06,0,-9
+Сертификаты Минцифры,нуц,2026-04-13,0,-8
+Сертификаты Минцифры,нуц,2026-04-20,0,-7
+Сертификаты Минцифры,нуц,2026-04-27,0,-6
+Сертификаты Минцифры,нуц,2026-05-04,0,-5
+Сертификаты Минцифры,нуц,2026-05-11,0,-4
+Сертификаты Минцифры,нуц,2026-05-18,0,-3
+Сертификаты Минцифры,нуц,2026-05-25,0,-2
+Сертификаты Минцифры,нуц,2026-06-01,0,-1
+Сертификаты Минцифры,нуц,2026-06-08,0,0
+Сертификаты Минцифры,нуц,2026-06-15,0,1
+Сертификаты Минцифры,нуц,2026-06-22,0,2
+Сертификаты Минцифры,нуц,2026-06-29,0,3
+Сертификаты Минцифры,нуц,2026-07-06,0,4
+Сертификаты Минцифры,нуц,2026-07-13,0,5
+Сертификаты Минцифры,нуц,2026-07-20,0,6
+Сертификаты Минцифры,нуц,2026-07-27,0,7
+Сертификаты Минцифры,нуц,2026-08-03,0,8
+Сертификаты Минцифры,нуц,2026-08-10,1,9
+Сертификаты Минцифры,нуц,2026-08-17,0,10
+Сертификаты Минцифры,нуц,2026-08-24,0,11
+Сертификаты Минцифры,нуц,2026-08-31,1,12
+Сертификаты Минцифры,нуц,2026-09-07,0,13
+Цифровой рубль,банк,2026-05-04,0,-17
+Цифровой рубль,банк,2026-05-11,0,-16
+Цифровой рубль,банк,2026-05-18,0,-15
+Цифровой рубль,банк,2026-05-25,0,-14
+Цифровой рубль,банк,2026-06-01,0,-13
+Цифровой рубль,банк,2026-06-08,0,-12
+Цифровой рубль,банк,2026-06-15,0,-11
+Цифровой рубль,банк,2026-06-22,0,-10
+Цифровой рубль,банк,2026-06-29,0,-9
+Цифровой рубль,банк,2026-07-06,0,-8
+Цифровой рубль,банк,2026-07-13,0,-7
+Цифровой рубль,банк,2026-07-20,0,-6
+Цифровой рубль,банк,2026-07-27,0,-5
+Цифровой рубль,банк,2026-08-03,0,-4
+Цифровой рубль,банк,2026-08-10,0,-3
+Цифровой рубль,банк,2026-08-17,0,-2
+Цифровой рубль,банк,2026-08-24,0,-1
+Цифровой рубль,банк,2026-08-31,0,0
+Цифровой рубль,банк,2026-09-07,0,1
+Цифровой рубль,банк,2026-09-14,0,2
+Цифровой рубль,банк,2026-09-21,1,3
+Цифровой рубль,банк,2026-09-28,0,4
+Цифровой рубль,банк,2026-10-05,0,5
+Цифровой рубль,банки,2026-05-04,0,-17
+Цифровой рубль,банки,2026-05-11,0,-16
+Цифровой рубль,банки,2026-05-18,0,-15
+Цифровой рубль,банки,2026-05-25,1,-14
+Цифровой рубль,банки,2026-06-01,1,-13
+Цифровой рубль,банки,2026-06-08,0,-12
+Цифровой рубль,банки,2026-06-15,0,-11
+Цифровой рубль,банки,2026-06-22,0,-10
+Цифровой рубль,банки,2026-06-29,0,-9
+Цифровой рубль,банки,2026-07-06,0,-8
+Цифровой рубль,банки,2026-07-13,0,-7
+Цифровой рубль,банки,2026-07-20,0,-6
+Цифровой рубль,банки,2026-07-27,1,-5
+Цифровой рубль,банки,2026-08-03,0,-4
+Цифровой рубль,банки,2026-08-10,0,-3
+Цифровой рубль,банки,2026-08-17,0,-2
+Цифровой рубль,банки,2026-08-24,1,-1
+Цифровой рубль,банки,2026-08-31,3,0
+Цифровой рубль,банки,2026-09-07,0,1
+Цифровой рубль,банки,2026-09-14,0,2
+Цифровой рубль,банки,2026-09-21,0,3
+Цифровой рубль,банки,2026-09-28,0,4
+Цифровой рубль,банки,2026-10-05,1,5
+Цифровой рубль,банковские приложения,2026-05-04,0,-17
+Цифровой рубль,банковские приложения,2026-05-11,0,-16
+Цифровой рубль,банковские приложения,2026-05-18,0,-15
+Цифровой рубль,банковские приложения,2026-05-25,0,-14
+Цифровой рубль,банковские приложения,2026-06-01,0,-13
+Цифровой рубль,банковские приложения,2026-06-08,0,-12
+Цифровой рубль,банковские приложения,2026-06-15,0,-11
+Цифровой рубль,банковские приложения,2026-06-22,0,-10
+Цифровой рубль,банковские приложения,2026-06-29,0,-9
+Цифровой рубль,банковские приложения,2026-07-06,0,-8
+Цифровой рубль,банковские приложения,2026-07-13,0,-7
+Цифровой рубль,банковские приложения,2026-07-20,0,-6
+Цифровой рубль,банковские приложения,2026-07-27,0,-5
+Цифровой рубль,банковские приложения,2026-08-03,0,-4
+Цифровой рубль,банковские приложения,2026-08-10,0,-3
+Цифровой рубль,банковские приложения,2026-08-17,0,-2
+Цифровой рубль,банковские приложения,2026-08-24,1,-1
+Цифровой рубль,банковские приложения,2026-08-31,0,0
+Цифровой рубль,банковские приложения,2026-09-07,0,1
+Цифровой рубль,банковские приложения,2026-09-14,0,2
+Цифровой рубль,банковские приложения,2026-09-21,0,3
+Цифровой рубль,банковские приложения,2026-09-28,0,4
+Цифровой рубль,банковские приложения,2026-10-05,0,5
+Цифровой рубль,деньги,2026-05-04,0,-17
+Цифровой рубль,деньги,2026-05-11,0,-16
+Цифровой рубль,деньги,2026-05-18,0,-15
+Цифровой рубль,деньги,2026-05-25,1,-14
+Цифровой рубль,деньги,2026-06-01,1,-13
+Цифровой рубль,деньги,2026-06-08,0,-12
+Цифровой рубль,деньги,2026-06-15,0,-11
+Цифровой рубль,деньги,2026-06-22,0,-10
+Цифровой рубль,деньги,2026-06-29,0,-9
+Цифровой рубль,деньги,2026-07-06,0,-8
+Цифровой рубль,деньги,2026-07-13,0,-7
+Цифровой рубль,деньги,2026-07-20,0,-6
+Цифровой рубль,деньги,2026-07-27,0,-5
+Цифровой рубль,деньги,2026-08-03,0,-4
+Цифровой рубль,деньги,2026-08-10,0,-3
+Цифровой рубль,деньги,2026-08-17,0,-2
+Цифровой рубль,деньги,2026-08-24,0,-1
+Цифровой рубль,деньги,2026-08-31,1,0
+Цифровой рубль,деньги,2026-09-07,0,1
+Цифровой рубль,деньги,2026-09-14,0,2
+Цифровой рубль,деньги,2026-09-21,0,3
+Цифровой рубль,деньги,2026-09-28,0,4
+Цифровой рубль,деньги,2026-10-05,0,5
+Цифровой рубль,касса,2026-05-04,0,-17
+Цифровой рубль,касса,2026-05-11,0,-16
+Цифровой рубль,касса,2026-05-18,0,-15
+Цифровой рубль,касса,2026-05-25,0,-14
+Цифровой рубль,касса,2026-06-01,0,-13
+Цифровой рубль,касса,2026-06-08,0,-12
+Цифровой рубль,касса,2026-06-15,0,-11
+Цифровой рубль,касса,2026-06-22,0,-10
+Цифровой рубль,касса,2026-06-29,0,-9
+Цифровой рубль,касса,2026-07-06,0,-8
+Цифровой рубль,касса,2026-07-13,0,-7
+Цифровой рубль,касса,2026-07-20,0,-6
+Цифровой рубль,касса,2026-07-27,0,-5
+Цифровой рубль,касса,2026-08-03,0,-4
+Цифровой рубль,касса,2026-08-10,0,-3
+Цифровой рубль,касса,2026-08-17,0,-2
+Цифровой рубль,касса,2026-08-24,0,-1
+Цифровой рубль,касса,2026-08-31,0,0
+Цифровой рубль,касса,2026-09-07,0,1
+Цифровой рубль,касса,2026-09-14,0,2
+Цифровой рубль,касса,2026-09-21,1,3
+Цифровой рубль,касса,2026-09-28,0,4
+Цифровой рубль,касса,2026-10-05,0,5
+Цифровой рубль,криптовалюта,2026-05-04,0,-17
+Цифровой рубль,криптовалюта,2026-05-11,0,-16
+Цифровой рубль,криптовалюта,2026-05-18,0,-15
+Цифровой рубль,криптовалюта,2026-05-25,0,-14
+Цифровой рубль,криптовалюта,2026-06-01,0,-13
+Цифровой рубль,криптовалюта,2026-06-08,0,-12
+Цифровой рубль,криптовалюта,2026-06-15,0,-11
+Цифровой рубль,криптовалюта,2026-06-22,0,-10
+Цифровой рубль,криптовалюта,2026-06-29,0,-9
+Цифровой рубль,криптовалюта,2026-07-06,0,-8
+Цифровой рубль,криптовалюта,2026-07-13,0,-7
+Цифровой рубль,криптовалюта,2026-07-20,0,-6
+Цифровой рубль,криптовалюта,2026-07-27,0,-5
+Цифровой рубль,криптовалюта,2026-08-03,0,-4
+Цифровой рубль,криптовалюта,2026-08-10,0,-3
+Цифровой рубль,криптовалюта,2026-08-17,0,-2
+Цифровой рубль,криптовалюта,2026-08-24,0,-1
+Цифровой рубль,криптовалюта,2026-08-31,2,0
+Цифровой рубль,криптовалюта,2026-09-07,0,1
+Цифровой рубль,криптовалюта,2026-09-14,0,2
+Цифровой рубль,криптовалюта,2026-09-21,0,3
+Цифровой рубль,криптовалюта,2026-09-28,0,4
+Цифровой рубль,криптовалюта,2026-10-05,0,5
+Цифровой рубль,налоги,2026-05-04,0,-17
+Цифровой рубль,налоги,2026-05-11,0,-16
+Цифровой рубль,налоги,2026-05-18,0,-15
+Цифровой рубль,налоги,2026-05-25,0,-14
+Цифровой рубль,налоги,2026-06-01,0,-13
+Цифровой рубль,налоги,2026-06-08,0,-12
+Цифровой рубль,налоги,2026-06-15,0,-11
+Цифровой рубль,налоги,2026-06-22,0,-10
+Цифровой рубль,налоги,2026-06-29,0,-9
+Цифровой рубль,налоги,2026-07-06,0,-8
+Цифровой рубль,налоги,2026-07-13,0,-7
+Цифровой рубль,налоги,2026-07-20,0,-6
+Цифровой рубль,налоги,2026-07-27,0,-5
+Цифровой рубль,налоги,2026-08-03,0,-4
+Цифровой рубль,налоги,2026-08-10,1,-3
+Цифровой рубль,налоги,2026-08-17,0,-2
+Цифровой рубль,налоги,2026-08-24,0,-1
+Цифровой рубль,налоги,2026-08-31,1,0
+Цифровой рубль,налоги,2026-09-07,0,1
+Цифровой рубль,налоги,2026-09-14,0,2
+Цифровой рубль,налоги,2026-09-21,0,3
+Цифровой рубль,налоги,2026-09-28,0,4
+Цифровой рубль,налоги,2026-10-05,0,5
+Цифровой рубль,платежи,2026-05-04,0,-17
+Цифровой рубль,платежи,2026-05-11,0,-16
+Цифровой рубль,платежи,2026-05-18,0,-15
+Цифровой рубль,платежи,2026-05-25,0,-14
+Цифровой рубль,платежи,2026-06-01,0,-13
+Цифровой рубль,платежи,2026-06-08,0,-12
+Цифровой рубль,платежи,2026-06-15,0,-11
+Цифровой рубль,платежи,2026-06-22,0,-10
+Цифровой рубль,платежи,2026-06-29,0,-9
+Цифровой рубль,платежи,2026-07-06,0,-8
+Цифровой рубль,платежи,2026-07-13,0,-7
+Цифровой рубль,платежи,2026-07-20,0,-6
+Цифровой рубль,платежи,2026-07-27,0,-5
+Цифровой рубль,платежи,2026-08-03,0,-4
+Цифровой рубль,платежи,2026-08-10,0,-3
+Цифровой рубль,платежи,2026-08-17,0,-2
+Цифровой рубль,платежи,2026-08-24,0,-1
+Цифровой рубль,платежи,2026-08-31,2,0
+Цифровой рубль,платежи,2026-09-07,0,1
+Цифровой рубль,платежи,2026-09-14,0,2
+Цифровой рубль,платежи,2026-09-21,0,3
+Цифровой рубль,платежи,2026-09-28,0,4
+Цифровой рубль,платежи,2026-10-05,0,5
+Цифровой рубль,платежные решения,2026-05-04,0,-17
+Цифровой рубль,платежные решения,2026-05-11,0,-16
+Цифровой рубль,платежные решения,2026-05-18,0,-15
+Цифровой рубль,платежные решения,2026-05-25,0,-14
+Цифровой рубль,платежные решения,2026-06-01,0,-13
+Цифровой рубль,платежные решения,2026-06-08,0,-12
+Цифровой рубль,платежные решения,2026-06-15,0,-11
+Цифровой рубль,платежные решения,2026-06-22,0,-10
+Цифровой рубль,платежные решения,2026-06-29,0,-9
+Цифровой рубль,платежные решения,2026-07-06,0,-8
+Цифровой рубль,платежные решения,2026-07-13,0,-7
+Цифровой рубль,платежные решения,2026-07-20,0,-6
+Цифровой рубль,платежные решения,2026-07-27,0,-5
+Цифровой рубль,платежные решения,2026-08-03,0,-4
+Цифровой рубль,платежные решения,2026-08-10,0,-3
+Цифровой рубль,платежные решения,2026-08-17,0,-2
+Цифровой рубль,платежные решения,2026-08-24,0,-1
+Цифровой рубль,платежные решения,2026-08-31,0,0
+Цифровой рубль,платежные решения,2026-09-07,0,1
+Цифровой рубль,платежные решения,2026-09-14,0,2
+Цифровой рубль,платежные решения,2026-09-21,1,3
+Цифровой рубль,платежные решения,2026-09-28,0,4
+Цифровой рубль,платежные решения,2026-10-05,0,5
+Цифровой рубль,платёжные системы,2026-05-04,0,-17
+Цифровой рубль,платёжные системы,2026-05-11,0,-16
+Цифровой рубль,платёжные системы,2026-05-18,0,-15
+Цифровой рубль,платёжные системы,2026-05-25,0,-14
+Цифровой рубль,платёжные системы,2026-06-01,0,-13
+Цифровой рубль,платёжные системы,2026-06-08,0,-12
+Цифровой рубль,платёжные системы,2026-06-15,0,-11
+Цифровой рубль,платёжные системы,2026-06-22,0,-10
+Цифровой рубль,платёжные системы,2026-06-29,0,-9
+Цифровой рубль,платёжные системы,2026-07-06,0,-8
+Цифровой рубль,платёжные системы,2026-07-13,0,-7
+Цифровой рубль,платёжные системы,2026-07-20,0,-6
+Цифровой рубль,платёжные системы,2026-07-27,0,-5
+Цифровой рубль,платёжные системы,2026-08-03,0,-4
+Цифровой рубль,платёжные системы,2026-08-10,0,-3
+Цифровой рубль,платёжные системы,2026-08-17,0,-2
+Цифровой рубль,платёжные системы,2026-08-24,1,-1
+Цифровой рубль,платёжные системы,2026-08-31,0,0
+Цифровой рубль,платёжные системы,2026-09-07,0,1
+Цифровой рубль,платёжные системы,2026-09-14,0,2
+Цифровой рубль,платёжные системы,2026-09-21,1,3
+Цифровой рубль,платёжные системы,2026-09-28,0,4
+Цифровой рубль,платёжные системы,2026-10-05,1,5
+Цифровой рубль,ритейл,2026-05-04,0,-17
+Цифровой рубль,ритейл,2026-05-11,0,-16
+Цифровой рубль,ритейл,2026-05-18,0,-15
+Цифровой рубль,ритейл,2026-05-25,0,-14
+Цифровой рубль,ритейл,2026-06-01,0,-13
+Цифровой рубль,ритейл,2026-06-08,0,-12
+Цифровой рубль,ритейл,2026-06-15,0,-11
+Цифровой рубль,ритейл,2026-06-22,0,-10
+Цифровой рубль,ритейл,2026-06-29,0,-9
+Цифровой рубль,ритейл,2026-07-06,0,-8
+Цифровой рубль,ритейл,2026-07-13,0,-7
+Цифровой рубль,ритейл,2026-07-20,0,-6
+Цифровой рубль,ритейл,2026-07-27,0,-5
+Цифровой рубль,ритейл,2026-08-03,0,-4
+Цифровой рубль,ритейл,2026-08-10,0,-3
+Цифровой рубль,ритейл,2026-08-17,0,-2
+Цифровой рубль,ритейл,2026-08-24,0,-1
+Цифровой рубль,ритейл,2026-08-31,0,0
+Цифровой рубль,ритейл,2026-09-07,0,1
+Цифровой рубль,ритейл,2026-09-14,0,2
+Цифровой рубль,ритейл,2026-09-21,1,3
+Цифровой рубль,ритейл,2026-09-28,0,4
+Цифровой рубль,ритейл,2026-10-05,0,5
+Цифровой рубль,цб,2026-05-04,0,-17
+Цифровой рубль,цб,2026-05-11,0,-16
+Цифровой рубль,цб,2026-05-18,0,-15
+Цифровой рубль,цб,2026-05-25,0,-14
+Цифровой рубль,цб,2026-06-01,0,-13
+Цифровой рубль,цб,2026-06-08,0,-12
+Цифровой рубль,цб,2026-06-15,0,-11
+Цифровой рубль,цб,2026-06-22,0,-10
+Цифровой рубль,цб,2026-06-29,0,-9
+Цифровой рубль,цб,2026-07-06,0,-8
+Цифровой рубль,цб,2026-07-13,0,-7
+Цифровой рубль,цб,2026-07-20,0,-6
+Цифровой рубль,цб,2026-07-27,1,-5
+Цифровой рубль,цб,2026-08-03,0,-4
+Цифровой рубль,цб,2026-08-10,0,-3
+Цифровой рубль,цб,2026-08-17,1,-2
+Цифровой рубль,цб,2026-08-24,1,-1
+Цифровой рубль,цб,2026-08-31,2,0
+Цифровой рубль,цб,2026-09-07,0,1
+Цифровой рубль,цб,2026-09-14,0,2
+Цифровой рубль,цб,2026-09-21,0,3
+Цифровой рубль,цб,2026-09-28,0,4
+Цифровой рубль,цб,2026-10-05,0,5
+Цифровой рубль,цб рф,2026-05-04,0,-17
+Цифровой рубль,цб рф,2026-05-11,0,-16
+Цифровой рубль,цб рф,2026-05-18,0,-15
+Цифровой рубль,цб рф,2026-05-25,1,-14
+Цифровой рубль,цб рф,2026-06-01,0,-13
+Цифровой рубль,цб рф,2026-06-08,0,-12
+Цифровой рубль,цб рф,2026-06-15,0,-11
+Цифровой рубль,цб рф,2026-06-22,0,-10
+Цифровой рубль,цб рф,2026-06-29,0,-9
+Цифровой рубль,цб рф,2026-07-06,0,-8
+Цифровой рубль,цб рф,2026-07-13,0,-7
+Цифровой рубль,цб рф,2026-07-20,0,-6
+Цифровой рубль,цб рф,2026-07-27,0,-5
+Цифровой рубль,цб рф,2026-08-03,0,-4
+Цифровой рубль,цб рф,2026-08-10,0,-3
+Цифровой рубль,цб рф,2026-08-17,1,-2
+Цифровой рубль,цб рф,2026-08-24,0,-1
+Цифровой рубль,цб рф,2026-08-31,0,0
+Цифровой рубль,цб рф,2026-09-07,0,1
+Цифровой рубль,цб рф,2026-09-14,0,2
+Цифровой рубль,цб рф,2026-09-21,0,3
+Цифровой рубль,цб рф,2026-09-28,0,4
+Цифровой рубль,цб рф,2026-10-05,0,5
+Цифровой рубль,цифровой рубль,2026-05-04,1,-17
+Цифровой рубль,цифровой рубль,2026-05-11,0,-16
+Цифровой рубль,цифровой рубль,2026-05-18,0,-15
+Цифровой рубль,цифровой рубль,2026-05-25,1,-14
+Цифровой рубль,цифровой рубль,2026-06-01,1,-13
+Цифровой рубль,цифровой рубль,2026-06-08,0,-12
+Цифровой рубль,цифровой рубль,2026-06-15,0,-11
+Цифровой рубль,цифровой рубль,2026-06-22,0,-10
+Цифровой рубль,цифровой рубль,2026-06-29,0,-9
+Цифровой рубль,цифровой рубль,2026-07-06,1,-8
+Цифровой рубль,цифровой рубль,2026-07-13,0,-7
+Цифровой рубль,цифровой рубль,2026-07-20,0,-6
+Цифровой рубль,цифровой рубль,2026-07-27,1,-5
+Цифровой рубль,цифровой рубль,2026-08-03,0,-4
+Цифровой рубль,цифровой рубль,2026-08-10,1,-3
+Цифровой рубль,цифровой рубль,2026-08-17,1,-2
+Цифровой рубль,цифровой рубль,2026-08-24,1,-1
+Цифровой рубль,цифровой рубль,2026-08-31,5,0
+Цифровой рубль,цифровой рубль,2026-09-07,0,1
+Цифровой рубль,цифровой рубль,2026-09-14,1,2
+Цифровой рубль,цифровой рубль,2026-09-21,1,3
+Цифровой рубль,цифровой рубль,2026-09-28,0,4
+Цифровой рубль,цифровой рубль,2026-10-05,0,5
+Цифровой рубль,эквайринг,2026-05-04,0,-17
+Цифровой рубль,эквайринг,2026-05-11,0,-16
+Цифровой рубль,эквайринг,2026-05-18,0,-15
+Цифровой рубль,эквайринг,2026-05-25,0,-14
+Цифровой рубль,эквайринг,2026-06-01,0,-13
+Цифровой рубль,эквайринг,2026-06-08,0,-12
+Цифровой рубль,эквайринг,2026-06-15,0,-11
+Цифровой рубль,эквайринг,2026-06-22,0,-10
+Цифровой рубль,эквайринг,2026-06-29,0,-9
+Цифровой рубль,эквайринг,2026-07-06,0,-8
+Цифровой рубль,эквайринг,2026-07-13,0,-7
+Цифровой рубль,эквайринг,2026-07-20,0,-6
+Цифровой рубль,эквайринг,2026-07-27,0,-5
+Цифровой рубль,эквайринг,2026-08-03,0,-4
+Цифровой рубль,эквайринг,2026-08-10,1,-3
+Цифровой рубль,эквайринг,2026-08-17,0,-2
+Цифровой рубль,эквайринг,2026-08-24,0,-1
+Цифровой рубль,эквайринг,2026-08-31,0,0
+Цифровой рубль,эквайринг,2026-09-07,0,1
+Цифровой рубль,эквайринг,2026-09-14,0,2
+Цифровой рубль,эквайринг,2026-09-21,0,3
+Цифровой рубль,эквайринг,2026-09-28,0,4
+Цифровой рубль,эквайринг,2026-10-05,1,5
+Роскомнадзор: блокировка VPN,tor,2014-02-03,0,-52
+Роскомнадзор: блокировка VPN,tor,2014-02-10,0,-51
+Роскомнадзор: блокировка VPN,tor,2014-02-17,0,-50
+Роскомнадзор: блокировка VPN,tor,2014-02-24,0,-49
+Роскомнадзор: блокировка VPN,tor,2014-03-03,0,-48
+Роскомнадзор: блокировка VPN,tor,2014-03-10,0,-47
+Роскомнадзор: блокировка VPN,tor,2014-03-17,0,-46
+Роскомнадзор: блокировка VPN,tor,2014-03-24,0,-45
+Роскомнадзор: блокировка VPN,tor,2014-03-31,0,-44
+Роскомнадзор: блокировка VPN,tor,2014-04-07,0,-43
+Роскомнадзор: блокировка VPN,tor,2014-04-14,0,-42
+Роскомнадзор: блокировка VPN,tor,2014-04-21,0,-41
+Роскомнадзор: блокировка VPN,tor,2014-04-28,0,-40
+Роскомнадзор: блокировка VPN,tor,2014-05-05,0,-39
+Роскомнадзор: блокировка VPN,tor,2014-05-12,0,-38
+Роскомнадзор: блокировка VPN,tor,2014-05-19,0,-37
+Роскомнадзор: блокировка VPN,tor,2014-05-26,0,-36
+Роскомнадзор: блокировка VPN,tor,2014-06-02,0,-35
+Роскомнадзор: блокировка VPN,tor,2014-06-09,0,-34
+Роскомнадзор: блокировка VPN,tor,2014-06-16,0,-33
+Роскомнадзор: блокировка VPN,tor,2014-06-23,0,-32
+Роскомнадзор: блокировка VPN,tor,2014-06-30,0,-31
+Роскомнадзор: блокировка VPN,tor,2014-07-07,0,-30
+Роскомнадзор: блокировка VPN,tor,2014-07-14,0,-29
+Роскомнадзор: блокировка VPN,tor,2014-07-21,0,-28
+Роскомнадзор: блокировка VPN,tor,2014-07-28,0,-27
+Роскомнадзор: блокировка VPN,tor,2014-08-04,0,-26
+Роскомнадзор: блокировка VPN,tor,2014-08-11,0,-25
+Роскомнадзор: блокировка VPN,tor,2014-08-18,0,-24
+Роскомнадзор: блокировка VPN,tor,2014-08-25,0,-23
+Роскомнадзор: блокировка VPN,tor,2014-09-01,0,-22
+Роскомнадзор: блокировка VPN,tor,2014-09-08,0,-21
+Роскомнадзор: блокировка VPN,tor,2014-09-15,0,-20
+Роскомнадзор: блокировка VPN,tor,2014-09-22,0,-19
+Роскомнадзор: блокировка VPN,tor,2014-09-29,0,-18
+Роскомнадзор: блокировка VPN,tor,2014-10-06,0,-17
+Роскомнадзор: блокировка VPN,tor,2014-10-13,0,-16
+Роскомнадзор: блокировка VPN,tor,2014-10-20,0,-15
+Роскомнадзор: блокировка VPN,tor,2014-10-27,0,-14
+Роскомнадзор: блокировка VPN,tor,2014-11-03,0,-13
+Роскомнадзор: блокировка VPN,tor,2014-11-10,0,-12
+Роскомнадзор: блокировка VPN,tor,2014-11-17,0,-11
+Роскомнадзор: блокировка VPN,tor,2014-11-24,0,-10
+Роскомнадзор: блокировка VPN,tor,2014-12-01,0,-9
+Роскомнадзор: блокировка VPN,tor,2014-12-08,0,-8
+Роскомнадзор: блокировка VPN,tor,2014-12-15,0,-7
+Роскомнадзор: блокировка VPN,tor,2014-12-22,0,-6
+Роскомнадзор: блокировка VPN,tor,2014-12-29,0,-5
+Роскомнадзор: блокировка VPN,tor,2015-01-05,0,-4
+Роскомнадзор: блокировка VPN,tor,2015-01-12,0,-3
+Роскомнадзор: блокировка VPN,tor,2015-01-19,0,-2
+Роскомнадзор: блокировка VPN,tor,2015-01-26,0,-1
+Роскомнадзор: блокировка VPN,tor,2015-02-02,1,0
+Роскомнадзор: блокировка VPN,tor,2015-02-09,0,1
+Роскомнадзор: блокировка VPN,tor,2015-02-16,0,2
+Роскомнадзор: блокировка VPN,tor,2015-02-23,0,3
+Роскомнадзор: блокировка VPN,tor,2015-03-02,0,4
+Роскомнадзор: блокировка VPN,tor,2015-03-09,0,5
+Роскомнадзор: блокировка VPN,tor,2015-03-16,0,6
+Роскомнадзор: блокировка VPN,tor,2015-03-23,0,7
+Роскомнадзор: блокировка VPN,tor,2015-03-30,0,8
+Роскомнадзор: блокировка VPN,tor,2015-04-06,0,9
+Роскомнадзор: блокировка VPN,tor,2015-04-13,0,10
+Роскомнадзор: блокировка VPN,tor,2015-04-20,0,11
+Роскомнадзор: блокировка VPN,tor,2015-04-27,0,12
+Роскомнадзор: блокировка VPN,tor,2015-05-04,0,13
+Роскомнадзор: блокировка VPN,tor,2015-05-11,0,14
+Роскомнадзор: блокировка VPN,tor,2015-05-18,0,15
+Роскомнадзор: блокировка VPN,tor,2015-05-25,0,16
+Роскомнадзор: блокировка VPN,tor,2015-06-01,0,17
+Роскомнадзор: блокировка VPN,tor,2015-06-08,0,18
+Роскомнадзор: блокировка VPN,tor,2015-06-15,0,19
+Роскомнадзор: блокировка VPN,tor,2015-06-22,0,20
+Роскомнадзор: блокировка VPN,tor,2015-06-29,0,21
+Роскомнадзор: блокировка VPN,tor,2015-07-06,0,22
+Роскомнадзор: блокировка VPN,tor,2015-07-13,0,23
+Роскомнадзор: блокировка VPN,tor,2015-07-20,0,24
+Роскомнадзор: блокировка VPN,tor,2015-07-27,0,25
+Роскомнадзор: блокировка VPN,tor,2015-08-03,0,26
+Роскомнадзор: блокировка VPN,tor,2015-08-10,0,27
+Роскомнадзор: блокировка VPN,tor,2015-08-17,0,28
+Роскомнадзор: блокировка VPN,tor,2015-08-24,0,29
+Роскомнадзор: блокировка VPN,tor,2015-08-31,0,30
+Роскомнадзор: блокировка VPN,tor,2015-09-07,0,31
+Роскомнадзор: блокировка VPN,tor,2015-09-14,0,32
+Роскомнадзор: блокировка VPN,tor,2015-09-21,0,33
+Роскомнадзор: блокировка VPN,tor,2015-09-28,0,34
+Роскомнадзор: блокировка VPN,tor,2015-10-05,0,35
+Роскомнадзор: блокировка VPN,tor,2015-10-12,0,36
+Роскомнадзор: блокировка VPN,tor,2015-10-19,0,37
+Роскомнадзор: блокировка VPN,tor,2015-10-26,0,38
+Роскомнадзор: блокировка VPN,tor,2015-11-02,0,39
+Роскомнадзор: блокировка VPN,tor,2015-11-09,0,40
+Роскомнадзор: блокировка VPN,tor,2015-11-16,0,41
+Роскомнадзор: блокировка VPN,tor,2015-11-23,0,42
+Роскомнадзор: блокировка VPN,tor,2015-11-30,0,43
+Роскомнадзор: блокировка VPN,tor,2015-12-07,0,44
+Роскомнадзор: блокировка VPN,tor,2015-12-14,0,45
+Роскомнадзор: блокировка VPN,tor,2015-12-21,0,46
+Роскомнадзор: блокировка VPN,tor,2015-12-28,0,47
+Роскомнадзор: блокировка VPN,tor,2016-01-04,0,48
+Роскомнадзор: блокировка VPN,tor,2016-01-11,0,49
+Роскомнадзор: блокировка VPN,tor,2016-01-18,0,50
+Роскомнадзор: блокировка VPN,tor,2016-01-25,0,51
+Роскомнадзор: блокировка VPN,tor,2016-02-01,0,52
+Роскомнадзор: блокировка VPN,vpn,2014-02-03,0,-52
+Роскомнадзор: блокировка VPN,vpn,2014-02-10,0,-51
+Роскомнадзор: блокировка VPN,vpn,2014-02-17,0,-50
+Роскомнадзор: блокировка VPN,vpn,2014-02-24,0,-49
+Роскомнадзор: блокировка VPN,vpn,2014-03-03,0,-48
+Роскомнадзор: блокировка VPN,vpn,2014-03-10,0,-47
+Роскомнадзор: блокировка VPN,vpn,2014-03-17,0,-46
+Роскомнадзор: блокировка VPN,vpn,2014-03-24,0,-45
+Роскомнадзор: блокировка VPN,vpn,2014-03-31,0,-44
+Роскомнадзор: блокировка VPN,vpn,2014-04-07,0,-43
+Роскомнадзор: блокировка VPN,vpn,2014-04-14,0,-42
+Роскомнадзор: блокировка VPN,vpn,2014-04-21,0,-41
+Роскомнадзор: блокировка VPN,vpn,2014-04-28,0,-40
+Роскомнадзор: блокировка VPN,vpn,2014-05-05,0,-39
+Роскомнадзор: блокировка VPN,vpn,2014-05-12,0,-38
+Роскомнадзор: блокировка VPN,vpn,2014-05-19,0,-37
+Роскомнадзор: блокировка VPN,vpn,2014-05-26,0,-36
+Роскомнадзор: блокировка VPN,vpn,2014-06-02,0,-35
+Роскомнадзор: блокировка VPN,vpn,2014-06-09,0,-34
+Роскомнадзор: блокировка VPN,vpn,2014-06-16,0,-33
+Роскомнадзор: блокировка VPN,vpn,2014-06-23,0,-32
+Роскомнадзор: блокировка VPN,vpn,2014-06-30,0,-31
+Роскомнадзор: блокировка VPN,vpn,2014-07-07,0,-30
+Роскомнадзор: блокировка VPN,vpn,2014-07-14,0,-29
+Роскомнадзор: блокировка VPN,vpn,2014-07-21,0,-28
+Роскомнадзор: блокировка VPN,vpn,2014-07-28,0,-27
+Роскомнадзор: блокировка VPN,vpn,2014-08-04,0,-26
+Роскомнадзор: блокировка VPN,vpn,2014-08-11,0,-25
+Роскомнадзор: блокировка VPN,vpn,2014-08-18,0,-24
+Роскомнадзор: блокировка VPN,vpn,2014-08-25,0,-23
+Роскомнадзор: блокировка VPN,vpn,2014-09-01,0,-22
+Роскомнадзор: блокировка VPN,vpn,2014-09-08,0,-21
+Роскомнадзор: блокировка VPN,vpn,2014-09-15,0,-20
+Роскомнадзор: блокировка VPN,vpn,2014-09-22,0,-19
+Роскомнадзор: блокировка VPN,vpn,2014-09-29,0,-18
+Роскомнадзор: блокировка VPN,vpn,2014-10-06,0,-17
+Роскомнадзор: блокировка VPN,vpn,2014-10-13,0,-16
+Роскомнадзор: блокировка VPN,vpn,2014-10-20,0,-15
+Роскомнадзор: блокировка VPN,vpn,2014-10-27,0,-14
+Роскомнадзор: блокировка VPN,vpn,2014-11-03,0,-13
+Роскомнадзор: блокировка VPN,vpn,2014-11-10,0,-12
+Роскомнадзор: блокировка VPN,vpn,2014-11-17,0,-11
+Роскомнадзор: блокировка VPN,vpn,2014-11-24,0,-10
+Роскомнадзор: блокировка VPN,vpn,2014-12-01,0,-9
+Роскомнадзор: блокировка VPN,vpn,2014-12-08,0,-8
+Роскомнадзор: блокировка VPN,vpn,2014-12-15,0,-7
+Роскомнадзор: блокировка VPN,vpn,2014-12-22,0,-6
+Роскомнадзор: блокировка VPN,vpn,2014-12-29,0,-5
+Роскомнадзор: блокировка VPN,vpn,2015-01-05,0,-4
+Роскомнадзор: блокировка VPN,vpn,2015-01-12,0,-3
+Роскомнадзор: блокировка VPN,vpn,2015-01-19,0,-2
+Роскомнадзор: блокировка VPN,vpn,2015-01-26,0,-1
+Роскомнадзор: блокировка VPN,vpn,2015-02-02,1,0
+Роскомнадзор: блокировка VPN,vpn,2015-02-09,0,1
+Роскомнадзор: блокировка VPN,vpn,2015-02-16,0,2
+Роскомнадзор: блокировка VPN,vpn,2015-02-23,0,3
+Роскомнадзор: блокировка VPN,vpn,2015-03-02,0,4
+Роскомнадзор: блокировка VPN,vpn,2015-03-09,0,5
+Роскомнадзор: блокировка VPN,vpn,2015-03-16,0,6
+Роскомнадзор: блокировка VPN,vpn,2015-03-23,0,7
+Роскомнадзор: блокировка VPN,vpn,2015-03-30,0,8
+Роскомнадзор: блокировка VPN,vpn,2015-04-06,0,9
+Роскомнадзор: блокировка VPN,vpn,2015-04-13,0,10
+Роскомнадзор: блокировка VPN,vpn,2015-04-20,0,11
+Роскомнадзор: блокировка VPN,vpn,2015-04-27,0,12
+Роскомнадзор: блокировка VPN,vpn,2015-05-04,0,13
+Роскомнадзор: блокировка VPN,vpn,2015-05-11,0,14
+Роскомнадзор: блокировка VPN,vpn,2015-05-18,0,15
+Роскомнадзор: блокировка VPN,vpn,2015-05-25,0,16
+Роскомнадзор: блокировка VPN,vpn,2015-06-01,0,17
+Роскомнадзор: блокировка VPN,vpn,2015-06-08,0,18
+Роскомнадзор: блокировка VPN,vpn,2015-06-15,0,19
+Роскомнадзор: блокировка VPN,vpn,2015-06-22,0,20
+Роскомнадзор: блокировка VPN,vpn,2015-06-29,0,21
+Роскомнадзор: блокировка VPN,vpn,2015-07-06,0,22
+Роскомнадзор: блокировка VPN,vpn,2015-07-13,0,23
+Роскомнадзор: блокировка VPN,vpn,2015-07-20,0,24
+Роскомнадзор: блокировка VPN,vpn,2015-07-27,0,25
+Роскомнадзор: блокировка VPN,vpn,2015-08-03,0,26
+Роскомнадзор: блокировка VPN,vpn,2015-08-10,0,27
+Роскомнадзор: блокировка VPN,vpn,2015-08-17,0,28
+Роскомнадзор: блокировка VPN,vpn,2015-08-24,0,29
+Роскомнадзор: блокировка VPN,vpn,2015-08-31,0,30
+Роскомнадзор: блокировка VPN,vpn,2015-09-07,0,31
+Роскомнадзор: блокировка VPN,vpn,2015-09-14,0,32
+Роскомнадзор: блокировка VPN,vpn,2015-09-21,0,33
+Роскомнадзор: блокировка VPN,vpn,2015-09-28,0,34
+Роскомнадзор: блокировка VPN,vpn,2015-10-05,0,35
+Роскомнадзор: блокировка VPN,vpn,2015-10-12,0,36
+Роскомнадзор: блокировка VPN,vpn,2015-10-19,0,37
+Роскомнадзор: блокировка VPN,vpn,2015-10-26,0,38
+Роскомнадзор: блокировка VPN,vpn,2015-11-02,0,39
+Роскомнадзор: блокировка VPN,vpn,2015-11-09,0,40
+Роскомнадзор: блокировка VPN,vpn,2015-11-16,0,41
+Роскомнадзор: блокировка VPN,vpn,2015-11-23,0,42
+Роскомнадзор: блокировка VPN,vpn,2015-11-30,0,43
+Роскомнадзор: блокировка VPN,vpn,2015-12-07,0,44
+Роскомнадзор: блокировка VPN,vpn,2015-12-14,0,45
+Роскомнадзор: блокировка VPN,vpn,2015-12-21,0,46
+Роскомнадзор: блокировка VPN,vpn,2015-12-28,0,47
+Роскомнадзор: блокировка VPN,vpn,2016-01-04,0,48
+Роскомнадзор: блокировка VPN,vpn,2016-01-11,0,49
+Роскомнадзор: блокировка VPN,vpn,2016-01-18,0,50
+Роскомнадзор: блокировка VPN,vpn,2016-01-25,0,51
+Роскомнадзор: блокировка VPN,vpn,2016-02-01,0,52
+Роскомнадзор: блокировка VPN,блокировки,2014-02-03,0,-52
+Роскомнадзор: блокировка VPN,блокировки,2014-02-10,0,-51
+Роскомнадзор: блокировка VPN,блокировки,2014-02-17,0,-50
+Роскомнадзор: блокировка VPN,блокировки,2014-02-24,0,-49
+Роскомнадзор: блокировка VPN,блокировки,2014-03-03,0,-48
+Роскомнадзор: блокировка VPN,блокировки,2014-03-10,0,-47
+Роскомнадзор: блокировка VPN,блокировки,2014-03-17,0,-46
+Роскомнадзор: блокировка VPN,блокировки,2014-03-24,0,-45
+Роскомнадзор: блокировка VPN,блокировки,2014-03-31,0,-44
+Роскомнадзор: блокировка VPN,блокировки,2014-04-07,0,-43
+Роскомнадзор: блокировка VPN,блокировки,2014-04-14,0,-42
+Роскомнадзор: блокировка VPN,блокировки,2014-04-21,0,-41
+Роскомнадзор: блокировка VPN,блокировки,2014-04-28,0,-40
+Роскомнадзор: блокировка VPN,блокировки,2014-05-05,0,-39
+Роскомнадзор: блокировка VPN,блокировки,2014-05-12,0,-38
+Роскомнадзор: блокировка VPN,блокировки,2014-05-19,0,-37
+Роскомнадзор: блокировка VPN,блокировки,2014-05-26,0,-36
+Роскомнадзор: блокировка VPN,блокировки,2014-06-02,0,-35
+Роскомнадзор: блокировка VPN,блокировки,2014-06-09,0,-34
+Роскомнадзор: блокировка VPN,блокировки,2014-06-16,0,-33
+Роскомнадзор: блокировка VPN,блокировки,2014-06-23,0,-32
+Роскомнадзор: блокировка VPN,блокировки,2014-06-30,0,-31
+Роскомнадзор: блокировка VPN,блокировки,2014-07-07,0,-30
+Роскомнадзор: блокировка VPN,блокировки,2014-07-14,0,-29
+Роскомнадзор: блокировка VPN,блокировки,2014-07-21,0,-28
+Роскомнадзор: блокировка VPN,блокировки,2014-07-28,0,-27
+Роскомнадзор: блокировка VPN,блокировки,2014-08-04,0,-26
+Роскомнадзор: блокировка VPN,блокировки,2014-08-11,0,-25
+Роскомнадзор: блокировка VPN,блокировки,2014-08-18,0,-24
+Роскомнадзор: блокировка VPN,блокировки,2014-08-25,0,-23
+Роскомнадзор: блокировка VPN,блокировки,2014-09-01,0,-22
+Роскомнадзор: блокировка VPN,блокировки,2014-09-08,0,-21
+Роскомнадзор: блокировка VPN,блокировки,2014-09-15,0,-20
+Роскомнадзор: блокировка VPN,блокировки,2014-09-22,0,-19
+Роскомнадзор: блокировка VPN,блокировки,2014-09-29,0,-18
+Роскомнадзор: блокировка VPN,блокировки,2014-10-06,0,-17
+Роскомнадзор: блокировка VPN,блокировки,2014-10-13,0,-16
+Роскомнадзор: блокировка VPN,блокировки,2014-10-20,0,-15
+Роскомнадзор: блокировка VPN,блокировки,2014-10-27,0,-14
+Роскомнадзор: блокировка VPN,блокировки,2014-11-03,0,-13
+Роскомнадзор: блокировка VPN,блокировки,2014-11-10,0,-12
+Роскомнадзор: блокировка VPN,блокировки,2014-11-17,0,-11
+Роскомнадзор: блокировка VPN,блокировки,2014-11-24,0,-10
+Роскомнадзор: блокировка VPN,блокировки,2014-12-01,0,-9
+Роскомнадзор: блокировка VPN,блокировки,2014-12-08,0,-8
+Роскомнадзор: блокировка VPN,блокировки,2014-12-15,0,-7
+Роскомнадзор: блокировка VPN,блокировки,2014-12-22,0,-6
+Роскомнадзор: блокировка VPN,блокировки,2014-12-29,0,-5
+Роскомнадзор: блокировка VPN,блокировки,2015-01-05,0,-4
+Роскомнадзор: блокировка VPN,блокировки,2015-01-12,0,-3
+Роскомнадзор: блокировка VPN,блокировки,2015-01-19,0,-2
+Роскомнадзор: блокировка VPN,блокировки,2015-01-26,0,-1
+Роскомнадзор: блокировка VPN,блокировки,2015-02-02,1,0
+Роскомнадзор: блокировка VPN,блокировки,2015-02-09,0,1
+Роскомнадзор: блокировка VPN,блокировки,2015-02-16,0,2
+Роскомнадзор: блокировка VPN,блокировки,2015-02-23,0,3
+Роскомнадзор: блокировка VPN,блокировки,2015-03-02,0,4
+Роскомнадзор: блокировка VPN,блокировки,2015-03-09,0,5
+Роскомнадзор: блокировка VPN,блокировки,2015-03-16,0,6
+Роскомнадзор: блокировка VPN,блокировки,2015-03-23,0,7
+Роскомнадзор: блокировка VPN,блокировки,2015-03-30,0,8
+Роскомнадзор: блокировка VPN,блокировки,2015-04-06,0,9
+Роскомнадзор: блокировка VPN,блокировки,2015-04-13,0,10
+Роскомнадзор: блокировка VPN,блокировки,2015-04-20,0,11
+Роскомнадзор: блокировка VPN,блокировки,2015-04-27,0,12
+Роскомнадзор: блокировка VPN,блокировки,2015-05-04,0,13
+Роскомнадзор: блокировка VPN,блокировки,2015-05-11,0,14
+Роскомнадзор: блокировка VPN,блокировки,2015-05-18,0,15
+Роскомнадзор: блокировка VPN,блокировки,2015-05-25,0,16
+Роскомнадзор: блокировка VPN,блокировки,2015-06-01,0,17
+Роскомнадзор: блокировка VPN,блокировки,2015-06-08,0,18
+Роскомнадзор: блокировка VPN,блокировки,2015-06-15,0,19
+Роскомнадзор: блокировка VPN,блокировки,2015-06-22,0,20
+Роскомнадзор: блокировка VPN,блокировки,2015-06-29,0,21
+Роскомнадзор: блокировка VPN,блокировки,2015-07-06,0,22
+Роскомнадзор: блокировка VPN,блокировки,2015-07-13,0,23
+Роскомнадзор: блокировка VPN,блокировки,2015-07-20,0,24
+Роскомнадзор: блокировка VPN,блокировки,2015-07-27,0,25
+Роскомнадзор: блокировка VPN,блокировки,2015-08-03,0,26
+Роскомнадзор: блокировка VPN,блокировки,2015-08-10,0,27
+Роскомнадзор: блокировка VPN,блокировки,2015-08-17,0,28
+Роскомнадзор: блокировка VPN,блокировки,2015-08-24,0,29
+Роскомнадзор: блокировка VPN,блокировки,2015-08-31,0,30
+Роскомнадзор: блокировка VPN,блокировки,2015-09-07,0,31
+Роскомнадзор: блокировка VPN,блокировки,2015-09-14,0,32
+Роскомнадзор: блокировка VPN,блокировки,2015-09-21,0,33
+Роскомнадзор: блокировка VPN,блокировки,2015-09-28,0,34
+Роскомнадзор: блокировка VPN,блокировки,2015-10-05,0,35
+Роскомнадзор: блокировка VPN,блокировки,2015-10-12,0,36
+Роскомнадзор: блокировка VPN,блокировки,2015-10-19,0,37
+Роскомнадзор: блокировка VPN,блокировки,2015-10-26,0,38
+Роскомнадзор: блокировка VPN,блокировки,2015-11-02,0,39
+Роскомнадзор: блокировка VPN,блокировки,2015-11-09,0,40
+Роскомнадзор: блокировка VPN,блокировки,2015-11-16,0,41
+Роскомнадзор: блокировка VPN,блокировки,2015-11-23,0,42
+Роскомнадзор: блокировка VPN,блокировки,2015-11-30,0,43
+Роскомнадзор: блокировка VPN,блокировки,2015-12-07,0,44
+Роскомнадзор: блокировка VPN,блокировки,2015-12-14,0,45
+Роскомнадзор: блокировка VPN,блокировки,2015-12-21,0,46
+Роскомнадзор: блокировка VPN,блокировки,2015-12-28,0,47
+Роскомнадзор: блокировка VPN,блокировки,2016-01-04,0,48
+Роскомнадзор: блокировка VPN,блокировки,2016-01-11,0,49
+Роскомнадзор: блокировка VPN,блокировки,2016-01-18,0,50
+Роскомнадзор: блокировка VPN,блокировки,2016-01-25,0,51
+Роскомнадзор: блокировка VPN,блокировки,2016-02-01,0,52
+VPN,android,2026-01-05,0,-13
+VPN,android,2026-01-12,0,-12
+VPN,android,2026-01-19,1,-11
+VPN,android,2026-01-26,0,-10
+VPN,android,2026-02-02,0,-9
+VPN,android,2026-02-09,0,-8
+VPN,android,2026-02-16,2,-7
+VPN,android,2026-02-23,0,-6
+VPN,android,2026-03-02,0,-5
+VPN,android,2026-03-09,0,-4
+VPN,android,2026-03-16,0,-3
+VPN,android,2026-03-23,0,-2
+VPN,android,2026-03-30,0,-1
+VPN,android,2026-04-06,4,0
+VPN,android,2026-04-13,1,1
+VPN,android,2026-04-20,1,2
+VPN,android,2026-04-27,1,3
+VPN,android,2026-05-04,0,4
+VPN,android,2026-05-11,0,5
+VPN,android,2026-05-18,0,6
+VPN,android,2026-05-25,0,7
+VPN,android,2026-06-01,0,8
+VPN,android,2026-06-08,0,9
+VPN,android,2026-06-15,0,10
+VPN,android,2026-06-22,0,11
+VPN,android,2026-06-29,0,12
+VPN,android,2026-07-06,0,13
+VPN,dpi,2026-01-05,0,-13
+VPN,dpi,2026-01-12,1,-12
+VPN,dpi,2026-01-19,0,-11
+VPN,dpi,2026-01-26,0,-10
+VPN,dpi,2026-02-02,0,-9
+VPN,dpi,2026-02-09,0,-8
+VPN,dpi,2026-02-16,2,-7
+VPN,dpi,2026-02-23,0,-6
+VPN,dpi,2026-03-02,0,-5
+VPN,dpi,2026-03-09,0,-4
+VPN,dpi,2026-03-16,0,-3
+VPN,dpi,2026-03-23,0,-2
+VPN,dpi,2026-03-30,2,-1
+VPN,dpi,2026-04-06,1,0
+VPN,dpi,2026-04-13,2,1
+VPN,dpi,2026-04-20,0,2
+VPN,dpi,2026-04-27,0,3
+VPN,dpi,2026-05-04,1,4
+VPN,dpi,2026-05-11,0,5
+VPN,dpi,2026-05-18,0,6
+VPN,dpi,2026-05-25,0,7
+VPN,dpi,2026-06-01,0,8
+VPN,dpi,2026-06-08,0,9
+VPN,dpi,2026-06-15,0,10
+VPN,dpi,2026-06-22,1,11
+VPN,dpi,2026-06-29,0,12
+VPN,dpi,2026-07-06,0,13
+VPN,openvpn,2026-01-05,0,-13
+VPN,openvpn,2026-01-12,0,-12
+VPN,openvpn,2026-01-19,0,-11
+VPN,openvpn,2026-01-26,0,-10
+VPN,openvpn,2026-02-02,0,-9
+VPN,openvpn,2026-02-09,0,-8
+VPN,openvpn,2026-02-16,3,-7
+VPN,openvpn,2026-02-23,0,-6
+VPN,openvpn,2026-03-02,0,-5
+VPN,openvpn,2026-03-09,0,-4
+VPN,openvpn,2026-03-16,0,-3
+VPN,openvpn,2026-03-23,1,-2
+VPN,openvpn,2026-03-30,2,-1
+VPN,openvpn,2026-04-06,0,0
+VPN,openvpn,2026-04-13,0,1
+VPN,openvpn,2026-04-20,0,2
+VPN,openvpn,2026-04-27,0,3
+VPN,openvpn,2026-05-04,0,4
+VPN,openvpn,2026-05-11,0,5
+VPN,openvpn,2026-05-18,0,6
+VPN,openvpn,2026-05-25,0,7
+VPN,openvpn,2026-06-01,0,8
+VPN,openvpn,2026-06-08,0,9
+VPN,openvpn,2026-06-15,0,10
+VPN,openvpn,2026-06-22,0,11
+VPN,openvpn,2026-06-29,0,12
+VPN,openvpn,2026-07-06,0,13
+VPN,sing-box,2026-01-05,0,-13
+VPN,sing-box,2026-01-12,0,-12
+VPN,sing-box,2026-01-19,1,-11
+VPN,sing-box,2026-01-26,0,-10
+VPN,sing-box,2026-02-02,0,-9
+VPN,sing-box,2026-02-09,0,-8
+VPN,sing-box,2026-02-16,1,-7
+VPN,sing-box,2026-02-23,0,-6
+VPN,sing-box,2026-03-02,1,-5
+VPN,sing-box,2026-03-09,0,-4
+VPN,sing-box,2026-03-16,0,-3
+VPN,sing-box,2026-03-23,0,-2
+VPN,sing-box,2026-03-30,0,-1
+VPN,sing-box,2026-04-06,1,0
+VPN,sing-box,2026-04-13,0,1
+VPN,sing-box,2026-04-20,1,2
+VPN,sing-box,2026-04-27,0,3
+VPN,sing-box,2026-05-04,0,4
+VPN,sing-box,2026-05-11,0,5
+VPN,sing-box,2026-05-18,0,6
+VPN,sing-box,2026-05-25,0,7
+VPN,sing-box,2026-06-01,0,8
+VPN,sing-box,2026-06-08,0,9
+VPN,sing-box,2026-06-15,0,10
+VPN,sing-box,2026-06-22,0,11
+VPN,sing-box,2026-06-29,0,12
+VPN,sing-box,2026-07-06,0,13
+VPN,telegram,2026-01-05,0,-13
+VPN,telegram,2026-01-12,0,-12
+VPN,telegram,2026-01-19,1,-11
+VPN,telegram,2026-01-26,0,-10
+VPN,telegram,2026-02-02,0,-9
+VPN,telegram,2026-02-09,0,-8
+VPN,telegram,2026-02-16,0,-7
+VPN,telegram,2026-02-23,0,-6
+VPN,telegram,2026-03-02,1,-5
+VPN,telegram,2026-03-09,2,-4
+VPN,telegram,2026-03-16,2,-3
+VPN,telegram,2026-03-23,0,-2
+VPN,telegram,2026-03-30,1,-1
+VPN,telegram,2026-04-06,1,0
+VPN,telegram,2026-04-13,0,1
+VPN,telegram,2026-04-20,0,2
+VPN,telegram,2026-04-27,0,3
+VPN,telegram,2026-05-04,0,4
+VPN,telegram,2026-05-11,0,5
+VPN,telegram,2026-05-18,0,6
+VPN,telegram,2026-05-25,0,7
+VPN,telegram,2026-06-01,0,8
+VPN,telegram,2026-06-08,0,9
+VPN,telegram,2026-06-15,0,10
+VPN,telegram,2026-06-22,0,11
+VPN,telegram,2026-06-29,0,12
+VPN,telegram,2026-07-06,0,13
+VPN,vless,2026-01-05,0,-13
+VPN,vless,2026-01-12,1,-12
+VPN,vless,2026-01-19,0,-11
+VPN,vless,2026-01-26,0,-10
+VPN,vless,2026-02-02,0,-9
+VPN,vless,2026-02-09,0,-8
+VPN,vless,2026-02-16,4,-7
+VPN,vless,2026-02-23,0,-6
+VPN,vless,2026-03-02,0,-5
+VPN,vless,2026-03-09,0,-4
+VPN,vless,2026-03-16,0,-3
+VPN,vless,2026-03-23,2,-2
+VPN,vless,2026-03-30,0,-1
+VPN,vless,2026-04-06,0,0
+VPN,vless,2026-04-13,0,1
+VPN,vless,2026-04-20,2,2
+VPN,vless,2026-04-27,0,3
+VPN,vless,2026-05-04,0,4
+VPN,vless,2026-05-11,0,5
+VPN,vless,2026-05-18,0,6
+VPN,vless,2026-05-25,0,7
+VPN,vless,2026-06-01,0,8
+VPN,vless,2026-06-08,0,9
+VPN,vless,2026-06-15,0,10
+VPN,vless,2026-06-22,0,11
+VPN,vless,2026-06-29,0,12
+VPN,vless,2026-07-06,0,13
+VPN,vpn,2026-01-05,1,-13
+VPN,vpn,2026-01-12,0,-12
+VPN,vpn,2026-01-19,3,-11
+VPN,vpn,2026-01-26,0,-10
+VPN,vpn,2026-02-02,0,-9
+VPN,vpn,2026-02-09,3,-8
+VPN,vpn,2026-02-16,5,-7
+VPN,vpn,2026-02-23,1,-6
+VPN,vpn,2026-03-02,1,-5
+VPN,vpn,2026-03-09,1,-4
+VPN,vpn,2026-03-16,1,-3
+VPN,vpn,2026-03-23,5,-2
+VPN,vpn,2026-03-30,7,-1
+VPN,vpn,2026-04-06,8,0
+VPN,vpn,2026-04-13,3,1
+VPN,vpn,2026-04-20,4,2
+VPN,vpn,2026-04-27,2,3
+VPN,vpn,2026-05-04,3,4
+VPN,vpn,2026-05-11,2,5
+VPN,vpn,2026-05-18,1,6
+VPN,vpn,2026-05-25,2,7
+VPN,vpn,2026-06-01,0,8
+VPN,vpn,2026-06-08,0,9
+VPN,vpn,2026-06-15,0,10
+VPN,vpn,2026-06-22,4,11
+VPN,vpn,2026-06-29,1,12
+VPN,vpn,2026-07-06,0,13
+VPN,wireguard,2026-01-05,0,-13
+VPN,wireguard,2026-01-12,0,-12
+VPN,wireguard,2026-01-19,1,-11
+VPN,wireguard,2026-01-26,0,-10
+VPN,wireguard,2026-02-02,0,-9
+VPN,wireguard,2026-02-09,1,-8
+VPN,wireguard,2026-02-16,3,-7
+VPN,wireguard,2026-02-23,0,-6
+VPN,wireguard,2026-03-02,1,-5
+VPN,wireguard,2026-03-09,2,-4
+VPN,wireguard,2026-03-16,0,-3
+VPN,wireguard,2026-03-23,0,-2
+VPN,wireguard,2026-03-30,2,-1
+VPN,wireguard,2026-04-06,0,0
+VPN,wireguard,2026-04-13,0,1
+VPN,wireguard,2026-04-20,1,2
+VPN,wireguard,2026-04-27,0,3
+VPN,wireguard,2026-05-04,0,4
+VPN,wireguard,2026-05-11,0,5
+VPN,wireguard,2026-05-18,1,6
+VPN,wireguard,2026-05-25,1,7
+VPN,wireguard,2026-06-01,0,8
+VPN,wireguard,2026-06-08,0,9
+VPN,wireguard,2026-06-15,0,10
+VPN,wireguard,2026-06-22,1,11
+VPN,wireguard,2026-06-29,0,12
+VPN,wireguard,2026-07-06,0,13
+VPN,блокировки,2026-01-05,1,-13
+VPN,блокировки,2026-01-12,0,-12
+VPN,блокировки,2026-01-19,0,-11
+VPN,блокировки,2026-01-26,0,-10
+VPN,блокировки,2026-02-02,0,-9
+VPN,блокировки,2026-02-09,0,-8
+VPN,блокировки,2026-02-16,0,-7
+VPN,блокировки,2026-02-23,0,-6
+VPN,блокировки,2026-03-02,0,-5
+VPN,блокировки,2026-03-09,1,-4
+VPN,блокировки,2026-03-16,0,-3
+VPN,блокировки,2026-03-23,0,-2
+VPN,блокировки,2026-03-30,2,-1
+VPN,блокировки,2026-04-06,0,0
+VPN,блокировки,2026-04-13,1,1
+VPN,блокировки,2026-04-20,1,2
+VPN,блокировки,2026-04-27,0,3
+VPN,блокировки,2026-05-04,1,4
+VPN,блокировки,2026-05-11,0,5
+VPN,блокировки,2026-05-18,0,6
+VPN,блокировки,2026-05-25,0,7
+VPN,блокировки,2026-06-01,0,8
+VPN,блокировки,2026-06-08,0,9
+VPN,блокировки,2026-06-15,0,10
+VPN,блокировки,2026-06-22,0,11
+VPN,блокировки,2026-06-29,0,12
+VPN,блокировки,2026-07-06,0,13
+VPN,информационная безопасность,2026-01-05,0,-13
+VPN,информационная безопасность,2026-01-12,0,-12
+VPN,информационная безопасность,2026-01-19,0,-11
+VPN,информационная безопасность,2026-01-26,1,-10
+VPN,информационная безопасность,2026-02-02,0,-9
+VPN,информационная безопасность,2026-02-09,2,-8
+VPN,информационная безопасность,2026-02-16,0,-7
+VPN,информационная безопасность,2026-02-23,0,-6
+VPN,информационная безопасность,2026-03-02,1,-5
+VPN,информационная безопасность,2026-03-09,0,-4
+VPN,информационная безопасность,2026-03-16,0,-3
+VPN,информационная безопасность,2026-03-23,0,-2
+VPN,информационная безопасность,2026-03-30,0,-1
+VPN,информационная безопасность,2026-04-06,2,0
+VPN,информационная безопасность,2026-04-13,0,1
+VPN,информационная безопасность,2026-04-20,0,2
+VPN,информационная безопасность,2026-04-27,0,3
+VPN,информационная безопасность,2026-05-04,1,4
+VPN,информационная безопасность,2026-05-11,0,5
+VPN,информационная безопасность,2026-05-18,0,6
+VPN,информационная безопасность,2026-05-25,0,7
+VPN,информационная безопасность,2026-06-01,0,8
+VPN,информационная безопасность,2026-06-08,0,9
+VPN,информационная безопасность,2026-06-15,0,10
+VPN,информационная безопасность,2026-06-22,0,11
+VPN,информационная безопасность,2026-06-29,0,12
+VPN,информационная безопасность,2026-07-06,0,13
+VPN,минцифры,2026-01-05,0,-13
+VPN,минцифры,2026-01-12,0,-12
+VPN,минцифры,2026-01-19,0,-11
+VPN,минцифры,2026-01-26,0,-10
+VPN,минцифры,2026-02-02,0,-9
+VPN,минцифры,2026-02-09,0,-8
+VPN,минцифры,2026-02-16,0,-7
+VPN,минцифры,2026-02-23,0,-6
+VPN,минцифры,2026-03-02,0,-5
+VPN,минцифры,2026-03-09,0,-4
+VPN,минцифры,2026-03-16,0,-3
+VPN,минцифры,2026-03-23,0,-2
+VPN,минцифры,2026-03-30,1,-1
+VPN,минцифры,2026-04-06,2,0
+VPN,минцифры,2026-04-13,1,1
+VPN,минцифры,2026-04-20,0,2
+VPN,минцифры,2026-04-27,1,3
+VPN,минцифры,2026-05-04,0,4
+VPN,минцифры,2026-05-11,0,5
+VPN,минцифры,2026-05-18,0,6
+VPN,минцифры,2026-05-25,0,7
+VPN,минцифры,2026-06-01,0,8
+VPN,минцифры,2026-06-08,0,9
+VPN,минцифры,2026-06-15,0,10
+VPN,минцифры,2026-06-22,0,11
+VPN,минцифры,2026-06-29,0,12
+VPN,минцифры,2026-07-06,0,13
+VPN,прокси,2026-01-05,0,-13
+VPN,прокси,2026-01-12,1,-12
+VPN,прокси,2026-01-19,0,-11
+VPN,прокси,2026-01-26,0,-10
+VPN,прокси,2026-02-02,0,-9
+VPN,прокси,2026-02-09,0,-8
+VPN,прокси,2026-02-16,0,-7
+VPN,прокси,2026-02-23,1,-6
+VPN,прокси,2026-03-02,0,-5
+VPN,прокси,2026-03-09,0,-4
+VPN,прокси,2026-03-16,1,-3
+VPN,прокси,2026-03-23,0,-2
+VPN,прокси,2026-03-30,1,-1
+VPN,прокси,2026-04-06,1,0
+VPN,прокси,2026-04-13,0,1
+VPN,прокси,2026-04-20,0,2
+VPN,прокси,2026-04-27,0,3
+VPN,прокси,2026-05-04,0,4
+VPN,прокси,2026-05-11,1,5
+VPN,прокси,2026-05-18,0,6
+VPN,прокси,2026-05-25,0,7
+VPN,прокси,2026-06-01,0,8
+VPN,прокси,2026-06-08,0,9
+VPN,прокси,2026-06-15,0,10
+VPN,прокси,2026-06-22,0,11
+VPN,прокси,2026-06-29,0,12
+VPN,прокси,2026-07-06,0,13
+VPN,ркн,2026-01-05,0,-13
+VPN,ркн,2026-01-12,0,-12
+VPN,ркн,2026-01-19,4,-11
+VPN,ркн,2026-01-26,0,-10
+VPN,ркн,2026-02-02,0,-9
+VPN,ркн,2026-02-09,0,-8
+VPN,ркн,2026-02-16,0,-7
+VPN,ркн,2026-02-23,0,-6
+VPN,ркн,2026-03-02,0,-5
+VPN,ркн,2026-03-09,1,-4
+VPN,ркн,2026-03-16,1,-3
+VPN,ркн,2026-03-23,2,-2
+VPN,ркн,2026-03-30,0,-1
+VPN,ркн,2026-04-06,0,0
+VPN,ркн,2026-04-13,0,1
+VPN,ркн,2026-04-20,0,2
+VPN,ркн,2026-04-27,0,3
+VPN,ркн,2026-05-04,1,4
+VPN,ркн,2026-05-11,0,5
+VPN,ркн,2026-05-18,0,6
+VPN,ркн,2026-05-25,0,7
+VPN,ркн,2026-06-01,0,8
+VPN,ркн,2026-06-08,0,9
+VPN,ркн,2026-06-15,0,10
+VPN,ркн,2026-06-22,0,11
+VPN,ркн,2026-06-29,0,12
+VPN,ркн,2026-07-06,0,13
+VPN,роскомнадзор,2026-01-05,1,-13
+VPN,роскомнадзор,2026-01-12,0,-12
+VPN,роскомнадзор,2026-01-19,0,-11
+VPN,роскомнадзор,2026-01-26,0,-10
+VPN,роскомнадзор,2026-02-02,0,-9
+VPN,роскомнадзор,2026-02-09,0,-8
+VPN,роскомнадзор,2026-02-16,0,-7
+VPN,роскомнадзор,2026-02-23,1,-6
+VPN,роскомнадзор,2026-03-02,1,-5
+VPN,роскомнадзор,2026-03-09,0,-4
+VPN,роскомнадзор,2026-03-16,0,-3
+VPN,роскомнадзор,2026-03-23,0,-2
+VPN,роскомнадзор,2026-03-30,3,-1
+VPN,роскомнадзор,2026-04-06,1,0
+VPN,роскомнадзор,2026-04-13,1,1
+VPN,роскомнадзор,2026-04-20,0,2
+VPN,роскомнадзор,2026-04-27,0,3
+VPN,роскомнадзор,2026-05-04,1,4
+VPN,роскомнадзор,2026-05-11,0,5
+VPN,роскомнадзор,2026-05-18,0,6
+VPN,роскомнадзор,2026-05-25,0,7
+VPN,роскомнадзор,2026-06-01,0,8
+VPN,роскомнадзор,2026-06-08,0,9
+VPN,роскомнадзор,2026-06-15,0,10
+VPN,роскомнадзор,2026-06-22,0,11
+VPN,роскомнадзор,2026-06-29,0,12
+VPN,роскомнадзор,2026-07-06,0,13
+VPN,тспу,2026-01-05,0,-13
+VPN,тспу,2026-01-12,1,-12
+VPN,тспу,2026-01-19,0,-11
+VPN,тспу,2026-01-26,0,-10
+VPN,тспу,2026-02-02,0,-9
+VPN,тспу,2026-02-09,0,-8
+VPN,тспу,2026-02-16,0,-7
+VPN,тспу,2026-02-23,0,-6
+VPN,тспу,2026-03-02,1,-5
+VPN,тспу,2026-03-09,0,-4
+VPN,тспу,2026-03-16,0,-3
+VPN,тспу,2026-03-23,0,-2
+VPN,тспу,2026-03-30,1,-1
+VPN,тспу,2026-04-06,2,0
+VPN,тспу,2026-04-13,0,1
+VPN,тспу,2026-04-20,0,2
+VPN,тспу,2026-04-27,0,3
+VPN,тспу,2026-05-04,0,4
+VPN,тспу,2026-05-11,0,5
+VPN,тспу,2026-05-18,0,6
+VPN,тспу,2026-05-25,0,7
+VPN,тспу,2026-06-01,0,8
+VPN,тспу,2026-06-08,0,9
+VPN,тспу,2026-06-15,0,10
+VPN,тспу,2026-06-22,0,11
+VPN,тспу,2026-06-29,0,12
+VPN,тспу,2026-07-06,0,13
+DPI,dpi,2025-11-17,0,-13
+DPI,dpi,2025-11-24,1,-12
+DPI,dpi,2025-12-01,0,-11
+DPI,dpi,2025-12-08,0,-10
+DPI,dpi,2025-12-15,0,-9
+DPI,dpi,2025-12-22,0,-8
+DPI,dpi,2025-12-29,0,-7
+DPI,dpi,2026-01-05,0,-6
+DPI,dpi,2026-01-12,1,-5
+DPI,dpi,2026-01-19,1,-4
+DPI,dpi,2026-01-26,0,-3
+DPI,dpi,2026-02-02,1,-2
+DPI,dpi,2026-02-09,2,-1
+DPI,dpi,2026-02-16,3,0
+DPI,dpi,2026-02-23,1,1
+DPI,dpi,2026-03-02,0,2
+DPI,dpi,2026-03-09,2,3
+DPI,dpi,2026-03-16,0,4
+DPI,dpi,2026-03-23,2,5
+DPI,dpi,2026-03-30,3,6
+DPI,dpi,2026-04-06,1,7
+DPI,dpi,2026-04-13,0,8
+DPI,dpi,2026-04-20,1,9
+DPI,dpi,2026-04-27,0,10
+DPI,dpi,2026-05-04,3,11
+DPI,dpi,2026-05-11,1,12
+DPI,dpi,2026-05-18,0,13
+DPI,dpi bypass,2025-11-17,0,-13
+DPI,dpi bypass,2025-11-24,0,-12
+DPI,dpi bypass,2025-12-01,0,-11
+DPI,dpi bypass,2025-12-08,0,-10
+DPI,dpi bypass,2025-12-15,0,-9
+DPI,dpi bypass,2025-12-22,0,-8
+DPI,dpi bypass,2025-12-29,0,-7
+DPI,dpi bypass,2026-01-05,0,-6
+DPI,dpi bypass,2026-01-12,0,-5
+DPI,dpi bypass,2026-01-19,0,-4
+DPI,dpi bypass,2026-01-26,0,-3
+DPI,dpi bypass,2026-02-02,0,-2
+DPI,dpi bypass,2026-02-09,1,-1
+DPI,dpi bypass,2026-02-16,1,0
+DPI,dpi bypass,2026-02-23,0,1
+DPI,dpi bypass,2026-03-02,0,2
+DPI,dpi bypass,2026-03-09,0,3
+DPI,dpi bypass,2026-03-16,1,4
+DPI,dpi bypass,2026-03-23,0,5
+DPI,dpi bypass,2026-03-30,0,6
+DPI,dpi bypass,2026-04-06,0,7
+DPI,dpi bypass,2026-04-13,0,8
+DPI,dpi bypass,2026-04-20,0,9
+DPI,dpi bypass,2026-04-27,0,10
+DPI,dpi bypass,2026-05-04,0,11
+DPI,dpi bypass,2026-05-11,1,12
+DPI,dpi bypass,2026-05-18,0,13
+DPI,reality,2025-11-17,0,-13
+DPI,reality,2025-11-24,1,-12
+DPI,reality,2025-12-01,0,-11
+DPI,reality,2025-12-08,0,-10
+DPI,reality,2025-12-15,0,-9
+DPI,reality,2025-12-22,0,-8
+DPI,reality,2025-12-29,0,-7
+DPI,reality,2026-01-05,0,-6
+DPI,reality,2026-01-12,0,-5
+DPI,reality,2026-01-19,0,-4
+DPI,reality,2026-01-26,0,-3
+DPI,reality,2026-02-02,0,-2
+DPI,reality,2026-02-09,0,-1
+DPI,reality,2026-02-16,1,0
+DPI,reality,2026-02-23,0,1
+DPI,reality,2026-03-02,0,2
+DPI,reality,2026-03-09,0,3
+DPI,reality,2026-03-16,0,4
+DPI,reality,2026-03-23,0,5
+DPI,reality,2026-03-30,0,6
+DPI,reality,2026-04-06,1,7
+DPI,reality,2026-04-13,0,8
+DPI,reality,2026-04-20,0,9
+DPI,reality,2026-04-27,0,10
+DPI,reality,2026-05-04,1,11
+DPI,reality,2026-05-11,0,12
+DPI,reality,2026-05-18,0,13
+DPI,tcp,2025-11-17,0,-13
+DPI,tcp,2025-11-24,0,-12
+DPI,tcp,2025-12-01,0,-11
+DPI,tcp,2025-12-08,0,-10
+DPI,tcp,2025-12-15,0,-9
+DPI,tcp,2025-12-22,0,-8
+DPI,tcp,2025-12-29,0,-7
+DPI,tcp,2026-01-05,0,-6
+DPI,tcp,2026-01-12,1,-5
+DPI,tcp,2026-01-19,1,-4
+DPI,tcp,2026-01-26,0,-3
+DPI,tcp,2026-02-02,1,-2
+DPI,tcp,2026-02-09,0,-1
+DPI,tcp,2026-02-16,0,0
+DPI,tcp,2026-02-23,0,1
+DPI,tcp,2026-03-02,0,2
+DPI,tcp,2026-03-09,1,3
+DPI,tcp,2026-03-16,0,4
+DPI,tcp,2026-03-23,0,5
+DPI,tcp,2026-03-30,0,6
+DPI,tcp,2026-04-06,0,7
+DPI,tcp,2026-04-13,0,8
+DPI,tcp,2026-04-20,0,9
+DPI,tcp,2026-04-27,0,10
+DPI,tcp,2026-05-04,0,11
+DPI,tcp,2026-05-11,1,12
+DPI,tcp,2026-05-18,0,13
+DPI,telegram,2025-11-17,0,-13
+DPI,telegram,2025-11-24,0,-12
+DPI,telegram,2025-12-01,0,-11
+DPI,telegram,2025-12-08,0,-10
+DPI,telegram,2025-12-15,0,-9
+DPI,telegram,2025-12-22,0,-8
+DPI,telegram,2025-12-29,0,-7
+DPI,telegram,2026-01-05,0,-6
+DPI,telegram,2026-01-12,0,-5
+DPI,telegram,2026-01-19,0,-4
+DPI,telegram,2026-01-26,0,-3
+DPI,telegram,2026-02-02,0,-2
+DPI,telegram,2026-02-09,2,-1
+DPI,telegram,2026-02-16,0,0
+DPI,telegram,2026-02-23,0,1
+DPI,telegram,2026-03-02,0,2
+DPI,telegram,2026-03-09,0,3
+DPI,telegram,2026-03-16,2,4
+DPI,telegram,2026-03-23,1,5
+DPI,telegram,2026-03-30,2,6
+DPI,telegram,2026-04-06,0,7
+DPI,telegram,2026-04-13,0,8
+DPI,telegram,2026-04-20,0,9
+DPI,telegram,2026-04-27,0,10
+DPI,telegram,2026-05-04,0,11
+DPI,telegram,2026-05-11,1,12
+DPI,telegram,2026-05-18,0,13
+DPI,tls,2025-11-17,0,-13
+DPI,tls,2025-11-24,0,-12
+DPI,tls,2025-12-01,0,-11
+DPI,tls,2025-12-08,0,-10
+DPI,tls,2025-12-15,0,-9
+DPI,tls,2025-12-22,0,-8
+DPI,tls,2025-12-29,0,-7
+DPI,tls,2026-01-05,0,-6
+DPI,tls,2026-01-12,0,-5
+DPI,tls,2026-01-19,0,-4
+DPI,tls,2026-01-26,0,-3
+DPI,tls,2026-02-02,1,-2
+DPI,tls,2026-02-09,0,-1
+DPI,tls,2026-02-16,0,0
+DPI,tls,2026-02-23,0,1
+DPI,tls,2026-03-02,0,2
+DPI,tls,2026-03-09,1,3
+DPI,tls,2026-03-16,0,4
+DPI,tls,2026-03-23,0,5
+DPI,tls,2026-03-30,0,6
+DPI,tls,2026-04-06,0,7
+DPI,tls,2026-04-13,0,8
+DPI,tls,2026-04-20,0,9
+DPI,tls,2026-04-27,0,10
+DPI,tls,2026-05-04,1,11
+DPI,tls,2026-05-11,1,12
+DPI,tls,2026-05-18,0,13
+DPI,vless,2025-11-17,0,-13
+DPI,vless,2025-11-24,1,-12
+DPI,vless,2025-12-01,0,-11
+DPI,vless,2025-12-08,0,-10
+DPI,vless,2025-12-15,0,-9
+DPI,vless,2025-12-22,0,-8
+DPI,vless,2025-12-29,0,-7
+DPI,vless,2026-01-05,0,-6
+DPI,vless,2026-01-12,1,-5
+DPI,vless,2026-01-19,0,-4
+DPI,vless,2026-01-26,0,-3
+DPI,vless,2026-02-02,0,-2
+DPI,vless,2026-02-09,0,-1
+DPI,vless,2026-02-16,2,0
+DPI,vless,2026-02-23,0,1
+DPI,vless,2026-03-02,0,2
+DPI,vless,2026-03-09,0,3
+DPI,vless,2026-03-16,0,4
+DPI,vless,2026-03-23,0,5
+DPI,vless,2026-03-30,0,6
+DPI,vless,2026-04-06,0,7
+DPI,vless,2026-04-13,0,8
+DPI,vless,2026-04-20,0,9
+DPI,vless,2026-04-27,0,10
+DPI,vless,2026-05-04,1,11
+DPI,vless,2026-05-11,0,12
+DPI,vless,2026-05-18,0,13
+DPI,vpn,2025-11-17,0,-13
+DPI,vpn,2025-11-24,1,-12
+DPI,vpn,2025-12-01,0,-11
+DPI,vpn,2025-12-08,0,-10
+DPI,vpn,2025-12-15,0,-9
+DPI,vpn,2025-12-22,0,-8
+DPI,vpn,2025-12-29,0,-7
+DPI,vpn,2026-01-05,0,-6
+DPI,vpn,2026-01-12,1,-5
+DPI,vpn,2026-01-19,1,-4
+DPI,vpn,2026-01-26,0,-3
+DPI,vpn,2026-02-02,0,-2
+DPI,vpn,2026-02-09,0,-1
+DPI,vpn,2026-02-16,2,0
+DPI,vpn,2026-02-23,0,1
+DPI,vpn,2026-03-02,0,2
+DPI,vpn,2026-03-09,1,3
+DPI,vpn,2026-03-16,1,4
+DPI,vpn,2026-03-23,0,5
+DPI,vpn,2026-03-30,2,6
+DPI,vpn,2026-04-06,0,7
+DPI,vpn,2026-04-13,0,8
+DPI,vpn,2026-04-20,0,9
+DPI,vpn,2026-04-27,0,10
+DPI,vpn,2026-05-04,0,11
+DPI,vpn,2026-05-11,1,12
+DPI,vpn,2026-05-18,0,13
+DPI,xray,2025-11-17,0,-13
+DPI,xray,2025-11-24,1,-12
+DPI,xray,2025-12-01,0,-11
+DPI,xray,2025-12-08,0,-10
+DPI,xray,2025-12-15,0,-9
+DPI,xray,2025-12-22,0,-8
+DPI,xray,2025-12-29,0,-7
+DPI,xray,2026-01-05,0,-6
+DPI,xray,2026-01-12,0,-5
+DPI,xray,2026-01-19,0,-4
+DPI,xray,2026-01-26,0,-3
+DPI,xray,2026-02-02,0,-2
+DPI,xray,2026-02-09,0,-1
+DPI,xray,2026-02-16,1,0
+DPI,xray,2026-02-23,0,1
+DPI,xray,2026-03-02,0,2
+DPI,xray,2026-03-09,1,3
+DPI,xray,2026-03-16,0,4
+DPI,xray,2026-03-23,0,5
+DPI,xray,2026-03-30,0,6
+DPI,xray,2026-04-06,0,7
+DPI,xray,2026-04-13,0,8
+DPI,xray,2026-04-20,0,9
+DPI,xray,2026-04-27,0,10
+DPI,xray,2026-05-04,1,11
+DPI,xray,2026-05-11,0,12
+DPI,xray,2026-05-18,0,13
+DPI,блокировки,2025-11-17,0,-13
+DPI,блокировки,2025-11-24,1,-12
+DPI,блокировки,2025-12-01,0,-11
+DPI,блокировки,2025-12-08,0,-10
+DPI,блокировки,2025-12-15,0,-9
+DPI,блокировки,2025-12-22,0,-8
+DPI,блокировки,2025-12-29,0,-7
+DPI,блокировки,2026-01-05,0,-6
+DPI,блокировки,2026-01-12,1,-5
+DPI,блокировки,2026-01-19,1,-4
+DPI,блокировки,2026-01-26,0,-3
+DPI,блокировки,2026-02-02,0,-2
+DPI,блокировки,2026-02-09,0,-1
+DPI,блокировки,2026-02-16,0,0
+DPI,блокировки,2026-02-23,0,1
+DPI,блокировки,2026-03-02,0,2
+DPI,блокировки,2026-03-09,0,3
+DPI,блокировки,2026-03-16,0,4
+DPI,блокировки,2026-03-23,0,5
+DPI,блокировки,2026-03-30,0,6
+DPI,блокировки,2026-04-06,0,7
+DPI,блокировки,2026-04-13,0,8
+DPI,блокировки,2026-04-20,1,9
+DPI,блокировки,2026-04-27,0,10
+DPI,блокировки,2026-05-04,0,11
+DPI,блокировки,2026-05-11,1,12
+DPI,блокировки,2026-05-18,0,13
+DPI,обход блокировок,2025-11-17,0,-13
+DPI,обход блокировок,2025-11-24,0,-12
+DPI,обход блокировок,2025-12-01,0,-11
+DPI,обход блокировок,2025-12-08,0,-10
+DPI,обход блокировок,2025-12-15,0,-9
+DPI,обход блокировок,2025-12-22,0,-8
+DPI,обход блокировок,2025-12-29,0,-7
+DPI,обход блокировок,2026-01-05,0,-6
+DPI,обход блокировок,2026-01-12,0,-5
+DPI,обход блокировок,2026-01-19,0,-4
+DPI,обход блокировок,2026-01-26,0,-3
+DPI,обход блокировок,2026-02-02,0,-2
+DPI,обход блокировок,2026-02-09,3,-1
+DPI,обход блокировок,2026-02-16,1,0
+DPI,обход блокировок,2026-02-23,0,1
+DPI,обход блокировок,2026-03-02,0,2
+DPI,обход блокировок,2026-03-09,2,3
+DPI,обход блокировок,2026-03-16,2,4
+DPI,обход блокировок,2026-03-23,0,5
+DPI,обход блокировок,2026-03-30,1,6
+DPI,обход блокировок,2026-04-06,0,7
+DPI,обход блокировок,2026-04-13,0,8
+DPI,обход блокировок,2026-04-20,0,9
+DPI,обход блокировок,2026-04-27,0,10
+DPI,обход блокировок,2026-05-04,0,11
+DPI,обход блокировок,2026-05-11,0,12
+DPI,обход блокировок,2026-05-18,0,13
+DPI,ркн,2025-11-17,0,-13
+DPI,ркн,2025-11-24,0,-12
+DPI,ркн,2025-12-01,0,-11
+DPI,ркн,2025-12-08,0,-10
+DPI,ркн,2025-12-15,0,-9
+DPI,ркн,2025-12-22,0,-8
+DPI,ркн,2025-12-29,0,-7
+DPI,ркн,2026-01-05,0,-6
+DPI,ркн,2026-01-12,0,-5
+DPI,ркн,2026-01-19,1,-4
+DPI,ркн,2026-01-26,0,-3
+DPI,ркн,2026-02-02,0,-2
+DPI,ркн,2026-02-09,0,-1
+DPI,ркн,2026-02-16,0,0
+DPI,ркн,2026-02-23,0,1
+DPI,ркн,2026-03-02,0,2
+DPI,ркн,2026-03-09,0,3
+DPI,ркн,2026-03-16,0,4
+DPI,ркн,2026-03-23,1,5
+DPI,ркн,2026-03-30,1,6
+DPI,ркн,2026-04-06,0,7
+DPI,ркн,2026-04-13,0,8
+DPI,ркн,2026-04-20,1,9
+DPI,ркн,2026-04-27,0,10
+DPI,ркн,2026-05-04,0,11
+DPI,ркн,2026-05-11,0,12
+DPI,ркн,2026-05-18,0,13
+DPI,роскомнадзор,2025-11-17,0,-13
+DPI,роскомнадзор,2025-11-24,1,-12
+DPI,роскомнадзор,2025-12-01,0,-11
+DPI,роскомнадзор,2025-12-08,0,-10
+DPI,роскомнадзор,2025-12-15,0,-9
+DPI,роскомнадзор,2025-12-22,0,-8
+DPI,роскомнадзор,2025-12-29,0,-7
+DPI,роскомнадзор,2026-01-05,0,-6
+DPI,роскомнадзор,2026-01-12,0,-5
+DPI,роскомнадзор,2026-01-19,0,-4
+DPI,роскомнадзор,2026-01-26,0,-3
+DPI,роскомнадзор,2026-02-02,0,-2
+DPI,роскомнадзор,2026-02-09,0,-1
+DPI,роскомнадзор,2026-02-16,0,0
+DPI,роскомнадзор,2026-02-23,0,1
+DPI,роскомнадзор,2026-03-02,0,2
+DPI,роскомнадзор,2026-03-09,0,3
+DPI,роскомнадзор,2026-03-16,0,4
+DPI,роскомнадзор,2026-03-23,0,5
+DPI,роскомнадзор,2026-03-30,1,6
+DPI,роскомнадзор,2026-04-06,0,7
+DPI,роскомнадзор,2026-04-13,0,8
+DPI,роскомнадзор,2026-04-20,1,9
+DPI,роскомнадзор,2026-04-27,0,10
+DPI,роскомнадзор,2026-05-04,0,11
+DPI,роскомнадзор,2026-05-11,0,12
+DPI,роскомнадзор,2026-05-18,0,13
+DPI,тспу,2025-11-17,0,-13
+DPI,тспу,2025-11-24,1,-12
+DPI,тспу,2025-12-01,0,-11
+DPI,тспу,2025-12-08,0,-10
+DPI,тспу,2025-12-15,0,-9
+DPI,тспу,2025-12-22,0,-8
+DPI,тспу,2025-12-29,0,-7
+DPI,тспу,2026-01-05,0,-6
+DPI,тспу,2026-01-12,0,-5
+DPI,тспу,2026-01-19,0,-4
+DPI,тспу,2026-01-26,0,-3
+DPI,тспу,2026-02-02,1,-2
+DPI,тспу,2026-02-09,0,-1
+DPI,тспу,2026-02-16,0,0
+DPI,тспу,2026-02-23,0,1
+DPI,тспу,2026-03-02,0,2
+DPI,тспу,2026-03-09,1,3
+DPI,тспу,2026-03-16,0,4
+DPI,тспу,2026-03-23,1,5
+DPI,тспу,2026-03-30,2,6
+DPI,тспу,2026-04-06,0,7
+DPI,тспу,2026-04-13,0,8
+DPI,тспу,2026-04-20,1,9
+DPI,тспу,2026-04-27,0,10
+DPI,тспу,2026-05-04,1,11
+DPI,тспу,2026-05-11,0,12
+DPI,тспу,2026-05-18,0,13
+DPI,цензура,2025-11-17,0,-13
+DPI,цензура,2025-11-24,0,-12
+DPI,цензура,2025-12-01,0,-11
+DPI,цензура,2025-12-08,0,-10
+DPI,цензура,2025-12-15,0,-9
+DPI,цензура,2025-12-22,0,-8
+DPI,цензура,2025-12-29,0,-7
+DPI,цензура,2026-01-05,0,-6
+DPI,цензура,2026-01-12,0,-5
+DPI,цензура,2026-01-19,0,-4
+DPI,цензура,2026-01-26,0,-3
+DPI,цензура,2026-02-02,0,-2
+DPI,цензура,2026-02-09,0,-1
+DPI,цензура,2026-02-16,0,0
+DPI,цензура,2026-02-23,0,1
+DPI,цензура,2026-03-02,0,2
+DPI,цензура,2026-03-09,1,3
+DPI,цензура,2026-03-16,1,4
+DPI,цензура,2026-03-23,0,5
+DPI,цензура,2026-03-30,1,6
+DPI,цензура,2026-04-06,0,7
+DPI,цензура,2026-04-13,0,8
+DPI,цензура,2026-04-20,0,9
+DPI,цензура,2026-04-27,0,10
+DPI,цензура,2026-05-04,0,11
+DPI,цензура,2026-05-11,1,12
+DPI,цензура,2026-05-18,0,13
