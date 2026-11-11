@@ -14,7 +14,6 @@ public record ArticleProperties(
     ){}
 
     public record BatchProperties(
-        int partitionConcurrencyLimit,
         int retryLimit
     ){}
 

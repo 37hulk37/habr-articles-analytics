@@ -12,8 +12,6 @@ import java.util.UUID;
 @RequiredArgsConstructor
 public class ItemArticleProcessor implements ItemProcessor<Article, ArticleDocument> {
 
-    private final ArticleRepository articleRepository;
-
     @Override
     public @NonNull ArticleDocument process(@NonNull Article item) {
         var document = new ArticleDocument();

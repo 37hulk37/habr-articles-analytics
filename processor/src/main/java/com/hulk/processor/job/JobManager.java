@@ -37,9 +37,6 @@ public class JobManager {
         }
     }
 
-    public Set<JobExecution> getJobs(String jobName) {
-        return jobRepository.findRunningJobExecutions(jobName);
-    }
 
     public List<String> getJobNames() {
         return List.of(job.getName());

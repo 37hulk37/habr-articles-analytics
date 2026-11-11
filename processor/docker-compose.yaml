@@ -1,39 +1,72 @@
 services:
-  #  app:
-  #    container_name: processor-service
-  #    build: .
-  #    depends_on:
-  #      postgres:
-  #        condition: service_started
-  #      minio:
-  #        condition: service_started
-  #    networks:
-  #      - loader-network
-  #    ports:
-  #      - "8080:8080"
-
   postgres:
-    image: postgres
-    container_name: processor-service-postgres
+    image: postgres:17
+    container_name: processor-postgres
+    mem_limit: 512m
+    cpus: 0.5
     environment:
-      POSTGRES_DB: processor-service
-      POTSGRES_USER: postgres
+      POSTGRES_DB: processor
+      POSTGRES_USER: postgres
       POSTGRES_PASSWORD: postgres
     ports:
-      - "5432:5432"
-    user: postgres
+      - "127.0.0.1:5432:5432"
     networks:
-      - loader-network
+      - processor-network
     healthcheck:
-      test: [ "CMD-SHELL", "pg_isready" ]
-      interval: 1s
-      timeout: 1s
-      retries: 5
+      test: ["CMD-SHELL", "pg_isready -U postgres -d processor"]
+      interval: 5s
+      timeout: 3s
+      retries: 20
+      start_period: 10s
     volumes:
-      - postgres-data:/var/lib/postgresql/data
+      - postgres17-data:/var/lib/postgresql/data
+
+  elasticsearch:
+    image: docker.elastic.co/elasticsearch/elasticsearch-wolfi:9.4.7
+    container_name: processor-elasticsearch
+    mem_limit: 1g
+    cpus: 1.0
+    environment:
+      discovery.type: single-node
+      xpack.security.enabled: "false"
+      xpack.ml.enabled: "false"
+      ES_JAVA_OPTS: "-Xms512m -Xmx512m"
+    ports:
+      - "127.0.0.1:9200:9200"
+    networks:
+      - processor-network
+    healthcheck:
+      test: ["CMD-SHELL", "curl -fsS 'http://localhost:9200/_cluster/health?wait_for_status=yellow&timeout=5s' >/dev/null"]
+      interval: 10s
+      timeout: 10s
+      retries: 30
+    volumes:
+      - elasticsearch-data:/usr/share/elasticsearch/data
+
+  kibana:
+    image: docker.elastic.co/kibana/kibana-wolfi:9.4.7
+    container_name: processor-kibana
+    mem_limit: 1g
+    cpus: 1.0
+    environment:
+      ELASTICSEARCH_HOSTS: '["http://elasticsearch:9200"]'
+      TELEMETRY_ENABLED: "false"
+    ports:
+      - "127.0.0.1:5601:5601"
+    networks:
+      - processor-network
+    depends_on:
+      elasticsearch:
+        condition: service_healthy
+    healthcheck:
+      test: ["CMD-SHELL", "curl -fsS http://localhost:5601/api/status >/dev/null"]
+      interval: 10s
+      timeout: 10s
+      retries: 40
 
 volumes:
-  postgres-data:
+  postgres17-data:
+  elasticsearch-data:
 
 networks:
   processor-network:

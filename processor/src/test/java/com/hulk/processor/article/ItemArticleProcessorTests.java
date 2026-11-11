@@ -15,7 +15,7 @@ class ItemArticleProcessorTests {
         var article = new Article("248135", "https://habr.com/ru/articles/248135/",
             Instant.parse("2015-01-20T22:10:30Z"), "article", "Высокие значения DPI в ОС Windows",
             "lead", null, null, List.of("windows", "dpi"), List.of("DPI"));
-        var processor = new ItemArticleProcessor(mock(ArticleRepository.class));
+        var processor = new ItemArticleProcessor();
 
         var document = processor.process(article);
 
