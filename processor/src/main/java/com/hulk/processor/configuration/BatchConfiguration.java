@@ -1,6 +1,9 @@
 package com.hulk.processor.configuration;
 
 import com.hulk.processor.article.Article;
+import com.hulk.processor.article.ArticleRepository;
+import com.hulk.processor.article.ItemArticleProcessor;
+import com.hulk.processor.model.ArticleDocument;
 import lombok.RequiredArgsConstructor;
 import org.springframework.batch.core.configuration.annotation.StepScope;
 import org.springframework.batch.core.job.Job;
@@ -11,16 +14,13 @@ import org.springframework.batch.core.step.Step;
 import org.springframework.batch.core.step.builder.StepBuilder;
 import org.springframework.batch.infrastructure.item.ItemReader;
 import org.springframework.batch.infrastructure.item.ItemWriter;
-import org.springframework.batch.infrastructure.item.json.JacksonJsonObjectMarshaller;
 import org.springframework.batch.infrastructure.item.json.JacksonJsonObjectReader;
-import org.springframework.batch.infrastructure.item.json.builder.JsonFileItemWriterBuilder;
 import org.springframework.batch.infrastructure.item.json.builder.JsonItemReaderBuilder;
 import org.springframework.beans.factory.InitializingBean;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.boot.context.properties.EnableConfigurationProperties;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
-import org.springframework.core.io.FileSystemResource;
 import org.springframework.core.io.UrlResource;
 import org.springframework.core.io.support.PathMatchingResourcePatternResolver;
 import org.springframework.core.task.SimpleAsyncTaskExecutor;
@@ -38,9 +38,12 @@ public class BatchConfiguration implements InitializingBean {
 
     private final ArticleProperties properties;
 
+    //todo: create path initializer
     @Override
     public void afterPropertiesSet() throws IOException {
-        Files.createDirectories(Path.of(properties.directory().outputDirectory()));
+        Files.createDirectories(Path.of(
+            properties.directory().outputDirectory())
+        );
     }
 
     @Bean
@@ -56,31 +59,17 @@ public class BatchConfiguration implements InitializingBean {
     }
 
     @Bean
-    @StepScope
-    public ItemWriter<Article> articleItemWriter(
-        @Value("#{stepExecutionContext['fileName']}") String fileName,
-        ArticleProperties properties
-    ) throws MalformedURLException {
-        var sourceFileName = new UrlResource(fileName).getFilename();
-        var outputDirectory = Path.of(properties.directory().outputDirectory());
-
-        return new JsonFileItemWriterBuilder<Article>()
-            .name("articleFileWriter")
-            .resource(new FileSystemResource(outputDirectory.resolve(sourceFileName)))
-            .jsonObjectMarshaller(new JacksonJsonObjectMarshaller<>())
-            .build();
-    }
-
-    @Bean
     public Step articleWorkerStep(
         JobRepository jobRepository,
         ItemReader<Article> articleItemReader,
-        ItemWriter<Article> articleItemWriter,
+        ItemArticleProcessor itemArticleProcessor,
+        ItemWriter<ArticleDocument> articleItemWriter,
         ArticleProperties properties
     ) {
         return new StepBuilder("articleWorkerStep", jobRepository)
-            .<Article, Article>chunk(100)
+            .<Article, ArticleDocument>chunk(100)
             .reader(articleItemReader)
+            .processor(itemArticleProcessor)
             .writer(articleItemWriter)
             .faultTolerant()
             .retry(Exception.class)

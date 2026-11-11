@@ -18,7 +18,7 @@ spring:
 
 app:
   directory:
-    source-pattern: file:../parser/data/*.json
+    source-pattern: file:data/*.json
     output-directory: data/output
   batch:
     partition-concurrency-limit: 8
