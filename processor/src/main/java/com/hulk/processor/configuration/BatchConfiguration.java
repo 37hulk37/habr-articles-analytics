@@ -17,31 +17,16 @@ import org.springframework.batch.infrastructure.item.file.builder.MultiResourceI
 import org.springframework.batch.infrastructure.item.json.JacksonJsonObjectReader;
 import org.springframework.batch.infrastructure.item.json.JsonItemReader;
 import org.springframework.batch.infrastructure.item.json.builder.JsonItemReaderBuilder;
-import org.springframework.beans.factory.InitializingBean;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.boot.context.properties.EnableConfigurationProperties;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.core.io.Resource;
 
-import java.io.IOException;
-import java.nio.file.Files;
-import java.nio.file.Path;
-
 @Configuration
 @EnableConfigurationProperties(ArticleProperties.class)
 @RequiredArgsConstructor
-public class BatchConfiguration implements InitializingBean {
-
-    private final ArticleProperties properties;
-
-    //todo: create path initializer
-    @Override
-    public void afterPropertiesSet() throws IOException {
-        Files.createDirectories(Path.of(
-            properties.directory().outputDirectory())
-        );
-    }
+public class BatchConfiguration {
 
     @Bean
     @StepScope
@@ -81,9 +66,7 @@ public class BatchConfiguration implements InitializingBean {
             .writer(articleItemWriter)
             .faultTolerant()
             .retry(Exception.class)
-            .retryLimit(properties.batch()
-                .retryLimit()
-            )
+            .retryLimit(properties.batch().retryLimit())
             .build();
     }
 

@@ -19,7 +19,6 @@ spring:
 app:
   directory:
     source-pattern: file:processor/data/*.json
-    output-directory: data/output
   batch:
     retry-limit: 3
 
